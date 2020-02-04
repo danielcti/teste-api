@@ -1,5 +1,6 @@
 const axios = require("axios");
 const fs = require("fs");
+const express = require("express");
 
 const lojas = [
   {
@@ -37,11 +38,27 @@ async function main() {
       }
       console.log("The file was saved!");
       console.log(data);
+      return data;
     });
   }
 }
 
-main();
+// main();
+
+const app = express();
+
+app.get("/", function(req, res) {
+  const dataAll = "";
+  lojas.forEach(loja => {
+    const data = getLojaInfo(loja.nome, loja.url);
+    dataAll += data;
+  });
+  res.send(data);
+});
+
+app.listen(3000, function() {
+  console.log("Example app listening on port 3000!");
+});
 
 // Auto Oriente (Caruaru): http://xml.dsautoestoque.com/?l=14989426000396&v=2
 // Auto Oriente (Recife): http://xml.dsautoestoque.com/?l=14989426000124&v=2
