@@ -1,0 +1,2047 @@
+<?xml version="1.0" encoding="utf-8"?>
+<estoque>
+
+
+  <veiculo>
+    <id>1342265</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDA-3740</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2145"><![CDATA[ CRUZE ]]></modelo>
+    <versao id="7985"><![CDATA[ 1.4 Turbo LTZ 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>41000</km>
+    <portas>4</portas>
+    <cor id="15">Vermelho</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 74.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>17/01/2020 18:48</cadastro>
+    <alteracao>17/01/2020 18:48</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-3740_01.jpg?u=20200117184638</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-3740_02.jpg?u=20200117184641</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-3740_03.jpg?u=20200117184645</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-3740_04.jpg?u=20200117184647</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-3740_07.jpg?u=20200117184715</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-3740_05.jpg?u=20200117184652</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-3740_06.jpg?u=20200117184700</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-3740_08.jpg?u=20200117184723</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-3740_09.jpg?u=20200117184736</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-3740_10.jpg?u=20200117184748</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-3740_11.jpg?u=20200117184751</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1348056</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>OYR-4622</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2145"><![CDATA[ CRUZE ]]></modelo>
+    <versao id="1613"><![CDATA[ 1.8 LT 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2014</anofabricacao>
+    <anomodelo>2014</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>38756</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 48.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/01/2020 18:55</cadastro>
+    <alteracao>29/01/2020 18:58</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/OYR-4622_01.jpg?u=20200129185408</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1348049</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>OYR-8628</placa>
+    <marca id="39">FIAT</marca>
+    <modelo id="2261"><![CDATA[ GRAND SIENA ]]></modelo>
+    <versao id="2606"><![CDATA[ 1.4 MPI Attractive 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2014</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>14763</km>
+    <portas>4</portas>
+    <cor id="12">Preto</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 34.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/01/2020 18:43</cadastro>
+    <alteracao>29/01/2020 18:44</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/OYR-8628_01.jpg?u=20200129184317</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1303907</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCN-3579</placa>
+    <marca id="41">FORD</marca>
+    <modelo id="357"><![CDATA[ ECOSPORT ]]></modelo>
+    <versao id="2664"><![CDATA[ 1.6 Freestyle 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>43285</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 58.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>30/10/2019 16:22</cadastro>
+    <alteracao>25/11/2019 15:34</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="15">Computador de bordo</opcional>
+      <opcional id="18">Desembaçador traseiro</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="24">Limpador traseiro</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+      <opcional id="1">Air bag do motorista</opcional>
+      <opcional id="2">Air bag do passageiro</opcional>
+      <opcional id="62">Aviso sonoro de faróis acesos</opcional>
+      <opcional id="10">Banco do motorista com ajuste de altura</opcional>
+      <opcional id="11">Banco traseiro bipartido</opcional>
+      <opcional id="67">Bancos com Isofix</opcional>
+      <opcional id="21">Encosto de cabeça traseiro</opcional>
+      <opcional id="22">Faróis de milha</opcional>
+      <opcional id="60">Frisos laterais na cor do veículo</opcional>
+      <opcional id="63">Maçanetas na cor do veículo</opcional>
+      <opcional id="47">Para-Choque pintado na cor do veículo</opcional>
+      <opcional id="26">Porta-copos</opcional>
+      <opcional id="55">Retrovisor com pisca</opcional>
+      <opcional id="64">Retrovisores na cor do veículo</opcional>
+      <opcional id="32">Sensor de estacionamento</opcional>
+      <opcional id="40">Volante com regulagem de altura</opcional>
+      <opcional id="56">Volante espumado</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_15.jpg?u=20191030153932</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_01.jpg?u=20191030153512</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_02.jpg?u=20191030153516</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_03.jpg?u=20191030153533</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_04.jpg?u=20191030153552</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_05.jpg?u=20191030153623</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_06.jpg?u=20191030153705</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_07.jpg?u=20191030153707</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_08.jpg?u=20191030153713</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_09.jpg?u=20191030153811</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_10.jpg?u=20191030153823</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_11.jpg?u=20191030153851</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_12.jpg?u=20191030153852</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_13.jpg?u=20191030153925</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_14.jpg?u=20191030153930</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-3579_16.jpg?u=20191030153941</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1328654</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PEB-8510</placa>
+    <marca id="41">FORD</marca>
+    <modelo id="357"><![CDATA[ ECOSPORT ]]></modelo>
+    <versao id="2664"><![CDATA[ 1.6 Freestyle 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>55902</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 48.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>16/12/2019 15:20</cadastro>
+    <alteracao>17/01/2020 16:24</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEB-8510_01.jpg?u=20200117161446</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEB-8510_02.jpg?u=20200117161454</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEB-8510_03.jpg?u=20200117161529</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEB-8510_05.jpg?u=20200117161542</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEB-8510_04.jpg?u=20200117161541</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEB-8510_06.jpg?u=20200117161614</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEB-8510_07.jpg?u=20200117161615</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEB-8510_08.jpg?u=20200117161617</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEB-8510_09.jpg?u=20200117161622</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEB-8510_10.jpg?u=20200117161640</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEB-8510_11.jpg?u=20200117161654</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1328678</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDQ-1279</placa>
+    <marca id="41">FORD</marca>
+    <modelo id="373"><![CDATA[ FOCUS ]]></modelo>
+    <versao id="7639"><![CDATA[ 2.0 SE 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="13">PowerShift</cambio>
+    <km>40365</km>
+    <portas>4</portas>
+    <cor id="12">Preto</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 46.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>16/12/2019 15:39</cadastro>
+    <alteracao>02/01/2020 17:38</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDQ-1279_01.jpg?u=20200102173619</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDQ-1279_02.jpg?u=20200102173622</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDQ-1279_03.jpg?u=20200102173630</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDQ-1279_04.jpg?u=20200102173725</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDQ-1279_05.jpg?u=20200102173742</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDQ-1279_13.jpg?u=20200102173843</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDQ-1279_14.jpg?u=20200102173845</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDQ-1279_06.jpg?u=20200102173751</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDQ-1279_07.jpg?u=20200102173759</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDQ-1279_08.jpg?u=20200102173802</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDQ-1279_09.jpg?u=20200102173808</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDQ-1279_10.jpg?u=20200102173813</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDQ-1279_11.jpg?u=20200102173818</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDQ-1279_12.jpg?u=20200102173840</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1348040</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCW-0712</placa>
+    <marca id="48">HONDA</marca>
+    <modelo id="425"><![CDATA[ FIT ]]></modelo>
+    <versao id="3434"><![CDATA[ 1.5 EXL 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>58265</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 50.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/01/2020 18:35</cadastro>
+    <alteracao>29/01/2020 18:35</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCW-0712_01.jpg?u=20200129183353</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1347988</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDK-0113</placa>
+    <marca id="48">HONDA</marca>
+    <modelo id="425"><![CDATA[ FIT ]]></modelo>
+    <versao id="3435"><![CDATA[ 1.5 LX 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>39389</km>
+    <portas>4</portas>
+    <cor id="6">Cinza</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 48.490,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/01/2020 18:02</cadastro>
+    <alteracao>29/01/2020 18:02</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDK-0113_01.jpg?u=20200129180119</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1339574</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCQ-7442</placa>
+    <marca id="50">HYUNDAI</marca>
+    <modelo id="2295"><![CDATA[ HB20 ]]></modelo>
+    <versao id="3589"><![CDATA[ 1.0 Comfort Plus 12V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>69503</km>
+    <portas>4</portas>
+    <cor id="10">Marrom</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 38.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>13/01/2020 14:48</cadastro>
+    <alteracao>17/01/2020 17:08</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCQ-7442_01.jpg?u=20200117170749</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCQ-7442_02.jpg?u=20200117170754</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCQ-7442_03.jpg?u=20200117170756</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCQ-7442_04.jpg?u=20200117170758</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCQ-7442_05.jpg?u=20200117170801</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCQ-7442_06.jpg?u=20200117170803</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCQ-7442_07.jpg?u=20200117170805</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCQ-7442_08.jpg?u=20200117170810</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCQ-7442_09.jpg?u=20200117170811</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCQ-7442_10.jpg?u=20200117170814</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCQ-7442_11.jpg?u=20200117170815</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1348030</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCB-5087</placa>
+    <marca id="50">HYUNDAI</marca>
+    <modelo id="2295"><![CDATA[ HB20 ]]></modelo>
+    <versao id="3593"><![CDATA[ 1.6 Comfort Plus 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>18804</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 51.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>29/01/2020 18:28</cadastro>
+    <alteracao>01/02/2020 14:59</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCB-5087_01.jpg?u=20200201145922</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCB-5087_02.jpg?u=20200201145923</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCB-5087_03.jpg?u=20200201145929</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCB-5087_04.jpg?u=20200201145930</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCB-5087_05.jpg?u=20200201145933</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCB-5087_06.jpg?u=20200201145933</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCB-5087_07.jpg?u=20200201145936</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCB-5087_08.jpg?u=20200201145937</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCB-5087_09.jpg?u=20200201145939</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCB-5087_10.jpg?u=20200201145941</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCB-5087_11.jpg?u=20200201145942</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCB-5087_12.jpg?u=20200201145944</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCB-5087_13.jpg?u=20200201145946</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCB-5087_14.jpg?u=20200201145947</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1328545</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDA-9549</placa>
+    <marca id="50">HYUNDAI</marca>
+    <modelo id="2768"><![CDATA[ HB20S ]]></modelo>
+    <versao id="3607"><![CDATA[ 1.6 Premium 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>15239</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 64.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>16/12/2019 12:01</cadastro>
+    <alteracao>23/12/2019 15:43</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-9549_01.jpg?u=20191223154328</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-9549_02.jpg?u=20191223154329</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-9549_03.jpg?u=20191223154332</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-9549_04.jpg?u=20191223154333</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-9549_05.jpg?u=20191223154336</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-9549_06.jpg?u=20191223154337</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-9549_07.jpg?u=20191223154338</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-9549_08.jpg?u=20191223154340</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-9549_09.jpg?u=20191223154340</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-9549_10.jpg?u=20191223154342</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDA-9549_11.jpg?u=20191223154342</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1342245</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PEA-8725</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="760"><![CDATA[ FRONTIER ]]></modelo>
+    <versao id="8594"><![CDATA[ 2.3 16V Turbo LE CD 4X4 ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>13707</km>
+    <portas>4</portas>
+    <cor id="2">Azul</cor>
+    <combustivel id="3">Diesel</combustivel>
+    <preco>R$ 169.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>17/01/2020 18:29</cadastro>
+    <alteracao>17/01/2020 18:29</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-8725_01.jpg?u=20200117182803</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-8725_02.jpg?u=20200117182821</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-8725_03.jpg?u=20200117182824</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-8725_04.jpg?u=20200117182828</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-8725_05.jpg?u=20200117182833</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-8725_06.jpg?u=20200117182839</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-8725_07.jpg?u=20200117182844</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-8725_08.jpg?u=20200117182848</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-8725_09.jpg?u=20200117182849</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-8725_10.jpg?u=20200117182851</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-8725_11.jpg?u=20200117182855</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-8725_12.jpg?u=20200117182857</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-8725_13.jpg?u=20200117182859</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-8725_14.jpg?u=20200117182903</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-8725_15.jpg?u=20200117182905</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1333880</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCK-8864</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="760"><![CDATA[ FRONTIER ]]></modelo>
+    <versao id="8594"><![CDATA[ 2.3 16V Turbo LE CD 4X4 ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>53585</km>
+    <portas>4</portas>
+    <cor id="6">Cinza</cor>
+    <combustivel id="3">Diesel</combustivel>
+    <preco>R$ 121.490,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>28/12/2019 11:29</cadastro>
+    <alteracao>17/01/2020 18:58</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_01.jpg?u=20200117181549</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_02.jpg?u=20200117181552</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_03.jpg?u=20200117181557</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_04.jpg?u=20200117181603</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_05.jpg?u=20200117185822</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_06.jpg?u=20200117185827</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_07.jpg?u=20200117181619</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_08.jpg?u=20200117181624</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_09.jpg?u=20200117181630</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_10.jpg?u=20200117181637</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_11.jpg?u=20200117181642</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_12.jpg?u=20200117181647</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_13.jpg?u=20200117181652</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_14.jpg?u=20200117181657</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_15.jpg?u=20200117181703</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCK-8864_16.jpg?u=20200117181709</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1347992</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDL-9154</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="3615"><![CDATA[ KICKS ]]></modelo>
+    <versao id="8042"><![CDATA[ 1.6 16V SL ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="15">XTronic</cambio>
+    <km>31627</km>
+    <portas>4</portas>
+    <cor id="6">Cinza</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 78.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>29/01/2020 18:04</cadastro>
+    <alteracao>01/02/2020 13:07</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDL-9154_02.jpg?u=20200201130520</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDL-9154_03.jpg?u=20200201130524</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDL-9154_04.jpg?u=20200201130525</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDL-9154_06.jpg?u=20200201130528</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDL-9154_05.jpg?u=20200201125854</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDL-9154_07.jpg?u=20200201125907</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDL-9154_08.jpg?u=20200201125908</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDL-9154_09.jpg?u=20200201125913</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDL-9154_10.jpg?u=20200201130547</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDL-9154_11.jpg?u=20200201130548</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDL-9154_12.jpg?u=20200201130551</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDL-9154_13.jpg?u=20200201130554</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1333946</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PGV-0134</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="3615"><![CDATA[ KICKS ]]></modelo>
+    <versao id="8042"><![CDATA[ 1.6 16V SL ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="15">XTronic</cambio>
+    <km>21394</km>
+    <portas>4</portas>
+    <cor id="12">Preto</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 73.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>28/12/2019 13:00</cadastro>
+    <alteracao>17/01/2020 16:45</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-0134_01.jpg?u=20200117164329</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-0134_02.jpg?u=20200117164335</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-0134_03.jpg?u=20200117164346</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-0134_04.jpg?u=20200117164351</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-0134_05.jpg?u=20200117164357</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-0134_06.jpg?u=20200117164404</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-0134_07.jpg?u=20200117164410</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-0134_08.jpg?u=20200117164418</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-0134_09.jpg?u=20200117164424</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-0134_10.jpg?u=20200117164429</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-0134_11.jpg?u=20200117164433</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-0134_12.jpg?u=20200117164440</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-0134_13.jpg?u=20200117164447</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1347982</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCX-2679</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="3615"><![CDATA[ KICKS ]]></modelo>
+    <versao id="9464"><![CDATA[ 1.6 16vstart S ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>24124</km>
+    <portas>4</portas>
+    <cor id="15">Vermelho</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 63.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/01/2020 17:59</cadastro>
+    <alteracao>29/01/2020 17:59</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCX-2679_01.jpg?u=20200129175754</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1328437</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDI-9461</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="2231"><![CDATA[ MARCH ]]></modelo>
+    <versao id="7362"><![CDATA[ 1.0 Conforto 12V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2016</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>60137</km>
+    <portas>4</portas>
+    <cor id="6">Cinza</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 33.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>16/12/2019 11:42</cadastro>
+    <alteracao>23/12/2019 10:01</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDI-9461_01.jpg?u=20191223100135</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1348211</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCV-6199</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="2231"><![CDATA[ MARCH ]]></modelo>
+    <versao id="7364"><![CDATA[ 1.0 SV 12V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>41000</km>
+    <portas>4</portas>
+    <cor id="12">Preto</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 37.895,42</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>30/01/2020 11:00</cadastro>
+    <alteracao>30/01/2020 11:00</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6199_01.jpg?u=20200130105528</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6199_02.jpg?u=20200130105558</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6199_03.jpg?u=20200130105614</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6199_05.jpg?u=20200130105626</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6199_04.jpg?u=20200130105623</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6199_06.jpg?u=20200130105637</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6199_07.jpg?u=20200130105645</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6199_08.jpg?u=20200130105650</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6199_09.jpg?u=20200130105654</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6199_10.jpg?u=20200130105657</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6199_11.jpg?u=20200130105706</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6199_12.jpg?u=20200130105708</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1350418</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCV-6019</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="773"><![CDATA[ SENTRA ]]></modelo>
+    <versao id="8987"><![CDATA[ 2.0 SL 16vstart ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>14704</km>
+    <portas>4</portas>
+    <cor id="6">Cinza</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 89.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>04/02/2020 09:56</cadastro>
+    <alteracao>04/02/2020 09:56</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="71">Start / Stop Engine</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6019_01.jpg?u=20200204094841</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6019_03.jpg?u=20200204094857</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6019_02.jpg?u=20200204094845</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6019_04.jpg?u=20200204094910</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6019_05.jpg?u=20200204094915</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6019_06.jpg?u=20200204094921</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6019_07.jpg?u=20200204095034</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6019_08.jpg?u=20200204095037</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6019_11.jpg?u=20200204095312</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6019_10.jpg?u=20200204095053</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6019_12.jpg?u=20200204095347</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6019_13.jpg?u=20200204095353</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCV-6019_14.jpg?u=20200204095357</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1341394</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PGV-5051</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="2252"><![CDATA[ VERSA ]]></modelo>
+    <versao id="7450"><![CDATA[ 1.6 16V SV ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="15">XTronic</cambio>
+    <km>44315</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 46.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>16/01/2020 16:42</cadastro>
+    <alteracao>16/01/2020 16:42</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-5051_01.jpg?u=20200116164123</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-5051_02.jpg?u=20200116164126</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-5051_03.jpg?u=20200116164130</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-5051_04.jpg?u=20200116164133</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-5051_05.jpg?u=20200116164139</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-5051_06.jpg?u=20200116164143</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-5051_07.jpg?u=20200116164146</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-5051_08.jpg?u=20200116164150</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-5051_09.jpg?u=20200116164154</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-5051_10.jpg?u=20200116164158</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-5051_11.jpg?u=20200116164201</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-5051_12.jpg?u=20200116164207</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGV-5051_13.jpg?u=20200116164211</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1348055</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDW-0017</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="2252"><![CDATA[ VERSA ]]></modelo>
+    <versao id="7450"><![CDATA[ 1.6 16V SV ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>46063</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 44.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/01/2020 18:52</cadastro>
+    <alteracao>29/01/2020 18:52</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDW-0017_01.jpg?u=20200129185151</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1348221</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCZ-6689</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="2252"><![CDATA[ VERSA ]]></modelo>
+    <versao id="8926"><![CDATA[ 1.6 16vstart SL ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>26751</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 59.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>30/01/2020 11:12</cadastro>
+    <alteracao>30/01/2020 11:12</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCZ-6689_01.jpg?u=20200130111203</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1333868</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>OYZ-8439</placa>
+    <marca id="89">RENAULT</marca>
+    <modelo id="2232"><![CDATA[ DUSTER ]]></modelo>
+    <versao id="5812"><![CDATA[ 1.6 Dynamique 4X2 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2014</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>49934</km>
+    <portas>4</portas>
+    <cor id="15">Vermelho</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 42.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>28/12/2019 11:17</cadastro>
+    <alteracao>28/12/2019 11:27</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/OYZ-8439_01.jpg?u=20191228112703</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1333944</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PGM-6294</placa>
+    <marca id="107">TOYOTA</marca>
+    <modelo id="895"><![CDATA[ COROLLA ]]></modelo>
+    <versao id="6110"><![CDATA[ 1.8 GLI 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2013</anofabricacao>
+    <anomodelo>2014</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>49286</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 52.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>28/12/2019 12:56</cadastro>
+    <alteracao>16/01/2020 16:54</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGM-6294_01.jpg?u=20200116165339</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGM-6294_02.jpg?u=20200116165341</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGM-6294_03.jpg?u=20200116165344</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGM-6294_04.jpg?u=20200116165348</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGM-6294_05.jpg?u=20200116165401</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGM-6294_06.jpg?u=20200116165406</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGM-6294_07.jpg?u=20200116165411</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGM-6294_08.jpg?u=20200116165414</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGM-6294_09.jpg?u=20200116165418</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGM-6294_10.jpg?u=20200116165423</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGM-6294_11.jpg?u=20200116165428</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGM-6294_12.jpg?u=20200116165432</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGM-6294_13.jpg?u=20200116165437</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGM-6294_14.jpg?u=20200116165442</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1347995</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCQ-0112</placa>
+    <marca id="107">TOYOTA</marca>
+    <modelo id="2296"><![CDATA[ ETIOS ]]></modelo>
+    <versao id="6251"><![CDATA[ 1.3 X 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>31989</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 41.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/01/2020 18:07</cadastro>
+    <alteracao>29/01/2020 18:07</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCQ-0112_01.jpg?u=20200129180609</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1348045</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PEA-7549</placa>
+    <marca id="107">TOYOTA</marca>
+    <modelo id="2296"><![CDATA[ ETIOS ]]></modelo>
+    <versao id="7174"><![CDATA[ 1.5 Platinum 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>62672</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 51.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/01/2020 18:39</cadastro>
+    <alteracao>29/01/2020 18:39</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PEA-7549_01.jpg?u=20200129183850</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1347973</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PGS-0041</placa>
+    <marca id="109">VOLKSWAGEN</marca>
+    <modelo id="932"><![CDATA[ FOX ]]></modelo>
+    <versao id="6307"><![CDATA[ 1.6 MI 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2013</anofabricacao>
+    <anomodelo>2014</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>66131</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 28.000,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/01/2020 17:56</cadastro>
+    <alteracao>29/01/2020 17:56</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGS-0041_01.jpg?u=20200129175408</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1348227</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PGZ-2284</placa>
+    <marca id="109">VOLKSWAGEN</marca>
+    <modelo id="932"><![CDATA[ FOX ]]></modelo>
+    <versao id="7592"><![CDATA[ 1.6 MSI Trendline 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>40384</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 35.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>30/01/2020 11:18</cadastro>
+    <alteracao>30/01/2020 11:18</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PGZ-2284_01.jpg?u=20200130111736</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+</estoque>
