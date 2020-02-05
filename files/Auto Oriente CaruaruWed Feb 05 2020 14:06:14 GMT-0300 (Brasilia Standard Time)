@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="utf-8"?>
+<estoque>
+  <veiculo>
+    <id>1347839</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCL-1291</placa>
+    <marca id="14">BMW</marca>
+    <modelo id="2075"><![CDATA[ X1 ]]></modelo>
+    <versao id="8397"><![CDATA[ 2.0 16V Turbo Activeflex Sdrive20i ]]></versao>
+    <tipomotor></tipomotor>
+    <anofabricacao>2014</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>33286</km>
+    <portas>4</portas>
+    <cor id="2">Azul</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 83.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/01/2020 15:56</cadastro>
+    <alteracao>29/01/2020 15:56</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCL-1291_01.jpg?u=20200129155545</foto>
+    </fotos>
+    <foto360>
+      <exterior></exterior>
+      <interior></interior>
+    </foto360>
+    <urlVideo></urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento></complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax></fax>
+        <nextel></nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1328874</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDZ-9064</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="175"><![CDATA[ CLASSIC ]]></modelo>
+    <versao id="1033"><![CDATA[ 1.0 MPFI LS 8V ]]></versao>
+    <tipomotor></tipomotor>
+    <anofabricacao>2014</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>77251</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 25.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>16/12/2019 17:09</cadastro>
+    <alteracao>16/12/2019 17:09</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-9064_01.jpg?u=20191216170808</foto>
+    </fotos>
+    <foto360>
+      <exterior></exterior>
+      <interior></interior>
+    </foto360>
+    <urlVideo></urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento></complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax></fax>
+        <nextel></nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1347812</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PGY-0602</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="1655"><![CDATA[ 1.0 MPFI LS 8V ]]></versao>
+    <tipomotor></tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2016</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>50464</km>
+    <portas>4</portas>
+    <cor id="12">Preto</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 33.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/01/2020 15:23</cadastro>
+    <alteracao>29/01/2020 15:23</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PGY-0602_01.jpg?u=20200129152146</foto>
+    </fotos>
+    <foto360>
+      <exterior></exterior>
+      <interior></interior>
+    </foto360>
+    <urlVideo></urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento></complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax></fax>
+        <nextel></nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1347835</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PEA-9169</placa>
+    <marca id="39">FIAT</marca>
+    <modelo id="3729"><![CDATA[ ARGO ]]></modelo>
+    <versao id="8692"><![CDATA[ 1.3 Firefly Drive ]]></versao>
+    <tipomotor></tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>27000</km>
+    <portas>4</portas>
+    <cor id="6">Cinza</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 44.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/01/2020 15:53</cadastro>
+    <alteracao>29/01/2020 15:53</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PEA-9169_02.jpg?u=20200129155354</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PEA-9169_01.jpg?u=20200129155152</foto>
+    </fotos>
+    <foto360>
+      <exterior></exterior>
+      <interior></interior>
+    </foto360>
+    <urlVideo></urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento></complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax></fax>
+        <nextel></nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1347821</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>KIH-5426</placa>
+    <marca id="39">FIAT</marca>
+    <modelo id="332"><![CDATA[ PALIO ]]></modelo>
+    <versao id="2341"><![CDATA[ 1.4 MPI Attractive 8V ]]></versao>
+    <tipomotor></tipomotor>
+    <anofabricacao>2013</anofabricacao>
+    <anomodelo>2014</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>84900</km>
+    <portas>4</portas>
+    <cor id="6">Cinza</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 27.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/01/2020 15:45</cadastro>
+    <alteracao>29/01/2020 15:45</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/KIH-5426_01.jpg?u=20200129154453</foto>
+    </fotos>
+    <foto360>
+      <exterior></exterior>
+      <interior></interior>
+    </foto360>
+    <urlVideo></urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento></complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax></fax>
+        <nextel></nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1334013</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCN-3579</placa>
+    <marca id="41">FORD</marca>
+    <modelo id="357"><![CDATA[ ECOSPORT ]]></modelo>
+    <versao id="2664"><![CDATA[ 1.6 Freestyle 16V ]]></versao>
+    <tipomotor></tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>42588</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 54.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>28/12/2019 14:52</cadastro>
+    <alteracao>08/01/2020 17:25</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCN-3579_01.jpg?u=20200108170849</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCN-3579_03.jpg?u=20200108170856</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCN-3579_02.jpg?u=20200108170850</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCN-3579_04.jpg?u=20200108170858</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCN-3579_05.jpg?u=20200108170904</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCN-3579_06.jpg?u=20200108170905</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCN-3579_07.jpg?u=20200108170906</foto>
+    </fotos>
+    <foto360>
+      <exterior></exterior>
+      <interior></interior>
+    </foto360>
+    <urlVideo></urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento></complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax></fax>
+        <nextel></nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1334014</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCP-0768</placa>
+    <marca id="50">HYUNDAI</marca>
+    <modelo id="2768"><![CDATA[ HB20S ]]></modelo>
+    <versao id="3607"><![CDATA[ 1.6 Premium 16V ]]></versao>
+    <tipomotor></tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>56000</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 63.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>28/12/2019 14:58</cadastro>
+    <alteracao>28/12/2019 15:02</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCP-0768_01.jpg?u=20191228145717</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCP-0768_02.jpg?u=20191228145719</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCP-0768_03.jpg?u=20191228145722</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCP-0768_04.jpg?u=20191228145723</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCP-0768_05.jpg?u=20191228145727</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCP-0768_06.jpg?u=20191228145728</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCP-0768_07.jpg?u=20191228145730</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCP-0768_08.jpg?u=20191228145731</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCP-0768_09.jpg?u=20191228145733</foto>
+    </fotos>
+    <foto360>
+      <exterior></exterior>
+      <interior></interior>
+    </foto360>
+    <urlVideo></urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento></complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax></fax>
+        <nextel></nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1339727</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDW-0807</placa>
+    <marca id="78">MITSUBISHI</marca>
+    <modelo id="2251"><![CDATA[ L200 TRITON ]]></modelo>
+    <versao id="4984"><![CDATA[ 3.2 HPE 4X4 CD 16V Turbo Intercooler ]]></versao>
+    <tipomotor></tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>26000</km>
+    <portas>4</portas>
+    <cor id="1">Amarelo</cor>
+    <combustivel id="3">Diesel</combustivel>
+    <preco>R$ 108.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>13/01/2020 17:13</cadastro>
+    <alteracao>13/01/2020 17:52</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDW-0807_01.jpg?u=20200113171213</foto>
+    </fotos>
+    <foto360>
+      <exterior></exterior>
+      <interior></interior>
+    </foto360>
+    <urlVideo></urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento></complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax></fax>
+        <nextel></nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1319637</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PEB-0301</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="3615"><![CDATA[ KICKS ]]></modelo>
+    <versao id="8042"><![CDATA[ 1.6 16V SL ]]></versao>
+    <tipomotor></tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="15">XTronic</cambio>
+    <km>57400</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 70.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/11/2019 18:20</cadastro>
+    <alteracao>06/01/2020 15:45</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PEB-0301_01.jpg?u=20191129182042</foto>
+    </fotos>
+    <foto360>
+      <exterior></exterior>
+      <interior></interior>
+    </foto360>
+    <urlVideo></urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento></complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax></fax>
+        <nextel></nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1334026</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDM-2812</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="3615"><![CDATA[ KICKS ]]></modelo>
+    <versao id="9468"><![CDATA[ 1.6 16vstart SV Limited ]]></versao>
+    <tipomotor></tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="15">XTronic</cambio>
+    <km>57079</km>
+    <portas>4</portas>
+    <cor id="6">Cinza</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 62.500,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>28/12/2019 15:11</cadastro>
+    <alteracao>06/01/2020 15:02</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_01.jpg?u=20191228150932</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_02.jpg?u=20191228150937</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_04.jpg?u=20191228151103</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_03.jpg?u=20191228150938</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_05.jpg?u=20191228151104</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_06.jpg?u=20191228151107</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_07.jpg?u=20191228151114</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_08.jpg?u=20191228151119</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_09.jpg?u=20191228151120</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_10.jpg?u=20191228151127</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_11.jpg?u=20191228151129</foto>
+    </fotos>
+    <foto360>
+      <exterior></exterior>
+      <interior></interior>
+    </foto360>
+    <urlVideo></urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento></complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax></fax>
+        <nextel></nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1334018</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDD-9984</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="2231"><![CDATA[ MARCH ]]></modelo>
+    <versao id="7363"><![CDATA[ 1.0 S 12V ]]></versao>
+    <tipomotor></tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2016</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>89400</km>
+    <portas>4</portas>
+    <cor id="12">Preto</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 27.000,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>28/12/2019 15:06</cadastro>
+    <alteracao>28/12/2019 15:06</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDD-9984_01.jpg?u=20191228150406</foto>
+    </fotos>
+    <foto360>
+      <exterior></exterior>
+      <interior></interior>
+    </foto360>
+    <urlVideo></urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento></complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax></fax>
+        <nextel></nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1347808</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDZ-0231</placa>
+    <marca id="89">RENAULT</marca>
+    <modelo id="842"><![CDATA[ SANDERO ]]></modelo>
+    <versao id="8508"><![CDATA[ 1.6 16V SCE Stepway ]]></versao>
+    <tipomotor></tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>37188</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 43.490,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>29/01/2020 15:15</cadastro>
+    <alteracao>04/02/2020 11:11</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-0231_01.jpg?u=20200204111052</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-0231_02.jpg?u=20200204111054</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-0231_03.jpg?u=20200204111057</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-0231_04.jpg?u=20200204111059</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-0231_05.jpg?u=20200204111102</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-0231_06.jpg?u=20200204111104</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-0231_07.jpg?u=20200204111107</foto>
+    </fotos>
+    <foto360>
+      <exterior></exterior>
+      <interior></interior>
+    </foto360>
+    <urlVideo></urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento></complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax></fax>
+        <nextel></nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1334036</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>QPM-4431</placa>
+    <marca id="109">VOLKSWAGEN</marca>
+    <modelo id="934"><![CDATA[ GOL ]]></modelo>
+    <versao id="9198"><![CDATA[ 1.0 12V MPI Totalflex ]]></versao>
+    <tipomotor></tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>32446</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 34.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>28/12/2019 15:22</cadastro>
+    <alteracao>06/01/2020 15:47</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_01.jpg?u=20191228152130</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_02.jpg?u=20191228152132</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_03.jpg?u=20191228152133</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_04.jpg?u=20191228152135</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_05.jpg?u=20191228152137</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_06.jpg?u=20191228152144</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_07.jpg?u=20191228152145</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_08.jpg?u=20191228152148</foto>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_09.jpg?u=20191228152150</foto>
+    </fotos>
+    <foto360>
+      <exterior></exterior>
+      <interior></interior>
+    </foto360>
+    <urlVideo></urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento></complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax></fax>
+        <nextel></nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1334008</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCN-0282</placa>
+    <marca id="109">VOLKSWAGEN</marca>
+    <modelo id="934"><![CDATA[ GOL ]]></modelo>
+    <versao id="7912"><![CDATA[ 1.6 MSI Totalflex Trendline ]]></versao>
+    <tipomotor></tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>31398</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 34.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>28/12/2019 14:40</cadastro>
+    <alteracao>28/12/2019 14:42</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+    <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCN-0282_01.jpg?u=20191228144012</foto>
+    </fotos>
+    <foto360>
+      <exterior></exterior>
+      <interior></interior>
+    </foto360>
+    <urlVideo></urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento></complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax></fax>
+        <nextel></nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+</estoque>
