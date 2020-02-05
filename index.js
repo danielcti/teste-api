@@ -48,12 +48,15 @@ async function main() {
 const app = express();
 
 app.get("/", function(req, res) {
-  const dataAll = "";
-  lojas.forEach(loja => {
-    const data = getLojaInfo(loja.nome, loja.url);
-    dataAll += data;
-  });
-  res.send(data);
+  // const dataAll = "";
+  // lojas.forEach(loja => {
+  //   const data = getLojaInfo(loja.nome, loja.url);
+  //   dataAll += data;
+  // });
+  // res.send(data);
+  res.send({
+    hello: 'world'
+  })
 });
 
 app.listen(3000, function() {
