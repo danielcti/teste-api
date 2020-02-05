@@ -9,18 +9,18 @@ const lojas = [
     nome: "Auto Oriente Caruaru",
     url: "http://xml.dsautoestoque.com/?l=14989426000396&v=2"
   },
-  {
-    nome: "Auto Oriente Recife",
-    url: "http://xml.dsautoestoque.com/?l=14989426000124&v=2"
-  },
-  {
-    nome: "Autonunes Boa Viagem",
-    url: "http://xml.dsautoestoque.com/?l=40889222000393&v=2"
-  },
-  {
-    nome: "Autonunes Cabo",
-    url: "http://xml.dsautoestoque.com/?l=40889222000555&v=2"
-  }
+  // {
+  //   nome: "Auto Oriente Recife",
+  //   url: "http://xml.dsautoestoque.com/?l=14989426000124&v=2"
+  // },
+  // {
+  //   nome: "Autonunes Boa Viagem",
+  //   url: "http://xml.dsautoestoque.com/?l=40889222000393&v=2"
+  // },
+  // {
+  //   nome: "Autonunes Cabo",
+  //   url: "http://xml.dsautoestoque.com/?l=40889222000555&v=2"
+  // }
 ];
 
 async function main() {
@@ -54,8 +54,9 @@ app.get("/", async function(req, res) {
   lojas.forEach(loja => {
     const data = await getLojaInfo(loja.nome, loja.url);
     dataAll += data;
+    res.send(data);
   });
-  res.send(dataAll);
+  // res.send(dataAll);
 });
 
 
