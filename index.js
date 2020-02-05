@@ -27,38 +27,35 @@ async function main() {
   lojas.forEach(async loja => {
     await getLojaInfo(loja.nome, loja.url);
   });
+}
 
-  async function getLojaInfo(nome, url) {
-    const response = await axios.get(url);
+async function getLojaInfo(nome, url) {
+  const response = await axios.get(url);
 
-    const data = response.data;
-    const today = new Date();
-    const fileName = nome + today;
-    fs.writeFile(__dirname + "/files/" + fileName, data, function(err) {
-      if (err) {
-        return console.log(err);
-      }
-      console.log("The file was saved!");
-      console.log(data);
-      return data;
-    });
-  }
+  const data = response.data;
+  const today = new Date();
+  const fileName = nome + today;
+  fs.writeFile(__dirname + "/files/" + fileName, data, function(err) {
+    if (err) {
+      return console.log(err);
+    }
+    console.log("The file was saved!");
+    console.log(data);
+    return data;
+  });
 }
 
 // main();
 
 const app = express();
 
-app.get("/", function(req, res) {
-  // const dataAll = "";
-  // lojas.forEach(loja => {
-  //   const data = getLojaInfo(loja.nome, loja.url);
-  //   dataAll += data;
-  // });
-  // res.send(data);
-  res.send({
-    hello: 'world'
-  })
+app.get("/", async function(req, res) {
+  const dataAll = "";
+  lojas.forEach(loja => {
+    const data = await getLojaInfo(loja.nome, loja.url);
+    dataAll += data;
+  });
+  res.send(dataAll);
 });
 
 
