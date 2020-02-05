@@ -1,6 +1,8 @@
 const axios = require("axios");
 const fs = require("fs");
 const express = require("express");
+const cors = require('cors');
+const bodyParser = require('body-parser');
 
 const lojas = [
   {
@@ -59,9 +61,14 @@ app.get("/", function(req, res) {
   })
 });
 
-app.listen(3000, function() {
-  console.log("Example app listening on port 3000!");
-});
+
+
+app.use(cors())
+
+app.use(bodyParser.json());
+
+app.listen(process.env.PORT || 3333);
+
 
 // Auto Oriente (Caruaru): http://xml.dsautoestoque.com/?l=14989426000396&v=2
 // Auto Oriente (Recife): http://xml.dsautoestoque.com/?l=14989426000124&v=2
