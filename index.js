@@ -3,6 +3,12 @@ const fs = require("fs");
 const express = require("express");
 const cors = require('cors');
 const bodyParser = require('body-parser');
+const fsp = require('fs').promises;
+const util = require('util');
+
+const readdir = util.promisify(fs.readdir);
+
+const app = express();
 
 const lojas = [
   {
@@ -20,14 +26,18 @@ const lojas = [
   {
     nome: "Autonunes Cabo",
     url: "http://xml.dsautoestoque.com/?l=40889222000555&v=2"
-  }
+  },
+  // {
+  //   nome: "Caxanga",
+  //   url: "http://xml.dsautoestoque.com/?l=09924937000128&v=2"
+  // }
 ];
 
-async function main() {
-  lojas.forEach(async loja => {
-    await getLojaInfo(loja.nome, loja.url);
-  });
-}
+// async function main() {
+//   lojas.forEach(async loja => {
+//     await getLojaInfo(loja.nome, loja.url);
+//   });
+// }
 
 async function getLojaInfo(nome, url) {
   const response = await axios.get(url);
@@ -40,25 +50,31 @@ async function getLojaInfo(nome, url) {
       return console.log(err);
     }
     console.log("The file was saved!");
-    console.log(data);
+    // console.log(data);
     return data;
   });
 }
 
-// main();
-
-const app = express();
-
 app.get("/", async function(req, res) {
-  const dataAll = "";
-  lojas.forEach(loja => {
-    const data = await getLojaInfo(loja.nome, loja.url);
-    dataAll += data;
-  });
-  res.send(dataAll);
+  const files = await readdir(__dirname + '/files');
+
+  const promise = await files.map(async file => {
+      const data = await fsp.readFile(__dirname + '/files/' + file);
+
+      return data.toString();
+  })
+
+  const content = await Promise.all(promise);
+
+  res.send(content);
 });
 
-
+app.get("/updateFiles", async function(req, res) {
+  await lojas.forEach(async loja => {
+    await getLojaInfo(loja.nome, loja.url);
+  });
+  return res.send({hello: "world"})
+});
 
 app.use(cors())
 
