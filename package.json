@@ -14,9 +14,14 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+<<<<<<< HEAD
     "promisify": "0.0.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
+=======
+    "xml-js": "^1.6.11",
+    "xml2json": "^0.12.0"
+>>>>>>> d0a7482de2d264a6dacb913d9850a3002d310f24
   }
 }
