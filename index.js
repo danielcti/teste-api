@@ -3,12 +3,12 @@ const fs = require("fs");
 const express = require("express");
 const cors = require('cors');
 const bodyParser = require('body-parser');
-const fsp = require('fs').promises;
+const parseString = require('xml2js').parseString;
 const util = require('util');
 
-const readdir = util.promisify(fs.readdir);
-
+const fsp = fs.promises;
 const app = express();
+const readdir = util.promisify(fs.readdir);
 
 const lojas = [
   {
@@ -33,12 +33,6 @@ const lojas = [
   // }
 ];
 
-// async function main() {
-//   lojas.forEach(async loja => {
-//     await getLojaInfo(loja.nome, loja.url);
-//   });
-// }
-
 async function getLojaInfo(nome, url) {
   const response = await axios.get(url);
 
@@ -60,8 +54,14 @@ app.get("/", async function(req, res) {
 
   const promise = await files.map(async file => {
       const data = await fsp.readFile(__dirname + '/files/' + file);
-
-      return data.toString();
+      const parsedData = data.toString();
+      let content;
+      await parseString(parsedData, function (err, result) {
+        console.log(result);
+        content = result;
+      });
+      
+      return content;
   })
 
   const content = await Promise.all(promise);

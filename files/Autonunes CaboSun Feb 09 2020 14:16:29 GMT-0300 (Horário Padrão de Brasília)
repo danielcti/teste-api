@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <estoque>
+
+
   <veiculo>
     <id>1345146</id>
     <tipoveiculo>Carro</tipoveiculo>
@@ -8,7 +10,8 @@
     <marca id="23">CHEVROLET</marca>
     <modelo id="2244"><![CDATA[ COBALT ]]></modelo>
     <versao id="7833"><![CDATA[ 1.8 MPFI Elite 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2017</anofabricacao>
     <anomodelo>2018</anomodelo>
     <cambio id="1">Automático</cambio>
@@ -24,13 +27,16 @@
     <opcionais />
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEB-7919_01.jpg?u=20200123163128</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEB-7919_01.jpg?u=20200123163128</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -38,7 +44,8 @@
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -48,8 +55,10 @@
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -62,7 +71,8 @@
     <marca id="23">CHEVROLET</marca>
     <modelo id="2244"><![CDATA[ COBALT ]]></modelo>
     <versao id="1640"><![CDATA[ 1.8 MPFI LTZ 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2018</anofabricacao>
     <anomodelo>2018</anomodelo>
     <cambio id="1">Automático</cambio>
@@ -78,13 +88,16 @@
     <opcionais />
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCZ-7925_01.jpg?u=20200123160219</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCZ-7925_01.jpg?u=20200123160219</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -92,7 +105,8 @@
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -102,8 +116,10 @@
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -116,7 +132,8 @@
     <marca id="23">CHEVROLET</marca>
     <modelo id="195"><![CDATA[ MONTANA ]]></modelo>
     <versao id="1217"><![CDATA[ 1.4 MPFI LS CS 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2014</anofabricacao>
     <anomodelo>2015</anomodelo>
     <cambio id="3">Manual</cambio>
@@ -139,13 +156,16 @@
     </opcionais>
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCD-2452_01.jpg?u=20200204160217</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCD-2452_01.jpg?u=20200204160217</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -153,7 +173,8 @@
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -163,8 +184,10 @@
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -177,7 +200,8 @@
     <marca id="23">CHEVROLET</marca>
     <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
     <versao id="8044"><![CDATA[ 1.4 MPFI Activ 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2017</anofabricacao>
     <anomodelo>2017</anomodelo>
     <cambio id="3">Manual</cambio>
@@ -202,25 +226,28 @@
     </opcionais>
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_01.jpg?u=20200131162011</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_02.jpg?u=20200131162014</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_04.jpg?u=20200131162020</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_03.jpg?u=20200131162018</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_13.jpg?u=20200131162140</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_05.jpg?u=20200131162029</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_06.jpg?u=20200131162033</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_07.jpg?u=20200131162037</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_08.jpg?u=20200131162042</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_10.jpg?u=20200131162114</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_09.jpg?u=20200131162100</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_11.jpg?u=20200131162122</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_12.jpg?u=20200131162129</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_01.jpg?u=20200131162011</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_02.jpg?u=20200131162014</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_04.jpg?u=20200131162020</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_03.jpg?u=20200131162018</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_13.jpg?u=20200131162140</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_05.jpg?u=20200131162029</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_06.jpg?u=20200131162033</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_07.jpg?u=20200131162037</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_08.jpg?u=20200131162042</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_10.jpg?u=20200131162114</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_09.jpg?u=20200131162100</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_11.jpg?u=20200131162122</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCJ-0924_12.jpg?u=20200131162129</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -228,7 +255,8 @@
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -238,8 +266,10 @@
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -252,7 +282,8 @@
     <marca id="23">CHEVROLET</marca>
     <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
     <versao id="8044"><![CDATA[ 1.4 MPFI Activ 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2017</anofabricacao>
     <anomodelo>2018</anomodelo>
     <cambio id="3">Manual</cambio>
@@ -268,19 +299,22 @@
     <opcionais />
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0869_01.jpg?u=20200111143753</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0869_02.jpg?u=20200111143754</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0869_03.jpg?u=20200111143758</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0869_04.jpg?u=20200111143800</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0869_05.jpg?u=20200111143803</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0869_06.jpg?u=20200111143804</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0869_07.jpg?u=20200111143807</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0869_01.jpg?u=20200111143753</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0869_02.jpg?u=20200111143754</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0869_03.jpg?u=20200111143758</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0869_04.jpg?u=20200111143800</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0869_05.jpg?u=20200111143803</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0869_06.jpg?u=20200111143804</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0869_07.jpg?u=20200111143807</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -288,7 +322,8 @@
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -298,8 +333,10 @@
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -312,7 +349,8 @@
     <marca id="23">CHEVROLET</marca>
     <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
     <versao id="1657"><![CDATA[ 1.4 MPFI LT 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2015</anofabricacao>
     <anomodelo>2015</anomodelo>
     <cambio id="1">Automático</cambio>
@@ -328,13 +366,16 @@
     <opcionais />
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-3065_01.jpg?u=20200123160424</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-3065_01.jpg?u=20200123160424</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -342,7 +383,8 @@
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -352,8 +394,10 @@
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -366,7 +410,8 @@
     <marca id="23">CHEVROLET</marca>
     <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
     <versao id="1657"><![CDATA[ 1.4 MPFI LT 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2017</anofabricacao>
     <anomodelo>2017</anomodelo>
     <cambio id="3">Manual</cambio>
@@ -389,20 +434,23 @@
     </opcionais>
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_01.jpg?u=20200206180830</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_02.jpg?u=20200206181003</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_05.jpg?u=20200206181148</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_03.jpg?u=20200206181009</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_04.jpg?u=20200206181010</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_06.jpg?u=20200206181156</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_07.jpg?u=20200206181159</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_08.jpg?u=20200206181200</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_01.jpg?u=20200206180830</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_02.jpg?u=20200206181003</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_05.jpg?u=20200206181148</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_03.jpg?u=20200206181009</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_04.jpg?u=20200206181010</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_06.jpg?u=20200206181156</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_07.jpg?u=20200206181159</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PGW-0594_08.jpg?u=20200206181200</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -410,7 +458,8 @@
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -420,8 +469,10 @@
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -434,7 +485,8 @@
     <marca id="23">CHEVROLET</marca>
     <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
     <versao id="1658"><![CDATA[ 1.4 MPFI LTZ 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2017</anofabricacao>
     <anomodelo>2017</anomodelo>
     <cambio id="3">Manual</cambio>
@@ -459,13 +511,16 @@
     </opcionais>
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCQ-4875_01.jpg?u=20200128115951</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCQ-4875_01.jpg?u=20200128115951</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -473,7 +528,8 @@
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -483,8 +539,10 @@
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -497,7 +555,8 @@
     <marca id="23">CHEVROLET</marca>
     <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
     <versao id="1658"><![CDATA[ 1.4 MPFI LTZ 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2018</anofabricacao>
     <anomodelo>2018</anomodelo>
     <cambio id="3">Manual</cambio>
@@ -513,22 +572,25 @@
     <opcionais />
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_01.jpg?u=20200120182015</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_02.jpg?u=20200120182019</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_03.jpg?u=20200120182021</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_04.jpg?u=20200120182026</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_05.jpg?u=20200120182028</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_06.jpg?u=20200120182032</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_07.jpg?u=20200120182034</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_08.jpg?u=20200120182036</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_09.jpg?u=20200120182039</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_10.jpg?u=20200120182042</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_01.jpg?u=20200120182015</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_02.jpg?u=20200120182019</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_03.jpg?u=20200120182021</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_04.jpg?u=20200120182026</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_05.jpg?u=20200120182028</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_06.jpg?u=20200120182032</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_07.jpg?u=20200120182034</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_08.jpg?u=20200120182036</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_09.jpg?u=20200120182039</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDO-7014_10.jpg?u=20200120182042</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -536,7 +598,8 @@
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -546,8 +609,10 @@
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -560,7 +625,8 @@
     <marca id="23">CHEVROLET</marca>
     <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
     <versao id="1658"><![CDATA[ 1.4 MPFI LTZ 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2015</anofabricacao>
     <anomodelo>2015</anomodelo>
     <cambio id="3">Manual</cambio>
@@ -585,13 +651,16 @@
     </opcionais>
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDL-0113_01.jpg?u=20200204113007</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDL-0113_01.jpg?u=20200204113007</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -599,7 +668,8 @@
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -609,8 +679,10 @@
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -623,7 +695,8 @@
     <marca id="23">CHEVROLET</marca>
     <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
     <versao id="8058"><![CDATA[ 1.0 MPFI JOY 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2016</anofabricacao>
     <anomodelo>2017</anomodelo>
     <cambio id="3">Manual</cambio>
@@ -639,13 +712,16 @@
     <opcionais />
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCM-8752_01.jpg?u=20191231112551</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCM-8752_01.jpg?u=20191231112551</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -653,7 +729,8 @@
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -663,8 +740,10 @@
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -677,7 +756,8 @@
     <marca id="23">CHEVROLET</marca>
     <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
     <versao id="1308"><![CDATA[ 1.4 MPFI LTZ 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2016</anofabricacao>
     <anomodelo>2017</anomodelo>
     <cambio id="3">Manual</cambio>
@@ -727,28 +807,31 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     </opcionais>
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_01.jpg?u=20191123165150</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_02.jpg?u=20191123165153</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_03.jpg?u=20191123165157</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_04.jpg?u=20191123165200</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_05.jpg?u=20191123165202</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_06.jpg?u=20191123165206</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_07.jpg?u=20191123165209</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_08.jpg?u=20191123165215</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_09.jpg?u=20191123165217</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_10.jpg?u=20191123165222</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_11.jpg?u=20191123165226</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_12.jpg?u=20191123165231</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_13.jpg?u=20191123165233</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_14.jpg?u=20191123165239</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_15.jpg?u=20191123165243</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_16.jpg?u=20191123165247</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_01.jpg?u=20191123165150</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_02.jpg?u=20191123165153</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_03.jpg?u=20191123165157</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_04.jpg?u=20191123165200</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_05.jpg?u=20191123165202</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_06.jpg?u=20191123165206</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_07.jpg?u=20191123165209</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_08.jpg?u=20191123165215</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_09.jpg?u=20191123165217</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_10.jpg?u=20191123165222</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_11.jpg?u=20191123165226</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_12.jpg?u=20191123165231</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_13.jpg?u=20191123165233</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_14.jpg?u=20191123165239</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_15.jpg?u=20191123165243</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PEA-5341_16.jpg?u=20191123165247</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -756,7 +839,8 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -766,8 +850,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -780,7 +866,8 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <marca id="23">CHEVROLET</marca>
     <modelo id="2280"><![CDATA[ SPIN ]]></modelo>
     <versao id="1651"><![CDATA[ 1.8 Advantage 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2016</anofabricacao>
     <anomodelo>2017</anomodelo>
     <cambio id="1">Automático</cambio>
@@ -796,19 +883,22 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <opcionais />
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCS-5640_01.jpg?u=20200115120109</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCS-5640_02.jpg?u=20200115120111</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCS-5640_03.jpg?u=20200115120113</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCS-5640_04.jpg?u=20200115120115</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCS-5640_05.jpg?u=20200115120117</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCS-5640_06.jpg?u=20200115120119</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCS-5640_07.jpg?u=20200115120121</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCS-5640_01.jpg?u=20200115120109</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCS-5640_02.jpg?u=20200115120111</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCS-5640_03.jpg?u=20200115120113</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCS-5640_04.jpg?u=20200115120115</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCS-5640_05.jpg?u=20200115120117</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCS-5640_06.jpg?u=20200115120119</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCS-5640_07.jpg?u=20200115120121</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -816,7 +906,8 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -826,8 +917,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -840,7 +933,8 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <marca id="39">FIAT</marca>
     <modelo id="332"><![CDATA[ PALIO ]]></modelo>
     <versao id="2366"><![CDATA[ 1.6 MPI Essence 16V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2015</anofabricacao>
     <anomodelo>2015</anomodelo>
     <cambio id="3">Manual</cambio>
@@ -856,25 +950,28 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <opcionais />
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_01.jpg?u=20200111141744</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_02.jpg?u=20200111141745</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_03.jpg?u=20200111141747</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_04.jpg?u=20200111141749</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_05.jpg?u=20200111141752</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_06.jpg?u=20200111141754</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_07.jpg?u=20200111141755</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_08.jpg?u=20200111141757</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_09.jpg?u=20200111141759</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_10.jpg?u=20200111141801</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_11.jpg?u=20200111141803</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_12.jpg?u=20200111141804</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_13.jpg?u=20200111141806</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_01.jpg?u=20200111141744</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_02.jpg?u=20200111141745</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_03.jpg?u=20200111141747</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_04.jpg?u=20200111141749</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_05.jpg?u=20200111141752</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_06.jpg?u=20200111141754</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_07.jpg?u=20200111141755</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_08.jpg?u=20200111141757</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_09.jpg?u=20200111141759</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_10.jpg?u=20200111141801</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_11.jpg?u=20200111141803</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_12.jpg?u=20200111141804</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCT-1617_13.jpg?u=20200111141806</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -882,7 +979,8 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -892,8 +990,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -906,7 +1006,8 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <marca id="109">VOLKSWAGEN</marca>
     <modelo id="934"><![CDATA[ GOL ]]></modelo>
     <versao id="6359"><![CDATA[ 1.0 MI Rock IN RIO 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2015</anofabricacao>
     <anomodelo>2016</anomodelo>
     <cambio id="3">Manual</cambio>
@@ -930,24 +1031,27 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     </opcionais>
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_01.jpg?u=20200128115421</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_02.jpg?u=20200128115424</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_03.jpg?u=20200128115428</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_04.jpg?u=20200128115432</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_05.jpg?u=20200128115436</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_06.jpg?u=20200128115442</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_07.jpg?u=20200128115443</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_08.jpg?u=20200128115449</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_09.jpg?u=20200128115454</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_10.jpg?u=20200128115459</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_11.jpg?u=20200128115505</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_12.jpg?u=20200128115509</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_01.jpg?u=20200128115421</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_02.jpg?u=20200128115424</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_03.jpg?u=20200128115428</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_04.jpg?u=20200128115432</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_05.jpg?u=20200128115436</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_06.jpg?u=20200128115442</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_07.jpg?u=20200128115443</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_08.jpg?u=20200128115449</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_09.jpg?u=20200128115454</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_10.jpg?u=20200128115459</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_11.jpg?u=20200128115505</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCV-9821_12.jpg?u=20200128115509</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -955,7 +1059,8 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -965,8 +1070,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -979,7 +1086,8 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <marca id="109">VOLKSWAGEN</marca>
     <modelo id="934"><![CDATA[ GOL ]]></modelo>
     <versao id="7912"><![CDATA[ 1.6 MSI Totalflex Trendline ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2017</anofabricacao>
     <anomodelo>2017</anomodelo>
     <cambio id="3">Manual</cambio>
@@ -995,23 +1103,26 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <opcionais />
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_01.jpg?u=20200109093327</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_02.jpg?u=20200109093328</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_03.jpg?u=20200109093332</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_04.jpg?u=20200109093336</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_05.jpg?u=20200109093340</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_06.jpg?u=20200109093345</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_07.jpg?u=20200109093349</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_08.jpg?u=20200109093354</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_09.jpg?u=20200109093401</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_10.jpg?u=20200109093405</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_11.jpg?u=20200109093409</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_01.jpg?u=20200109093327</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_02.jpg?u=20200109093328</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_03.jpg?u=20200109093332</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_04.jpg?u=20200109093336</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_05.jpg?u=20200109093340</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_06.jpg?u=20200109093345</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_07.jpg?u=20200109093349</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_08.jpg?u=20200109093354</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_09.jpg?u=20200109093401</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_10.jpg?u=20200109093405</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCF-4194_11.jpg?u=20200109093409</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -1019,7 +1130,8 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -1029,8 +1141,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -1043,7 +1157,8 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <marca id="109">VOLKSWAGEN</marca>
     <modelo id="934"><![CDATA[ GOL ]]></modelo>
     <versao id="7912"><![CDATA[ 1.6 MSI Totalflex Trendline ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2017</anofabricacao>
     <anomodelo>2018</anomodelo>
     <cambio id="3">Manual</cambio>
@@ -1059,24 +1174,27 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <opcionais />
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_01.jpg?u=20200128113619</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_02.jpg?u=20200128113622</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_03.jpg?u=20200128113623</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_04.jpg?u=20200128113626</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_05.jpg?u=20200128113628</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_06.jpg?u=20200128113631</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_07.jpg?u=20200128113633</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_08.jpg?u=20200128113634</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_09.jpg?u=20200128113638</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_10.jpg?u=20200128113641</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_11.jpg?u=20200128113643</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_12.jpg?u=20200128113644</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_01.jpg?u=20200128113619</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_02.jpg?u=20200128113622</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_03.jpg?u=20200128113623</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_04.jpg?u=20200128113626</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_05.jpg?u=20200128113628</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_06.jpg?u=20200128113631</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_07.jpg?u=20200128113633</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_08.jpg?u=20200128113634</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_09.jpg?u=20200128113638</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_10.jpg?u=20200128113641</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_11.jpg?u=20200128113643</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PCY-7636_12.jpg?u=20200128113644</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -1084,7 +1202,8 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -1094,8 +1213,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -1108,7 +1229,8 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <marca id="109">VOLKSWAGEN</marca>
     <modelo id="959"><![CDATA[ VOYAGE ]]></modelo>
     <versao id="6806"><![CDATA[ 1.0 MI 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2012</anofabricacao>
     <anomodelo>2013</anomodelo>
     <cambio id="3">Manual</cambio>
@@ -1127,13 +1249,16 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     </opcionais>
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4850_01.jpg?u=20200128115810</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4850_01.jpg?u=20200128115810</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -1141,7 +1266,8 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -1151,8 +1277,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
@@ -1165,7 +1293,8 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <marca id="109">VOLKSWAGEN</marca>
     <modelo id="959"><![CDATA[ VOYAGE ]]></modelo>
     <versao id="6809"><![CDATA[ 1.0 MI Trendline 8V ]]></versao>
-    <tipomotor></tipomotor>
+    <tipomotor>
+    </tipomotor>
     <anofabricacao>2015</anofabricacao>
     <anomodelo>2016</anomodelo>
     <cambio id="3">Manual</cambio>
@@ -1188,23 +1317,26 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     </opcionais>
     <acessorios />
     <fotos>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_01.jpg?u=20200206184308</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_02.jpg?u=20200206184309</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_04.jpg?u=20200206184311</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_03.jpg?u=20200206184310</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_09.jpg?u=20200206184346</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_05.jpg?u=20200206184322</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_06.jpg?u=20200206184325</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_10.jpg?u=20200206184407</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_11.jpg?u=20200206184422</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_07.jpg?u=20200206184327</foto>
-    <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_08.jpg?u=20200206184328</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_01.jpg?u=20200206184308</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_02.jpg?u=20200206184309</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_04.jpg?u=20200206184311</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_03.jpg?u=20200206184310</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_09.jpg?u=20200206184346</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_05.jpg?u=20200206184322</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_06.jpg?u=20200206184325</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_10.jpg?u=20200206184407</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_11.jpg?u=20200206184422</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_07.jpg?u=20200206184327</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000555/Fotos/PDZ-4960_08.jpg?u=20200206184328</foto>
     </fotos>
     <foto360>
-      <exterior></exterior>
-      <interior></interior>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
     </foto360>
-    <urlVideo></urlVideo>
+    <urlVideo>
+    </urlVideo>
     <loja>
       <id>1135</id>
       <nomefantasia>Autonunes (Cabo)</nomefantasia>
@@ -1212,7 +1344,8 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
       <endereco>
         <logradouro>Rodovia PE-60</logradouro>
         <numero>3375</numero>
-        <complemento></complemento>
+        <complemento>
+        </complemento>
         <bairro>Garapu</bairro>
         <cidade>Cabo de Santo Agostinho</cidade>
         <uf>PE</uf>
@@ -1222,8 +1355,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
         <nome>Anderson Trindade</nome>
         <email>andersontrindade@autonunes.com.br</email>
         <telefone>(81) 3366-2520</telefone>
-        <fax></fax>
-        <nextel></nextel>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
         <site>http://</site>
       </contato>
     </loja>
