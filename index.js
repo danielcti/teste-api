@@ -26,35 +26,11 @@ const lojas = [
   {
     nome: "Autonunes_Cabo",
     url: "http://xml.dsautoestoque.com/?l=40889222000555&v=2"
-<<<<<<< HEAD
   }
   // {
   //   nome: "Caxanga",
   //   url: "http://xml.dsautoestoque.com/?l=09924937000128&v=2"
   // }
-=======
-  },
-  {
-    nome: "Caxanga",
-    url: "http://xml.dsautoestoque.com/?l=09924937000128&v=2"
-  },
-  {
-    nome: "Autonunes_Caruaru",
-    url: "http://xml.dsautoestoque.com/?l=40889222000806&v=2"
-  },
-  {
-    nome: "Autonunes_Gravata",
-    url: "http://xml.dsautoestoque.com/?l=40889222000717&v=2"
-  },
-  {
-    nome: "Autonunes_Olinda",
-    url: "http://xml.dsautoestoque.com/?l=40889222000474&v=2"
-  },
-  {
-    nome: "Autonunes_Prazeres",
-    url: "http://xml.dsautoestoque.com/?l=40889222000121&v=2"
-  }
->>>>>>> 30023211fe4dce7ad153aefac4cdfe839b0cdea3
 ];
 
 app.use(function(req, res, next) {
@@ -88,10 +64,7 @@ async function getLojaInfo(nome, url) {
 }
 
 app.get("/", async function(req, res) {
-<<<<<<< HEAD
   const year = req.query.year;
-=======
->>>>>>> 30023211fe4dce7ad153aefac4cdfe839b0cdea3
   const files = await readdir(__dirname + "/files");
 
   const promise = await files.map(async file => {
@@ -101,7 +74,6 @@ app.get("/", async function(req, res) {
     await parseString(parsedData, function(err, result) {
       content = result;
     });
-<<<<<<< HEAD
     if (year) {
       const filteredContent = await content.estoque.veiculo.filter(carro => {
         return carro.anomodelo[0] === year;
@@ -111,38 +83,6 @@ app.get("/", async function(req, res) {
 
     return content;
   });
-=======
-
-    return content;
-  });
-
-  const content = await Promise.all(promise);
-
-  res.send(content);
-});
-
-app.get("/:id", async function(req, res) {
-  const files = await readdir(__dirname + "/files");
-  const { id } = req.params;
-
-  const promise = await files
-    .filter(file => {
-      if (file === lojas[id].nome) {
-        return true;
-      }
-      return false;
-    })
-    .map(async file => {
-      const data = await fsp.readFile(__dirname + "/files/" + file);
-      const parsedData = data.toString();
-      let content;
-      await parseString(parsedData, function(err, result) {
-        content = result;
-      });
-
-      return content;
-    });
->>>>>>> 30023211fe4dce7ad153aefac4cdfe839b0cdea3
 
   const content = await Promise.all(promise);
 
@@ -150,12 +90,6 @@ app.get("/:id", async function(req, res) {
 });
 
 app.get("/updateFiles", async function(req, res) {
-<<<<<<< HEAD
-  await lojas.forEach(async loja => {
-    await getLojaInfo(loja.nome, loja.url);
-  });
-  return res.send({ hello: "world" });
-=======
   try {
     await lojas.forEach(async loja => {
       await getLojaInfo(loja.nome, loja.url);
@@ -165,7 +99,6 @@ app.get("/updateFiles", async function(req, res) {
   }
 
   return res.send("Arquivos atualizados");
->>>>>>> 30023211fe4dce7ad153aefac4cdfe839b0cdea3
 });
 
 app.use(cors());
@@ -173,7 +106,6 @@ app.use(cors());
 app.use(bodyParser.json());
 
 app.listen(process.env.PORT || 3333);
-<<<<<<< HEAD
 
 // Auto Oriente (Caruaru): http://xml.dsautoestoque.com/?l=14989426000396&v=2
 // Auto Oriente (Recife): http://xml.dsautoestoque.com/?l=14989426000124&v=2
@@ -184,5 +116,3 @@ app.listen(process.env.PORT || 3333);
 // Autonunes (Olinda): http://xml.dsautoestoque.com/?l=40889222000474&v=2
 // Autonunes (Prazeres): http://xml.dsautoestoque.com/?l=40889222000121&v=2
 // Caxangá: http://xml.dsautoestoque.com/?l=09924937000128&v=2
-=======
->>>>>>> 30023211fe4dce7ad153aefac4cdfe839b0cdea3
