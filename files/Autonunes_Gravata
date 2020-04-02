@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8"?>
+<estoque>
+
+
+  <veiculo>
+    <id>1339733</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>OYW-7679</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2244"><![CDATA[ COBALT ]]></modelo>
+    <versao id="1640"><![CDATA[ 1.8 MPFI LTZ 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2014</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>89396</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 36.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>13/01/2020 17:24</cadastro>
+    <alteracao>24/01/2020 09:05</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/OYW-7679_01.jpg?u=20200124090443</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/OYW-7679_02.jpg?u=20200124090449</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/OYW-7679_03.jpg?u=20200124090452</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/OYW-7679_04.jpg?u=20200124090454</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/OYW-7679_05.jpg?u=20200124090456</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/OYW-7679_06.jpg?u=20200124090459</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/OYW-7679_07.jpg?u=20200124090502</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/OYW-7679_08.jpg?u=20200124090504</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/OYW-7679_09.jpg?u=20200124090511</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/OYW-7679_10.jpg?u=20200124090514</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1821</id>
+      <nomefantasia>Autonunes (Gravatá)</nomefantasia>
+      <cnpj>40.889.222/0007-17</cnpj>
+      <endereco>
+        <logradouro>Av. Cicero Batista de Oliveira</logradouro>
+        <numero>5000</numero>
+        <complemento>
+        </complemento>
+        <bairro>Santana</bairro>
+        <cidade>Gravata</cidade>
+        <uf>PE</uf>
+        <cep>55641-590</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1319360</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDS-4965</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2244"><![CDATA[ COBALT ]]></modelo>
+    <versao id="1640"><![CDATA[ 1.8 MPFI LTZ 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>29932</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 51.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>29/11/2019 14:34</cadastro>
+    <alteracao>30/12/2019 18:19</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PDS-4965_01.jpg?u=20191230181525</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PDS-4965_02.jpg?u=20191230181542</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PDS-4965_03.jpg?u=20191230181659</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PDS-4965_04.jpg?u=20191230181703</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PDS-4965_05.jpg?u=20191230181709</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PDS-4965_06.jpg?u=20191230181710</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PDS-4965_07.jpg?u=20191230181813</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PDS-4965_08.jpg?u=20191230181820</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PDS-4965_09.jpg?u=20191230181822</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1821</id>
+      <nomefantasia>Autonunes (Gravatá)</nomefantasia>
+      <cnpj>40.889.222/0007-17</cnpj>
+      <endereco>
+        <logradouro>Av. Cicero Batista de Oliveira</logradouro>
+        <numero>5000</numero>
+        <complemento>
+        </complemento>
+        <bairro>Santana</bairro>
+        <cidade>Gravata</cidade>
+        <uf>PE</uf>
+        <cep>55641-590</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1339738</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PGV-5499</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2244"><![CDATA[ COBALT ]]></modelo>
+    <versao id="1640"><![CDATA[ 1.8 MPFI LTZ 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>40000</km>
+    <portas>4</portas>
+    <cor id="6">Cinza</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 53.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>13/01/2020 17:36</cadastro>
+    <alteracao>24/01/2020 09:13</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PGV-5499_01.jpg?u=20200124091035</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PGV-5499_02.jpg?u=20200124091040</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PGV-5499_03.jpg?u=20200124091042</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PGV-5499_04.jpg?u=20200124091046</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PGV-5499_05.jpg?u=20200124091048</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PGV-5499_06.jpg?u=20200124091050</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PGV-5499_07.jpg?u=20200124091053</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PGV-5499_08.jpg?u=20200124091056</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PGV-5499_09.jpg?u=20200124091058</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1821</id>
+      <nomefantasia>Autonunes (Gravatá)</nomefantasia>
+      <cnpj>40.889.222/0007-17</cnpj>
+      <endereco>
+        <logradouro>Av. Cicero Batista de Oliveira</logradouro>
+        <numero>5000</numero>
+        <complemento>
+        </complemento>
+        <bairro>Santana</bairro>
+        <cidade>Gravata</cidade>
+        <uf>PE</uf>
+        <cep>55641-590</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1350459</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>QMX-2072</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="8059"><![CDATA[ 1.0 MPFI JOY 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>34608</km>
+    <portas>4</portas>
+    <cor id="6">Cinza</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 35.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>04/02/2020 10:59</cadastro>
+    <alteracao>04/02/2020 10:59</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/QMX-2072_01.jpg?u=20200204105833</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1821</id>
+      <nomefantasia>Autonunes (Gravatá)</nomefantasia>
+      <cnpj>40.889.222/0007-17</cnpj>
+      <endereco>
+        <logradouro>Av. Cicero Batista de Oliveira</logradouro>
+        <numero>5000</numero>
+        <complemento>
+        </complemento>
+        <bairro>Santana</bairro>
+        <cidade>Gravata</cidade>
+        <uf>PE</uf>
+        <cep>55641-590</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1347801</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCE-2423</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="8044"><![CDATA[ 1.4 MPFI Activ 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>57627</km>
+    <portas>4</portas>
+    <cor id="15">Vermelho</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 53.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/01/2020 14:56</cadastro>
+    <alteracao>29/01/2020 14:56</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PCE-2423_01.jpg?u=20200129145541</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1821</id>
+      <nomefantasia>Autonunes (Gravatá)</nomefantasia>
+      <cnpj>40.889.222/0007-17</cnpj>
+      <endereco>
+        <logradouro>Av. Cicero Batista de Oliveira</logradouro>
+        <numero>5000</numero>
+        <complemento>
+        </complemento>
+        <bairro>Santana</bairro>
+        <cidade>Gravata</cidade>
+        <uf>PE</uf>
+        <cep>55641-590</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1339735</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDE-6621</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
+    <versao id="1300"><![CDATA[ 1.0 MPFI LT 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>55597</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 35.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>13/01/2020 17:31</cadastro>
+    <alteracao>13/01/2020 17:31</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PDE-6621_01.jpg?u=20200113173139</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1821</id>
+      <nomefantasia>Autonunes (Gravatá)</nomefantasia>
+      <cnpj>40.889.222/0007-17</cnpj>
+      <endereco>
+        <logradouro>Av. Cicero Batista de Oliveira</logradouro>
+        <numero>5000</numero>
+        <complemento>
+        </complemento>
+        <bairro>Santana</bairro>
+        <cidade>Gravata</cidade>
+        <uf>PE</uf>
+        <cep>55641-590</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1319402</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDS-8413</placa>
+    <marca id="50">HYUNDAI</marca>
+    <modelo id="2768"><![CDATA[ HB20S ]]></modelo>
+    <versao id="3602"><![CDATA[ 1.0 Comfort Style 12V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>30857</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 41.490,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>29/11/2019 16:00</cadastro>
+    <alteracao>06/01/2020 15:12</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PDS-8413_01.jpg?u=20191129155954</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1821</id>
+      <nomefantasia>Autonunes (Gravatá)</nomefantasia>
+      <cnpj>40.889.222/0007-17</cnpj>
+      <endereco>
+        <logradouro>Av. Cicero Batista de Oliveira</logradouro>
+        <numero>5000</numero>
+        <complemento>
+        </complemento>
+        <bairro>Santana</bairro>
+        <cidade>Gravata</cidade>
+        <uf>PE</uf>
+        <cep>55641-590</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1350457</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDM-4373</placa>
+    <marca id="107">TOYOTA</marca>
+    <modelo id="895"><![CDATA[ COROLLA ]]></modelo>
+    <versao id="6118"><![CDATA[ 2.0 XEI 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>63269</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 64.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>04/02/2020 10:57</cadastro>
+    <alteracao>04/02/2020 10:57</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PDM-4373_01.jpg?u=20200204105645</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1821</id>
+      <nomefantasia>Autonunes (Gravatá)</nomefantasia>
+      <cnpj>40.889.222/0007-17</cnpj>
+      <endereco>
+        <logradouro>Av. Cicero Batista de Oliveira</logradouro>
+        <numero>5000</numero>
+        <complemento>
+        </complemento>
+        <bairro>Santana</bairro>
+        <cidade>Gravata</cidade>
+        <uf>PE</uf>
+        <cep>55641-590</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1325354</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCZ-2036</placa>
+    <marca id="109">VOLKSWAGEN</marca>
+    <modelo id="934"><![CDATA[ GOL ]]></modelo>
+    <versao id="7912"><![CDATA[ 1.6 MSI Totalflex Trendline ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>50000</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 35.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>10/12/2019 16:56</cadastro>
+    <alteracao>30/12/2019 17:21</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PCZ-2036_01.jpg?u=20191230172123</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PCZ-2036_02.jpg?u=20191230172128</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PCZ-2036_03.jpg?u=20191230172131</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PCZ-2036_04.jpg?u=20191230172133</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PCZ-2036_05.jpg?u=20191230172135</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PCZ-2036_06.jpg?u=20191230172138</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PCZ-2036_07.jpg?u=20191230172140</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000717/Fotos/PCZ-2036_08.jpg?u=20191230172141</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1821</id>
+      <nomefantasia>Autonunes (Gravatá)</nomefantasia>
+      <cnpj>40.889.222/0007-17</cnpj>
+      <endereco>
+        <logradouro>Av. Cicero Batista de Oliveira</logradouro>
+        <numero>5000</numero>
+        <complemento>
+        </complemento>
+        <bairro>Santana</bairro>
+        <cidade>Gravata</cidade>
+        <uf>PE</uf>
+        <cep>55641-590</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+</estoque>

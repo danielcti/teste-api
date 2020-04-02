@@ -1,0 +1,1950 @@
+<?xml version="1.0" encoding="utf-8"?>
+<estoque>
+
+
+  <veiculo>
+    <id>1333831</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PEA-9653</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2244"><![CDATA[ COBALT ]]></modelo>
+    <versao id="1640"><![CDATA[ 1.8 MPFI LTZ 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>24000</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 52.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>28/12/2019 10:40</cadastro>
+    <alteracao>10/01/2020 18:42</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-9653_01.jpg?u=20200109092430</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-9653_02.jpg?u=20200109092430</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-9653_04.jpg?u=20200109092436</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-9653_03.jpg?u=20200109092432</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1349841</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDN-3761</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="1655"><![CDATA[ 1.0 MPFI LS 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2016</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>71000</km>
+    <portas>4</portas>
+    <cor id="15">Vermelho</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 35.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>03/02/2020 09:57</cadastro>
+    <alteracao>03/02/2020 09:57</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+    </opcionais>
+    <acessorios>
+      <acessorio id="23">Rádio e CD Player</acessorio>
+    </acessorios>
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-3761_01.jpg?u=20200203095444</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-3761_02.jpg?u=20200203095446</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-3761_03.jpg?u=20200203095447</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-3761_04.jpg?u=20200203095452</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-3761_05.jpg?u=20200203095510</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-3761_06.jpg?u=20200203095511</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-3761_07.jpg?u=20200203095512</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1349835</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDM-6642</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="1656"><![CDATA[ 1.0 MPFI LT 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>74000</km>
+    <portas>4</portas>
+    <cor id="16">Vinho</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 37.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>03/02/2020 09:49</cadastro>
+    <alteracao>03/02/2020 09:59</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+    </opcionais>
+    <acessorios>
+      <acessorio id="23">Rádio e CD Player</acessorio>
+    </acessorios>
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_01.jpg?u=20200203094633</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_02.jpg?u=20200203094644</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_03.jpg?u=20200203094647</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_04.jpg?u=20200203094656</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_05.jpg?u=20200203094658</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_06.jpg?u=20200203094700</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_07.jpg?u=20200203094712</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_08.jpg?u=20200203094713</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1353319</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDO-6724</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="1657"><![CDATA[ 1.4 MPFI LT 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>29400</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 41.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>10/02/2020 11:02</cadastro>
+    <alteracao>10/02/2020 11:02</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="8">Ar quente</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios>
+      <acessorio id="74">Central Multimídia</acessorio>
+    </acessorios>
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_01.jpg?u=20200210110021</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_02.jpg?u=20200210110023</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_03.jpg?u=20200210110029</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_04.jpg?u=20200210110038</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_05.jpg?u=20200210110040</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_06.jpg?u=20200210110044</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_07.jpg?u=20200210110047</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_08.jpg?u=20200210110048</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_09.jpg?u=20200210110050</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1325335</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDV-2484</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="1657"><![CDATA[ 1.4 MPFI LT 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>62420</km>
+    <portas>4</portas>
+    <cor id="12">Preto</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 32.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>10/12/2019 16:42</cadastro>
+    <alteracao>08/02/2020 14:44</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios>
+      <acessorio id="24">MP3 Player</acessorio>
+    </acessorios>
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDV-2484_01.jpg?u=20200108150830</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDV-2484_02.jpg?u=20200108150832</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDV-2484_03.jpg?u=20200108150838</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDV-2484_04.jpg?u=20200108150842</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDV-2484_05.jpg?u=20200108150845</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDV-2484_06.jpg?u=20200108150847</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDV-2484_07.jpg?u=20200108150854</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1332623</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>OYU-6418</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
+    <versao id="1307"><![CDATA[ 1.4 MPFI LT 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2014</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>57900</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 34.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>24/12/2019 11:24</cadastro>
+    <alteracao>08/02/2020 14:44</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_01.jpg?u=20191224112346</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_02.jpg?u=20191224112348</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_03.jpg?u=20191224112355</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_04.jpg?u=20191224112410</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_05.jpg?u=20191224112413</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_06.jpg?u=20191224112418</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_07.jpg?u=20191224112426</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_08.jpg?u=20191224112429</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_09.jpg?u=20191224112433</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_10.jpg?u=20191224112436</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_11.jpg?u=20191224112441</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_12.jpg?u=20191224112444</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_13.jpg?u=20191224112447</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1353287</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDR-3028</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
+    <versao id="1308"><![CDATA[ 1.4 MPFI LTZ 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>40800</km>
+    <portas>4</portas>
+    <cor id="2">Azul</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 57.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>10/02/2020 09:30</cadastro>
+    <alteracao>10/02/2020 09:30</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="15">Computador de bordo</opcional>
+      <opcional id="18">Desembaçador traseiro</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios>
+      <acessorio id="74">Central Multimídia</acessorio>
+      <acessorio id="65">Chave cópia</acessorio>
+    </acessorios>
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDR-3028_01.jpg?u=20200210092358</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDR-3028_02.jpg?u=20200210092402</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDR-3028_03.jpg?u=20200210092405</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDR-3028_04.jpg?u=20200210092411</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDR-3028_05.jpg?u=20200210092415</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDR-3028_06.jpg?u=20200210092417</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDR-3028_07.jpg?u=20200210092422</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDR-3028_08.jpg?u=20200210092427</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDR-3028_09.jpg?u=20200210092429</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1353313</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDT-5258</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
+    <versao id="1308"><![CDATA[ 1.4 MPFI LTZ 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>24000</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 55.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>10/02/2020 10:43</cadastro>
+    <alteracao>10/02/2020 10:43</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="15">Computador de bordo</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_01.jpg?u=20200210104154</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_02.jpg?u=20200210104155</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_03.jpg?u=20200210104159</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_04.jpg?u=20200210104202</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_05.jpg?u=20200210104213</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_06.jpg?u=20200210104215</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_07.jpg?u=20200210104219</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_08.jpg?u=20200210104222</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_09.jpg?u=20200210104224</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1347676</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDN-2474</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="202"><![CDATA[ S10 ]]></modelo>
+    <versao id="1397"><![CDATA[ 2.8 LT 4X4 CD 16V Turbo ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>50200</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="3">Diesel</combustivel>
+    <preco>R$ 112.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>29/01/2020 11:40</cadastro>
+    <alteracao>29/01/2020 11:40</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="15">Computador de bordo</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="35">Tração 4x4</opcional>
+    </opcionais>
+    <acessorios>
+      <acessorio id="24">MP3 Player</acessorio>
+      <acessorio id="73">Câmera de Ré</acessorio>
+    </acessorios>
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-2474_01.jpg?u=20200129113904</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-2474_02.jpg?u=20200129113907</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-2474_03.jpg?u=20200129113910</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-2474_04.jpg?u=20200129113915</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-2474_05.jpg?u=20200129113919</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-2474_06.jpg?u=20200129113920</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1338023</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PGU-4749</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="213"><![CDATA[ TRACKER ]]></modelo>
+    <versao id="1524"><![CDATA[ 1.8 MPFI LTZ 4X2 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2013</anofabricacao>
+    <anomodelo>2014</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>49909</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 52.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>09/01/2020 15:07</cadastro>
+    <alteracao>10/02/2020 10:25</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGU-4749_01.jpg?u=20200210102528</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGU-4749_02.jpg?u=20200210102530</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGU-4749_03.jpg?u=20200210102533</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGU-4749_04.jpg?u=20200210102536</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGU-4749_05.jpg?u=20200210102537</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGU-4749_06.jpg?u=20200210102538</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGU-4749_07.jpg?u=20200210102540</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGU-4749_08.jpg?u=20200210102542</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGU-4749_09.jpg?u=20200210102543</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGU-4749_10.jpg?u=20200210102545</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1353309</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PEC-6190</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="213"><![CDATA[ TRACKER ]]></modelo>
+    <versao id="1524"><![CDATA[ 1.8 MPFI LTZ 4X2 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>42800</km>
+    <portas>4</portas>
+    <cor id="16">Vinho</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 55.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>10/02/2020 10:33</cadastro>
+    <alteracao>10/02/2020 10:33</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="15">Computador de bordo</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+    </opcionais>
+    <acessorios>
+      <acessorio id="74">Central Multimídia</acessorio>
+      <acessorio id="65">Chave cópia</acessorio>
+    </acessorios>
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_01.jpg?u=20200210103225</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_02.jpg?u=20200210103228</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_03.jpg?u=20200210103231</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_04.jpg?u=20200210103233</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_05.jpg?u=20200210103236</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_06.jpg?u=20200210103238</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_07.jpg?u=20200210103244</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_08.jpg?u=20200210103247</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_09.jpg?u=20200210103249</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1337750</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDX-8539</placa>
+    <marca id="25">CITROËN</marca>
+    <modelo id="238"><![CDATA[ C3 ]]></modelo>
+    <versao id="1754"><![CDATA[ 1.6 Tendance 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2016</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>31450</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 35.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>09/01/2020 10:14</cadastro>
+    <alteracao>08/02/2020 14:41</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+    </opcionais>
+    <acessorios>
+      <acessorio id="24">MP3 Player</acessorio>
+    </acessorios>
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-8539_01.jpg?u=20200109101228</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-8539_02.jpg?u=20200109101231</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-8539_03.jpg?u=20200109101234</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-8539_04.jpg?u=20200109101236</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-8539_05.jpg?u=20200109101237</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-8539_06.jpg?u=20200109101240</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-8539_07.jpg?u=20200109101242</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1333837</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PLG-1700</placa>
+    <marca id="39">FIAT</marca>
+    <modelo id="3881"><![CDATA[ CRONOS ]]></modelo>
+    <versao id="9000"><![CDATA[ 1.8 E.torq Precision AT6 ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>14419</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 65.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>28/12/2019 10:45</cadastro>
+    <alteracao>08/01/2020 18:25</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PLG-1700_01.jpg?u=20200108182529</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PLG-1700_02.jpg?u=20200108182535</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PLG-1700_03.jpg?u=20200108182537</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PLG-1700_04.jpg?u=20200108182538</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PLG-1700_05.jpg?u=20200108182540</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PLG-1700_06.jpg?u=20200108182543</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PLG-1700_07.jpg?u=20200108182545</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1318580</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PEB-9119</placa>
+    <marca id="39">FIAT</marca>
+    <modelo id="2261"><![CDATA[ GRAND SIENA ]]></modelo>
+    <versao id="8511"><![CDATA[ 1.0 EVO Attractive ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>24668</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 32.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>28/11/2019 11:41</cadastro>
+    <alteracao>08/02/2020 14:43</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_01.jpg?u=20191128113757</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_02.jpg?u=20191128121132</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_03.jpg?u=20191128121137</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_04.jpg?u=20191128121140</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_05.jpg?u=20191128121147</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_06.jpg?u=20191128121152</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_07.jpg?u=20191128121155</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_08.jpg?u=20191128121214</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_09.jpg?u=20191128121223</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_10.jpg?u=20191128121229</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_11.jpg?u=20191128121243</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1337671</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PGP-4275</placa>
+    <marca id="39">FIAT</marca>
+    <modelo id="335"><![CDATA[ PUNTO ]]></modelo>
+    <versao id="2410"><![CDATA[ 1.6 Essence 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2013</anofabricacao>
+    <anomodelo>2014</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>11000</km>
+    <portas>4</portas>
+    <cor id="6">Cinza</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 29.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>08/01/2020 18:41</cadastro>
+    <alteracao>08/02/2020 14:45</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios>
+      <acessorio id="24">MP3 Player</acessorio>
+    </acessorios>
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGP-4275_01.jpg?u=20200108184044</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGP-4275_03.jpg?u=20200108184049</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGP-4275_02.jpg?u=20200108184047</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGP-4275_04.jpg?u=20200108184051</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGP-4275_05.jpg?u=20200108184053</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGP-4275_06.jpg?u=20200108184054</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGP-4275_07.jpg?u=20200108184056</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1325338</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PGL-7989</placa>
+    <marca id="41">FORD</marca>
+    <modelo id="372"><![CDATA[ FIESTA ]]></modelo>
+    <versao id="2915"><![CDATA[ 1.5 S Hatch 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2013</anofabricacao>
+    <anomodelo>2014</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>84900</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 30.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>10/12/2019 16:45</cadastro>
+    <alteracao>10/01/2020 09:20</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGL-7989_01.jpg?u=20200108182858</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGL-7989_02.jpg?u=20200108182900</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGL-7989_03.jpg?u=20200108182903</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGL-7989_04.jpg?u=20200108182904</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGL-7989_05.jpg?u=20200108182906</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGL-7989_06.jpg?u=20200108182907</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1338029</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDU-3921</placa>
+    <marca id="48">HONDA</marca>
+    <modelo id="2019"><![CDATA[ CITY ]]></modelo>
+    <versao id="3446"><![CDATA[ 1.5 DX 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2016</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>54679</km>
+    <portas>4</portas>
+    <cor id="6">Cinza</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 52.990,00</preco>
+    <observacao><![CDATA[ VENHA CONFERIR OS VEÍCULOS SEMINOVOS MAIS SELECIONADOS DO MERCADO, QUALIDADE E PROCEDÊNCIA TUDO EM UM SÓ LUGAR !!! ]]></observacao>
+    <cadastro>09/01/2020 15:12</cadastro>
+    <alteracao>21/01/2020 16:36</alteracao>
+    <complementos />
+    <opcionais />
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDU-3921_01.jpg?u=20200121163615</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDU-3921_02.jpg?u=20200121163620</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDU-3921_03.jpg?u=20200121163624</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDU-3921_04.jpg?u=20200121163628</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDU-3921_05.jpg?u=20200121163629</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDU-3921_06.jpg?u=20200121163631</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1337557</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCB6123</placa>
+    <marca id="50">HYUNDAI</marca>
+    <modelo id="3674"><![CDATA[ CRETA ]]></modelo>
+    <versao id="8882"><![CDATA[ 2.0 16V Sport ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>43999</km>
+    <portas>4</portas>
+    <cor id="15">Vermelho</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 74.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>08/01/2020 17:05</cadastro>
+    <alteracao>08/02/2020 14:42</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="15">Computador de bordo</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios>
+      <acessorio id="17">Faróis de neblina</acessorio>
+      <acessorio id="24">MP3 Player</acessorio>
+    </acessorios>
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB6123_08.jpg?u=20200108170344</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB6123_09.jpg?u=20200108170346</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB6123_10.jpg?u=20200108170347</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB6123_11.jpg?u=20200108170349</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB6123_12.jpg?u=20200108170351</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB6123_13.jpg?u=20200108170352</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB6123_14.jpg?u=20200108170354</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1347681</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCM-9660</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="760"><![CDATA[ FRONTIER ]]></modelo>
+    <versao id="8594"><![CDATA[ 2.3 16V Turbo LE CD 4X4 ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>60000</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="3">Diesel</combustivel>
+    <preco>R$ 120.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>29/01/2020 11:47</cadastro>
+    <alteracao>30/01/2020 14:59</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="15">Computador de bordo</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="71">Start / Stop Engine</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+    </opcionais>
+    <acessorios>
+      <acessorio id="74">Central Multimídia</acessorio>
+      <acessorio id="19">GPS</acessorio>
+    </acessorios>
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCM-9660_01.jpg?u=20200129114605</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCM-9660_02.jpg?u=20200129114609</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCM-9660_03.jpg?u=20200129114610</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCM-9660_04.jpg?u=20200129114610</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCM-9660_05.jpg?u=20200129114612</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1353289</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDX-9971</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="2231"><![CDATA[ MARCH ]]></modelo>
+    <versao id="7363"><![CDATA[ 1.0 S 12V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>49000</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 31.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>10/02/2020 09:45</cadastro>
+    <alteracao>10/02/2020 09:45</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-9971_09.jpg?u=20200210094336</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-9971_02.jpg?u=20200210094301</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-9971_04.jpg?u=20200210094306</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-9971_01.jpg?u=20200210094259</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-9971_03.jpg?u=20200210094304</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-9971_08.jpg?u=20200210094319</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-9971_05.jpg?u=20200210094309</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-9971_06.jpg?u=20200210094313</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-9971_07.jpg?u=20200210094316</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1337512</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCW-0719</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="2231"><![CDATA[ MARCH ]]></modelo>
+    <versao id="7364"><![CDATA[ 1.0 SV 12V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>52500</km>
+    <portas>4</portas>
+    <cor id="12">Preto</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 34.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>08/01/2020 16:24</cadastro>
+    <alteracao>08/02/2020 14:43</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCW-0719_01.jpg?u=20200108154400</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCW-0719_02.jpg?u=20200108154403</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCW-0719_06.jpg?u=20200108162322</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCW-0719_03.jpg?u=20200108161957</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCW-0719_04.jpg?u=20200108162230</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCW-0719_05.jpg?u=20200108162259</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1337533</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCP-4372</placa>
+    <marca id="84">PEUGEOT</marca>
+    <modelo id="2770"><![CDATA[ 208 ]]></modelo>
+    <versao id="7952"><![CDATA[ 1.2 Active Pack 12V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>12400</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 40.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>08/01/2020 16:42</cadastro>
+    <alteracao>08/01/2020 16:44</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCP-4372_07.jpg?u=20200108164051</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCP-4372_06.jpg?u=20200108164049</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCP-4372_05.jpg?u=20200108164047</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCP-4372_04.jpg?u=20200108164046</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCP-4372_03.jpg?u=20200108164044</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCP-4372_02.jpg?u=20200108164043</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCP-4372_01.jpg?u=20200108164042</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1353326</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PZT-6255</placa>
+    <marca id="89">RENAULT</marca>
+    <modelo id="842"><![CDATA[ SANDERO ]]></modelo>
+    <versao id="8471"><![CDATA[ 1.0 12V SCE Expression ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>45300</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 34.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>10/02/2020 11:20</cadastro>
+    <alteracao>10/02/2020 11:20</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+    </opcionais>
+    <acessorios>
+      <acessorio id="24">MP3 Player</acessorio>
+    </acessorios>
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PZT-6255_01.jpg?u=20200210111910</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PZT-6255_02.jpg?u=20200210111913</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PZT-6255_03.jpg?u=20200210111915</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PZT-6255_04.jpg?u=20200210111919</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PZT-6255_05.jpg?u=20200210111921</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PZT-6255_06.jpg?u=20200210111924</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PZT-6255_07.jpg?u=20200210111925</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PZT-6255_08.jpg?u=20200210111927</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PZT-6255_09.jpg?u=20200210111931</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1353288</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDJ-1382</placa>
+    <marca id="107">TOYOTA</marca>
+    <modelo id="2296"><![CDATA[ ETIOS ]]></modelo>
+    <versao id="6251"><![CDATA[ 1.3 X 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>28191</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 41.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>10/02/2020 09:38</cadastro>
+    <alteracao>10/02/2020 09:38</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="8">Ar quente</opcional>
+      <opcional id="15">Computador de bordo</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_01.jpg?u=20200210093646</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_02.jpg?u=20200210093648</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_03.jpg?u=20200210093651</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_04.jpg?u=20200210093654</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_05.jpg?u=20200210093657</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_06.jpg?u=20200210093659</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_07.jpg?u=20200210093704</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_08.jpg?u=20200210093705</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_09.jpg?u=20200210093708</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1337210</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCX-2662</placa>
+    <marca id="109">VOLKSWAGEN</marca>
+    <modelo id="932"><![CDATA[ FOX ]]></modelo>
+    <versao id="7538"><![CDATA[ 1.6 MSI Highline 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>43500</km>
+    <portas>4</portas>
+    <cor id="2">Azul</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 35.990,00</preco>
+    <observacao><![CDATA[ FOX HIGHLINE 1.6 REVISADO COM MANUAIS CHAVE RESERVA E REVISÕES EM DIA. ]]></observacao>
+    <cadastro>08/01/2020 11:44</cadastro>
+    <alteracao>08/02/2020 14:42</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="37">Trio elétrico</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCX-2662_01.jpg?u=20200108113856</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCX-2662_02.jpg?u=20200108113936</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCX-2662_03.jpg?u=20200108114003</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCX-2662_04.jpg?u=20200108114021</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCX-2662_05.jpg?u=20200108114043</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCX-2662_06.jpg?u=20200108114056</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCX-2662_07.jpg?u=20200108114122</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1337547</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCF-4374</placa>
+    <marca id="109">VOLKSWAGEN</marca>
+    <modelo id="934"><![CDATA[ GOL ]]></modelo>
+    <versao id="7912"><![CDATA[ 1.6 MSI Totalflex Trendline ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>61200</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 35.990,00</preco>
+    <observacao><![CDATA[  ]]></observacao>
+    <cadastro>08/01/2020 16:52</cadastro>
+    <alteracao>08/01/2020 16:52</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCF-4374_01.jpg?u=20200108165037</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCF-4374_02.jpg?u=20200108165038</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCF-4374_03.jpg?u=20200108165039</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCF-4374_04.jpg?u=20200108165041</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCF-4374_05.jpg?u=20200108165042</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCF-4374_06.jpg?u=20200108165044</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCF-4374_07.jpg?u=20200108165046</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+</estoque>

@@ -1796,6 +1796,91 @@
     </loja>
   </veiculo>
   <veiculo>
+    <id>1353318</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDF-6728</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="773"><![CDATA[ SENTRA ]]></modelo>
+    <versao id="5114"><![CDATA[ 2.0 SV 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2016</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>63847</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 48.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>10/02/2020 10:56</cadastro>
+    <alteracao>10/02/2020 10:56</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="71">Start / Stop Engine</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDF-6728_01.jpg?u=20200210102804</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDF-6728_02.jpg?u=20200210102810</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDF-6728_03.jpg?u=20200210102849</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDF-6728_04.jpg?u=20200210102850</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDF-6728_05.jpg?u=20200210102857</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDF-6728_12.jpg?u=20200210104846</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDF-6728_13.jpg?u=20200210104850</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDF-6728_14.jpg?u=20200210104909</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDF-6728_06.jpg?u=20200210104818</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDF-6728_07.jpg?u=20200210104823</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDF-6728_08.jpg?u=20200210104827</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDF-6728_09.jpg?u=20200210104833</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDF-6728_10.jpg?u=20200210104839</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDF-6728_11.jpg?u=20200210104842</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1810</id>
+      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
+      <cnpj>14.989.426/0001-24</cnpj>
+      <endereco>
+        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
+        <numero>1925</numero>
+        <complemento>
+        </complemento>
+        <bairro>Espinheiro</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>52021-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
     <id>1341394</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
