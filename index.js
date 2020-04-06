@@ -1,39 +1,14 @@
-const axios = require("axios");
-const fs = require("fs");
 const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
-const parseString = require("xml2js").parseString;
-const util = require("util");
 
-const fsp = fs.promises;
+const CarController = require("./controllers/CarController");
+const MarcaController = require("./controllers/MarcaController");
+const UpdateController = require("./controllers/UpdateController");
+
 const app = express();
-const readdir = util.promisify(fs.readdir);
 
-const lojas = [
-  {
-    nome: "Auto_Oriente_Caruaru",
-    url: "http://xml.dsautoestoque.com/?l=14989426000396&v=2"
-  },
-  {
-    nome: "Auto_Oriente_Recife",
-    url: "http://xml.dsautoestoque.com/?l=14989426000124&v=2"
-  },
-  {
-    nome: "Autonunes_Boa_Viagem",
-    url: "http://xml.dsautoestoque.com/?l=40889222000393&v=2"
-  },
-  {
-    nome: "Autonunes_Cabo",
-    url: "http://xml.dsautoestoque.com/?l=40889222000555&v=2"
-  }
-  // {
-  //   nome: "Caxanga",
-  //   url: "http://xml.dsautoestoque.com/?l=09924937000128&v=2"
-  // }
-];
-
-app.use(function(req, res, next) {
+app.use(function (req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header(
     "Access-Control-Allow-Headers",
@@ -42,68 +17,13 @@ app.use(function(req, res, next) {
   next();
 });
 
-async function getLojaInfo(nome, url) {
-  try {
-    const response = await axios.get(url);
+app.use(bodyParser.json());
 
-    const data = response.data;
-    // const today = new Date();
-    const fileName = nome;
-    fs.writeFile(__dirname + "/files/" + fileName, data, function(err) {
-      if (err) {
-        return console.log(err);
-      }
-      console.log("The file was saved!");
-      return data;
-    });
-  } catch (err) {
-    throw new Error(
-      "Um pedido foi menos há menos de 1 minuto, favor tentar novamente em breve."
-    );
-  }
-}
-
-app.get("/", async function(req, res) {
-  const year = req.query.year;
-  const files = await readdir(__dirname + "/files");
-
-  const promise = await files.map(async file => {
-    const data = await fsp.readFile(__dirname + "/files/" + file);
-    const parsedData = data.toString();
-    let content;
-    await parseString(parsedData, function(err, result) {
-      content = result;
-    });
-    if (year) {
-      const filteredContent = await content.estoque.veiculo.filter(carro => {
-        return carro.anomodelo[0] === year;
-      });
-      content.estoque.veiculo = filteredContent;
-    }
-
-    return content;
-  });
-
-  const content = await Promise.all(promise);
-
-  res.send(content);
-});
-
-app.get("/updateFiles", async function(req, res) {
-  try {
-    await lojas.forEach(async loja => {
-      await getLojaInfo(loja.nome, loja.url);
-    });
-  } catch (err) {
-    throw new Error(err);
-  }
-
-  return res.send("Arquivos atualizados");
-});
+app.get("/", CarController.index);
+app.get("/marcas", MarcaController.index);
+app.get("/atualizar", UpdateController.store);
 
 app.use(cors());
-
-app.use(bodyParser.json());
 
 app.listen(process.env.PORT || 3333);
 
@@ -116,3 +36,15 @@ app.listen(process.env.PORT || 3333);
 // Autonunes (Olinda): http://xml.dsautoestoque.com/?l=40889222000474&v=2
 // Autonunes (Prazeres): http://xml.dsautoestoque.com/?l=40889222000121&v=2
 // Caxangá: http://xml.dsautoestoque.com/?l=09924937000128&v=2
+
+// Body do get /
+// {
+// 	"yearRange": [2017,2020],
+// 	"priceRange": [20000,90000],
+// 	"colors": ["azul", "preto", "cinza"],
+// 	"kmRange": [0, 100000],
+// 	"cambio": "Automático",
+// 	"marca": "chevrolet",
+//  "combustivel": "Flex",
+// "opcionais": ["Air bag", "Ar condicionado", "Banco de couro"]
+// }

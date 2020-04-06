@@ -3,137 +3,6 @@
 
 
   <veiculo>
-    <id>1347839</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PCL-1291</placa>
-    <marca id="14">BMW</marca>
-    <modelo id="2075"><![CDATA[ X1 ]]></modelo>
-    <versao id="8397"><![CDATA[ 2.0 16V Turbo Activeflex Sdrive20i ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2014</anofabricacao>
-    <anomodelo>2015</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>33286</km>
-    <portas>4</portas>
-    <cor id="2">Azul</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 83.990,00</preco>
-    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
-    <cadastro>29/01/2020 15:56</cadastro>
-    <alteracao>29/01/2020 15:56</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCL-1291_01.jpg?u=20200129155545</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1811</id>
-      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
-      <cnpj>14.989.426/0003-96</cnpj>
-      <endereco>
-        <logradouro>Av. dos Estados</logradouro>
-        <numero>55</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1328874</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDZ-9064</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="175"><![CDATA[ CLASSIC ]]></modelo>
-    <versao id="1033"><![CDATA[ 1.0 MPFI LS 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2014</anofabricacao>
-    <anomodelo>2015</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>77251</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 25.990,00</preco>
-    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
-    <cadastro>16/12/2019 17:09</cadastro>
-    <alteracao>16/12/2019 17:09</alteracao>
-    <complementos />
-    <opcionais />
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-9064_01.jpg?u=20191216170808</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1811</id>
-      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
-      <cnpj>14.989.426/0003-96</cnpj>
-      <endereco>
-        <logradouro>Av. dos Estados</logradouro>
-        <numero>55</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
     <id>1347812</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -150,10 +19,10 @@
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 33.990,00</preco>
+    <preco>R$ 33.490,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
     <cadastro>29/01/2020 15:23</cadastro>
-    <alteracao>29/01/2020 15:23</alteracao>
+    <alteracao>28/02/2020 08:53</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -164,6 +33,320 @@
     <acessorios />
     <fotos>
       <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PGY-0602_01.jpg?u=20200129152146</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1371069</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCI-7017</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="1658"><![CDATA[ 1.4 MPFI LTZ 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2019</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>15049</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 56.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>19/03/2020 11:59</cadastro>
+    <alteracao>19/03/2020 11:59</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCI-7017_01.jpg?u=20200319115835</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCI-7017_02.jpg?u=20200319115840</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCI-7017_03.jpg?u=20200319115843</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCI-7017_04.jpg?u=20200319115850</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCI-7017_05.jpg?u=20200319115852</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCI-7017_06.jpg?u=20200319115854</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCI-7017_07.jpg?u=20200319115856</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCI-7017_08.jpg?u=20200319115858</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCI-7017_09.jpg?u=20200319115900</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCI-7017_10.jpg?u=20200319115902</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCI-7017_11.jpg?u=20200319115904</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCI-7017_12.jpg?u=20200319115905</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCI-7017_13.jpg?u=20200319115907</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1371053</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>QOX-1439</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
+    <versao id="8058"><![CDATA[ 1.0 MPFI JOY 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>39395</km>
+    <portas>4</portas>
+    <cor id="12">Preto</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 39.490,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>19/03/2020 11:43</cadastro>
+    <alteracao>19/03/2020 11:43</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QOX-1439_01.jpg?u=20200319114222</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QOX-1439_02.jpg?u=20200319114225</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QOX-1439_03.jpg?u=20200319114227</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QOX-1439_04.jpg?u=20200319114228</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QOX-1439_05.jpg?u=20200319114230</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QOX-1439_06.jpg?u=20200319114231</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QOX-1439_10.jpg?u=20200319114237</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QOX-1439_07.jpg?u=20200319114233</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QOX-1439_08.jpg?u=20200319114234</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QOX-1439_09.jpg?u=20200319114236</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QOX-1439_11.jpg?u=20200319114250</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1362145</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCG-2185</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2280"><![CDATA[ SPIN ]]></modelo>
+    <versao id="9232"><![CDATA[ 1.8 Activ7 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>61857</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 63.962,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>02/03/2020 10:42</cadastro>
+    <alteracao>02/03/2020 10:42</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCG-2185_01.jpg?u=20200302103957</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1358788</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCQ-1988</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="213"><![CDATA[ TRACKER ]]></modelo>
+    <versao id="8859"><![CDATA[ 1.4 16V Turbo Premier ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>21317</km>
+    <portas>4</portas>
+    <cor id="15">Vermelho</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 74.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>20/02/2020 15:23</cadastro>
+    <alteracao>11/03/2020 10:47</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="71">Start / Stop Engine</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_01.jpg?u=20200311104704</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_02.jpg?u=20200311104716</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_03.jpg?u=20200311104723</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_04.jpg?u=20200311104726</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_05.jpg?u=20200311104729</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_06.jpg?u=20200311104731</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_07.jpg?u=20200311104733</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_08.jpg?u=20200311104735</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_09.jpg?u=20200311104737</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_10.jpg?u=20200311104738</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_11.jpg?u=20200311104742</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_12.jpg?u=20200311104742</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_13.jpg?u=20200311104744</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -231,7 +414,6 @@
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PEA-9169_02.jpg?u=20200129155354</foto>
       <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PEA-9169_01.jpg?u=20200129155152</foto>
     </fotos>
     <foto360>
@@ -269,13 +451,13 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1347821</id>
+    <id>1362105</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
     <placa>KIH-5426</placa>
     <marca id="39">FIAT</marca>
     <modelo id="332"><![CDATA[ PALIO ]]></modelo>
-    <versao id="2341"><![CDATA[ 1.4 MPI Attractive 8V ]]></versao>
+    <versao id="2343"><![CDATA[ 1.4 MPI Attractive Weekend 8V ]]></versao>
     <tipomotor>
     </tipomotor>
     <anofabricacao>2013</anofabricacao>
@@ -287,10 +469,11 @@
     <combustivel id="5">Flex</combustivel>
     <preco>R$ 27.990,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
-    <cadastro>29/01/2020 15:45</cadastro>
-    <alteracao>29/01/2020 15:45</alteracao>
+    <cadastro>02/03/2020 09:58</cadastro>
+    <alteracao>02/03/2020 10:15</alteracao>
     <complementos />
     <opcionais>
+      <opcional id="54">Air bag</opcional>
       <opcional id="6">Ar condicionado</opcional>
       <opcional id="20">Direção hidráulica</opcional>
       <opcional id="36">Travas elétricas</opcional>
@@ -298,7 +481,7 @@
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/KIH-5426_01.jpg?u=20200129154453</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/KIH-5426_01.jpg?u=20200302095802</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -335,37 +518,132 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1334013</id>
+    <id>1358800</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PCN-3579</placa>
-    <marca id="41">FORD</marca>
-    <modelo id="357"><![CDATA[ ECOSPORT ]]></modelo>
-    <versao id="2664"><![CDATA[ 1.6 Freestyle 16V ]]></versao>
+    <placa>PGW-9784</placa>
+    <marca id="48">HONDA</marca>
+    <modelo id="2019"><![CDATA[ CITY ]]></modelo>
+    <versao id="3450"><![CDATA[ 1.5 EXL 16V ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2016</anofabricacao>
+    <anofabricacao>2017</anofabricacao>
     <anomodelo>2017</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>42588</km>
+    <cambio id="1">Automático</cambio>
+    <km>49400</km>
     <portas>4</portas>
-    <cor id="4">Branco</cor>
+    <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 49.990,00</preco>
+    <preco>R$ 64.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>28/12/2019 14:52</cadastro>
-    <alteracao>08/02/2020 14:47</alteracao>
+    <cadastro>20/02/2020 15:34</cadastro>
+    <alteracao>11/03/2020 11:01</alteracao>
     <complementos />
-    <opcionais />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCN-3579_01.jpg?u=20200108170849</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCN-3579_03.jpg?u=20200108170856</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCN-3579_02.jpg?u=20200108170850</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCN-3579_04.jpg?u=20200108170858</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCN-3579_05.jpg?u=20200108170904</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCN-3579_06.jpg?u=20200108170905</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCN-3579_07.jpg?u=20200108170906</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PGW-9784_01.jpg?u=20200311105847</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PGW-9784_02.jpg?u=20200311105853</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PGW-9784_03.jpg?u=20200311105859</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PGW-9784_04.jpg?u=20200311105901</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PGW-9784_05.jpg?u=20200311105905</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PGW-9784_06.jpg?u=20200311105909</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PGW-9784_07.jpg?u=20200311105914</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PGW-9784_08.jpg?u=20200311105915</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PGW-9784_09.jpg?u=20200311105917</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PGW-9784_10.jpg?u=20200311105918</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PGW-9784_11.jpg?u=20200311105926</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PGW-9784_12.jpg?u=20200311105929</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PGW-9784_13.jpg?u=20200311105930</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1362099</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDC-2456</placa>
+    <marca id="50">HYUNDAI</marca>
+    <modelo id="2295"><![CDATA[ HB20 ]]></modelo>
+    <versao id="3588"><![CDATA[ 1.0 Comfort 12V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>31274</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 36.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>02/03/2020 09:49</cadastro>
+    <alteracao>02/03/2020 09:49</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDC-2456_01.jpg?u=20200302094627</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDC-2456_02.jpg?u=20200302094629</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDC-2456_03.jpg?u=20200302094631</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDC-2456_04.jpg?u=20200302094633</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDC-2456_05.jpg?u=20200302094635</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDC-2456_06.jpg?u=20200302094637</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDC-2456_07.jpg?u=20200302094639</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDC-2456_08.jpg?u=20200302094640</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDC-2456_09.jpg?u=20200302094643</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDC-2456_10.jpg?u=20200302094644</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDC-2456_11.jpg?u=20200302094647</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDC-2456_13.jpg?u=20200302094709</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDC-2456_12.jpg?u=20200302094652</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -418,10 +696,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 63.990,00</preco>
+    <preco>R$ 60.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>28/12/2019 14:58</cadastro>
-    <alteracao>28/12/2019 15:02</alteracao>
+    <alteracao>28/02/2020 08:53</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -483,19 +761,112 @@
     <anofabricacao>2016</anofabricacao>
     <anomodelo>2017</anomodelo>
     <cambio id="1">Automático</cambio>
-    <km>26000</km>
+    <km>48603</km>
     <portas>4</portas>
     <cor id="1">Amarelo</cor>
     <combustivel id="3">Diesel</combustivel>
     <preco>R$ 108.990,00</preco>
-    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>13/01/2020 17:13</cadastro>
-    <alteracao>13/01/2020 17:52</alteracao>
+    <alteracao>21/02/2020 17:58</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDW-0807_01.jpg?u=20200113171213</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDW-0807_01.jpg?u=20200221175735</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDW-0807_02.jpg?u=20200221175738</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDW-0807_03.jpg?u=20200221175740</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDW-0807_04.jpg?u=20200221175754</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDW-0807_05.jpg?u=20200221175757</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDW-0807_06.jpg?u=20200221175759</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDW-0807_07.jpg?u=20200221175801</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDW-0807_08.jpg?u=20200221175803</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDW-0807_09.jpg?u=20200221175804</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDW-0807_10.jpg?u=20200221175806</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDW-0807_11.jpg?u=20200221175808</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDW-0807_12.jpg?u=20200221175810</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1354066</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCM-9660</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="760"><![CDATA[ FRONTIER ]]></modelo>
+    <versao id="8594"><![CDATA[ 2.3 16V Turbo LE CD 4X4 ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>57643</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="3">Diesel</combustivel>
+    <preco>R$ 120.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>11/02/2020 16:29</cadastro>
+    <alteracao>02/03/2020 08:44</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="71">Start / Stop Engine</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCM-9660_01.jpg?u=20200302084402</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCM-9660_02.jpg?u=20200302084405</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCM-9660_03.jpg?u=20200302084407</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCM-9660_04.jpg?u=20200302084410</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCM-9660_05.jpg?u=20200302084412</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCM-9660_06.jpg?u=20200302084414</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCM-9660_07.jpg?u=20200302084418</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCM-9660_08.jpg?u=20200302084421</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCM-9660_09.jpg?u=20200302084433</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCM-9660_10.jpg?u=20200302084437</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCM-9660_11.jpg?u=20200302084438</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -593,41 +964,52 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1334026</id>
+    <id>1362081</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PDM-2812</placa>
+    <placa>PCH-7553</placa>
     <marca id="82">NISSAN</marca>
     <modelo id="3615"><![CDATA[ KICKS ]]></modelo>
-    <versao id="9468"><![CDATA[ 1.6 16vstart SV Limited ]]></versao>
+    <versao id="9467"><![CDATA[ 1.6 16vstart SV ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2017</anomodelo>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
     <cambio id="15">XTronic</cambio>
-    <km>57079</km>
+    <km>19744</km>
     <portas>4</portas>
     <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 62.500,00</preco>
-    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
-    <cadastro>28/12/2019 15:11</cadastro>
-    <alteracao>06/01/2020 15:02</alteracao>
+    <preco>R$ 72.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>02/03/2020 09:08</cadastro>
+    <alteracao>02/03/2020 09:08</alteracao>
     <complementos />
-    <opcionais />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="71">Start / Stop Engine</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_01.jpg?u=20191228150932</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_02.jpg?u=20191228150937</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_04.jpg?u=20191228151103</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_03.jpg?u=20191228150938</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_05.jpg?u=20191228151104</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_06.jpg?u=20191228151107</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_07.jpg?u=20191228151114</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_08.jpg?u=20191228151119</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_09.jpg?u=20191228151120</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_10.jpg?u=20191228151127</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2812_11.jpg?u=20191228151129</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCH-7553_01.jpg?u=20200302090511</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCH-7553_02.jpg?u=20200302090517</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCH-7553_03.jpg?u=20200302090524</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCH-7553_04.jpg?u=20200302090530</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCH-7553_05.jpg?u=20200302090538</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCH-7553_06.jpg?u=20200302090543</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCH-7553_07.jpg?u=20200302090552</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCH-7553_08.jpg?u=20200302090555</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCH-7553_09.jpg?u=20200302090759</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCH-7553_10.jpg?u=20200302090803</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCH-7553_11.jpg?u=20200302090807</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -664,31 +1046,31 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1334018</id>
+    <id>1367051</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PDD-9984</placa>
+    <placa>PDM-2328</placa>
     <marca id="82">NISSAN</marca>
-    <modelo id="2231"><![CDATA[ MARCH ]]></modelo>
-    <versao id="7363"><![CDATA[ 1.0 S 12V ]]></versao>
+    <modelo id="2252"><![CDATA[ VERSA ]]></modelo>
+    <versao id="7449"><![CDATA[ 1.6 16V SL ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2016</anofabricacao>
+    <anofabricacao>2015</anofabricacao>
     <anomodelo>2016</anomodelo>
     <cambio id="3">Manual</cambio>
-    <km>89400</km>
+    <km>47872</km>
     <portas>4</portas>
-    <cor id="12">Preto</cor>
+    <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 27.000,00</preco>
+    <preco>R$ 40.990,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
-    <cadastro>28/12/2019 15:06</cadastro>
-    <alteracao>28/12/2019 15:06</alteracao>
+    <cadastro>11/03/2020 17:28</cadastro>
+    <alteracao>11/03/2020 17:28</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDD-9984_01.jpg?u=20191228150406</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDM-2328_01.jpg?u=20200311172826</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -725,115 +1107,46 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1347808</id>
+    <id>1367046</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PDZ-0231</placa>
+    <placa>QPW-0355</placa>
     <marca id="89">RENAULT</marca>
-    <modelo id="842"><![CDATA[ SANDERO ]]></modelo>
-    <versao id="8508"><![CDATA[ 1.6 16V SCE Stepway ]]></versao>
+    <modelo id="839"><![CDATA[ LOGAN ]]></modelo>
+    <versao id="8468"><![CDATA[ 1.0 12V SCE Authentique ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2017</anomodelo>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
     <cambio id="3">Manual</cambio>
-    <km>37188</km>
+    <km>41665</km>
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 39.990,00</preco>
+    <preco>R$ 37.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>29/01/2020 15:15</cadastro>
-    <alteracao>08/02/2020 14:56</alteracao>
+    <cadastro>11/03/2020 17:21</cadastro>
+    <alteracao>11/03/2020 17:23</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
       <opcional id="6">Ar condicionado</opcional>
       <opcional id="20">Direção hidráulica</opcional>
       <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
       <opcional id="36">Travas elétricas</opcional>
       <opcional id="38">Vidros elétricos</opcional>
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-0231_01.jpg?u=20200204111052</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-0231_02.jpg?u=20200204111054</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-0231_03.jpg?u=20200204111057</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-0231_04.jpg?u=20200204111059</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-0231_05.jpg?u=20200204111102</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-0231_06.jpg?u=20200204111104</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PDZ-0231_07.jpg?u=20200204111107</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1811</id>
-      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
-      <cnpj>14.989.426/0003-96</cnpj>
-      <endereco>
-        <logradouro>Av. dos Estados</logradouro>
-        <numero>55</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1334036</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>QPM-4431</placa>
-    <marca id="109">VOLKSWAGEN</marca>
-    <modelo id="934"><![CDATA[ GOL ]]></modelo>
-    <versao id="9198"><![CDATA[ 1.0 12V MPI Totalflex ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2018</anofabricacao>
-    <anomodelo>2019</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>32446</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 34.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>28/12/2019 15:22</cadastro>
-    <alteracao>06/01/2020 15:47</alteracao>
-    <complementos />
-    <opcionais />
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_01.jpg?u=20191228152130</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_02.jpg?u=20191228152132</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_03.jpg?u=20191228152133</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_04.jpg?u=20191228152135</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_05.jpg?u=20191228152137</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_06.jpg?u=20191228152144</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_07.jpg?u=20191228152145</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_08.jpg?u=20191228152148</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPM-4431_09.jpg?u=20191228152150</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPW-0355_01.jpg?u=20200311172323</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPW-0355_02.jpg?u=20200311172026</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPW-0355_03.jpg?u=20200311172031</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPW-0355_05.jpg?u=20200311172037</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPW-0355_04.jpg?u=20200311172034</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPW-0355_06.jpg?u=20200311172039</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPW-0355_07.jpg?u=20200311172042</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPW-0355_08.jpg?u=20200311172046</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/QPW-0355_10.jpg?u=20200311172054</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -886,10 +1199,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 34.990,00</preco>
+    <preco>R$ 32.998,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
     <cadastro>28/12/2019 14:40</cadastro>
-    <alteracao>28/12/2019 14:42</alteracao>
+    <alteracao>28/02/2020 08:52</alteracao>
     <complementos />
     <opcionais />
     <acessorios />

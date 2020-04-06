@@ -12,7 +12,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.js"></script>
     <script>
       async function main() {
-        const { data } = await axios.get("https://autotop.herokuapp.com/");
+        const { data } = await axios.get(
+          "https://autotop.herokuapp.com/?year=2018"
+        );
         console.log(data);
 
         const div = document.querySelector("div.content");

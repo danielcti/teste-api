@@ -3,52 +3,53 @@
 
 
   <veiculo>
-    <id>1345502</id>
+    <id>1364394</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PEB-9015</placa>
+    <placa>PGV-5499</placa>
     <marca id="23">CHEVROLET</marca>
     <modelo id="2244"><![CDATA[ COBALT ]]></modelo>
     <versao id="1640"><![CDATA[ 1.8 MPFI LTZ 8V ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2019</anofabricacao>
-    <anomodelo>2019</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>6495</km>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>40327</km>
     <portas>4</portas>
-    <cor id="11">Prata</cor>
+    <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 60.990,00</preco>
+    <preco>R$ 51.490,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>24/01/2020 11:44</cadastro>
-    <alteracao>24/01/2020 11:44</alteracao>
+    <cadastro>05/03/2020 16:41</cadastro>
+    <alteracao>09/03/2020 09:19</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
       <opcional id="6">Ar condicionado</opcional>
       <opcional id="12">Bancos de couro</opcional>
       <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
       <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
       <opcional id="36">Travas elétricas</opcional>
       <opcional id="38">Vidros elétricos</opcional>
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PEB-9015_01.jpg?u=20200124114212</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PEB-9015_02.jpg?u=20200124114215</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PEB-9015_03.jpg?u=20200124114218</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PEB-9015_04.jpg?u=20200124114222</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PEB-9015_10.jpg?u=20200124114245</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PEB-9015_09.jpg?u=20200124114242</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PEB-9015_06.jpg?u=20200124114230</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PEB-9015_12.jpg?u=20200124114251</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PEB-9015_11.jpg?u=20200124114249</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PEB-9015_05.jpg?u=20200124114226</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PEB-9015_07.jpg?u=20200124114233</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PEB-9015_08.jpg?u=20200124114237</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PEB-9015_13.jpg?u=20200124114255</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PGV-5499_01.jpg?u=20200305163807</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PGV-5499_02.jpg?u=20200305163810</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PGV-5499_03.jpg?u=20200305163813</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PGV-5499_04.jpg?u=20200305163818</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PGV-5499_05.jpg?u=20200305163826</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PGV-5499_06.jpg?u=20200305163832</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PGV-5499_07.jpg?u=20200305163836</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PGV-5499_08.jpg?u=20200305163841</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PGV-5499_09.jpg?u=20200305163846</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PGV-5499_10.jpg?u=20200305163850</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PGV-5499_11.jpg?u=20200305163855</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PGV-5499_12.jpg?u=20200305163901</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PGV-5499_13.jpg?u=20200305163907</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PGV-5499_14.jpg?u=20200305163913</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -101,10 +102,10 @@
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="6">Gasolina</combustivel>
-    <preco>R$ 109.990,00</preco>
+    <preco>R$ 107.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>24/01/2020 12:14</cadastro>
-    <alteracao>28/01/2020 09:29</alteracao>
+    <alteracao>27/02/2020 09:19</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -169,26 +170,26 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1345037</id>
+    <id>1370034</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>QOX-1439</placa>
+    <placa>QPR-2992</placa>
     <marca id="23">CHEVROLET</marca>
-    <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
-    <versao id="8058"><![CDATA[ 1.0 MPFI JOY 8V ]]></versao>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="8059"><![CDATA[ 1.0 MPFI JOY 8V ]]></versao>
     <tipomotor>
     </tipomotor>
     <anofabricacao>2018</anofabricacao>
-    <anomodelo>2018</anomodelo>
+    <anomodelo>2019</anomodelo>
     <cambio id="3">Manual</cambio>
-    <km>39603</km>
+    <km>45046</km>
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 39.990,00</preco>
+    <preco>R$ 38.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>23/01/2020 14:39</cadastro>
-    <alteracao>24/01/2020 12:20</alteracao>
+    <cadastro>17/03/2020 16:23</cadastro>
+    <alteracao>17/03/2020 16:23</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -200,17 +201,18 @@
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QOX-1439_01.jpg?u=20200124121837</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QOX-1439_02.jpg?u=20200124121844</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QOX-1439_03.jpg?u=20200124121849</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QOX-1439_04.jpg?u=20200124121853</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QOX-1439_05.jpg?u=20200124121859</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QOX-1439_06.jpg?u=20200124121909</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QOX-1439_11.jpg?u=20200124121940</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QOX-1439_07.jpg?u=20200124121915</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QOX-1439_08.jpg?u=20200124121920</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QOX-1439_09.jpg?u=20200124121931</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QOX-1439_10.jpg?u=20200124121935</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_01.jpg?u=20200317162147</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_02.jpg?u=20200317162151</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_03.jpg?u=20200317162159</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_04.jpg?u=20200317162204</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_05.jpg?u=20200317162215</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_06.jpg?u=20200317162219</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_07.jpg?u=20200317162223</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_08.jpg?u=20200317162229</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_09.jpg?u=20200317162233</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_10.jpg?u=20200317162236</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_11.jpg?u=20200317162239</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_12.jpg?u=20200317162245</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -247,26 +249,26 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1345425</id>
+    <id>1371163</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PDW-3997</placa>
+    <placa>PCM-4859</placa>
     <marca id="23">CHEVROLET</marca>
-    <modelo id="213"><![CDATA[ TRACKER ]]></modelo>
-    <versao id="7832"><![CDATA[ 1.8 MPFI LT 4X2 16V ]]></versao>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="1658"><![CDATA[ 1.4 MPFI LTZ 8V ]]></versao>
     <tipomotor>
     </tipomotor>
     <anofabricacao>2016</anofabricacao>
-    <anomodelo>2016</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>14479</km>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>55074</km>
     <portas>4</portas>
-    <cor id="11">Prata</cor>
+    <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 59.990,00</preco>
+    <preco>R$ 44.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>24/01/2020 10:30</cadastro>
-    <alteracao>24/01/2020 10:40</alteracao>
+    <cadastro>19/03/2020 14:27</cadastro>
+    <alteracao>19/03/2020 14:39</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -281,19 +283,180 @@
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDW-3997_01.jpg?u=20200124102703</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDW-3997_02.jpg?u=20200124102705</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDW-3997_03.jpg?u=20200124102706</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDW-3997_04.jpg?u=20200124102708</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDW-3997_08.jpg?u=20200124102727</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDW-3997_10.jpg?u=20200124102732</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDW-3997_15.jpg?u=20200124102741</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDW-3997_07.jpg?u=20200124102722</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDW-3997_09.jpg?u=20200124102731</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDW-3997_11.jpg?u=20200124102733</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDW-3997_12.jpg?u=20200124102733</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDW-3997_13.jpg?u=20200124102736</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDW-3997_14.jpg?u=20200124102737</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-4859_01.jpg?u=20200319143556</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-4859_02.jpg?u=20200319143605</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-4859_03.jpg?u=20200319143623</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-4859_04.jpg?u=20200319143644</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-4859_05.jpg?u=20200319143654</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-4859_06.jpg?u=20200319143725</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-4859_07.jpg?u=20200319143738</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-4859_08.jpg?u=20200319143745</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-4859_09.jpg?u=20200319143752</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-4859_10.jpg?u=20200319143758</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-4859_11.jpg?u=20200319143914</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-4859_12.jpg?u=20200319143923</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1136</id>
+      <nomefantasia>Autonunes (Boa Viagem)</nomefantasia>
+      <cnpj>40.889.222/0003-93</cnpj>
+      <endereco>
+        <logradouro>Av. Engenheiro Domingos Ferreira</logradouro>
+        <numero>266</numero>
+        <complemento>
+        </complemento>
+        <bairro>Pina</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>51011-050</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1371102</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCM-8752</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
+    <versao id="8058"><![CDATA[ 1.0 MPFI JOY 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>43245</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 38.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>19/03/2020 12:54</cadastro>
+    <alteracao>19/03/2020 14:16</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-8752_01.jpg?u=20200319125043</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-8752_02.jpg?u=20200319125047</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-8752_03.jpg?u=20200319125050</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-8752_04.jpg?u=20200319125054</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-8752_05.jpg?u=20200319125100</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-8752_06.jpg?u=20200319125104</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-8752_07.jpg?u=20200319125109</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-8752_08.jpg?u=20200319125115</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-8752_09.jpg?u=20200319125120</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCM-8752_10.jpg?u=20200319125125</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1136</id>
+      <nomefantasia>Autonunes (Boa Viagem)</nomefantasia>
+      <cnpj>40.889.222/0003-93</cnpj>
+      <endereco>
+        <logradouro>Av. Engenheiro Domingos Ferreira</logradouro>
+        <numero>266</numero>
+        <complemento>
+        </complemento>
+        <bairro>Pina</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>51011-050</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1355840</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDH-3257</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="213"><![CDATA[ TRACKER ]]></modelo>
+    <versao id="9515"><![CDATA[ 1.4 16V Turbo Midnight ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>12239</km>
+    <portas>4</portas>
+    <cor id="12">Preto</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 84.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>14/02/2020 11:28</cadastro>
+    <alteracao>05/03/2020 16:21</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="71">Start / Stop Engine</opcional>
+      <opcional id="33">Teto solar</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_01.jpg?u=20200214112546</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_02.jpg?u=20200214112549</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_03.jpg?u=20200214112555</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_04.jpg?u=20200214112603</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_05.jpg?u=20200214112612</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_06.jpg?u=20200214112621</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_07.jpg?u=20200214112627</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_08.jpg?u=20200214112633</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_09.jpg?u=20200214112637</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_10.jpg?u=20200214112642</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_11.jpg?u=20200214112648</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_12.jpg?u=20200214112654</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_13.jpg?u=20200214112659</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_14.jpg?u=20200214112709</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -346,10 +509,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 59.990,00</preco>
+    <preco>R$ 57.490,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>24/01/2020 10:50</cadastro>
-    <alteracao>28/01/2020 09:30</alteracao>
+    <alteracao>27/02/2020 09:22</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -414,47 +577,48 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1345482</id>
+    <id>1369919</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PWW-4288</placa>
+    <placa>OYQ-0102</placa>
     <marca id="41">FORD</marca>
     <modelo id="379"><![CDATA[ KA ]]></modelo>
-    <versao id="3020"><![CDATA[ 1.0 SE 12V ]]></versao>
+    <versao id="3025"><![CDATA[ 1.5 SE 16V ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2015</anofabricacao>
-    <anomodelo>2016</anomodelo>
+    <anofabricacao>2014</anofabricacao>
+    <anomodelo>2015</anomodelo>
     <cambio id="3">Manual</cambio>
-    <km>46945</km>
+    <km>52660</km>
     <portas>4</portas>
-    <cor id="11">Prata</cor>
+    <cor id="9">Laranja</cor>
     <combustivel id="5">Flex</combustivel>
     <preco>R$ 34.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>24/01/2020 11:22</cadastro>
-    <alteracao>24/01/2020 11:22</alteracao>
+    <cadastro>17/03/2020 14:15</cadastro>
+    <alteracao>17/03/2020 14:15</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
       <opcional id="6">Ar condicionado</opcional>
       <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
       <opcional id="36">Travas elétricas</opcional>
       <opcional id="38">Vidros elétricos</opcional>
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PWW-4288_01.jpg?u=20200124111831</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PWW-4288_02.jpg?u=20200124111834</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PWW-4288_03.jpg?u=20200124111838</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PWW-4288_04.jpg?u=20200124111841</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PWW-4288_06.jpg?u=20200124111849</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PWW-4288_07.jpg?u=20200124111853</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PWW-4288_08.jpg?u=20200124111857</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PWW-4288_05.jpg?u=20200124111845</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PWW-4288_09.jpg?u=20200124111902</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PWW-4288_10.jpg?u=20200124111908</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PWW-4288_11.jpg?u=20200124111911</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_02.jpg?u=20200317141334</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_03.jpg?u=20200317141403</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_04.jpg?u=20200317141409</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_05.jpg?u=20200317141420</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_06.jpg?u=20200317141425</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_07.jpg?u=20200317141430</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_08.jpg?u=20200317141435</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_09.jpg?u=20200317141439</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_10.jpg?u=20200317141445</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_11.jpg?u=20200317141449</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_12.jpg?u=20200317141453</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -572,6 +736,171 @@
     </loja>
   </veiculo>
   <veiculo>
+    <id>1362024</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCN-5566</placa>
+    <marca id="50">HYUNDAI</marca>
+    <modelo id="2295"><![CDATA[ HB20 ]]></modelo>
+    <versao id="3593"><![CDATA[ 1.6 Comfort Plus 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>58283</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 39.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>29/02/2020 17:15</cadastro>
+    <alteracao>29/02/2020 17:15</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="8">Ar quente</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCN-5566_01.jpg?u=20200229171417</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCN-5566_02.jpg?u=20200229171419</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCN-5566_03.jpg?u=20200229171422</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCN-5566_04.jpg?u=20200229171425</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCN-5566_05.jpg?u=20200229171427</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCN-5566_06.jpg?u=20200229171430</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCN-5566_07.jpg?u=20200229171434</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCN-5566_08.jpg?u=20200229171436</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCN-5566_09.jpg?u=20200229171440</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCN-5566_10.jpg?u=20200229171442</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCN-5566_11.jpg?u=20200229171445</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCN-5566_12.jpg?u=20200229171447</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCN-5566_13.jpg?u=20200229171450</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCN-5566_14.jpg?u=20200229171453</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1136</id>
+      <nomefantasia>Autonunes (Boa Viagem)</nomefantasia>
+      <cnpj>40.889.222/0003-93</cnpj>
+      <endereco>
+        <logradouro>Av. Engenheiro Domingos Ferreira</logradouro>
+        <numero>266</numero>
+        <complemento>
+        </complemento>
+        <bairro>Pina</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>51011-050</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1355806</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDV-4071</placa>
+    <marca id="50">HYUNDAI</marca>
+    <modelo id="2309"><![CDATA[ HB20X ]]></modelo>
+    <versao id="3598"><![CDATA[ 1.6 16V Style ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>52645</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 47.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>14/02/2020 10:46</cadastro>
+    <alteracao>14/02/2020 16:17</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios>
+      <acessorio id="22">Rádio</acessorio>
+    </acessorios>
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDV-4071_01.jpg?u=20200214104843</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDV-4071_02.jpg?u=20200214104847</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDV-4071_03.jpg?u=20200214104851</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDV-4071_04.jpg?u=20200214104856</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDV-4071_05.jpg?u=20200214104902</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDV-4071_06.jpg?u=20200214104907</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDV-4071_07.jpg?u=20200214104912</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDV-4071_08.jpg?u=20200214104918</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDV-4071_09.jpg?u=20200214104928</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDV-4071_10.jpg?u=20200214104933</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDV-4071_11.jpg?u=20200214104938</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDV-4071_12.jpg?u=20200214104946</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDV-4071_13.jpg?u=20200214104952</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1136</id>
+      <nomefantasia>Autonunes (Boa Viagem)</nomefantasia>
+      <cnpj>40.889.222/0003-93</cnpj>
+      <endereco>
+        <logradouro>Av. Engenheiro Domingos Ferreira</logradouro>
+        <numero>266</numero>
+        <complemento>
+        </complemento>
+        <bairro>Pina</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>51011-050</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
     <id>1345390</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -588,10 +917,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 95.990,00</preco>
+    <preco>R$ 90.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>24/01/2020 10:08</cadastro>
-    <alteracao>24/01/2020 10:11</alteracao>
+    <alteracao>27/02/2020 09:18</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -671,10 +1000,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 37.895,00</preco>
+    <preco>R$ 36.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>24/01/2020 12:08</cadastro>
-    <alteracao>24/01/2020 12:09</alteracao>
+    <alteracao>27/02/2020 09:24</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -733,31 +1062,31 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1345275</id>
+    <id>1360485</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>OYP-4115</placa>
-    <marca id="109">VOLKSWAGEN</marca>
-    <modelo id="935"><![CDATA[ GOLF ]]></modelo>
-    <versao id="6443"><![CDATA[ 1.4 TSI Highline 16V ]]></versao>
+    <placa>PDY-6193</placa>
+    <marca id="89">RENAULT</marca>
+    <modelo id="3714"><![CDATA[ CAPTUR ]]></modelo>
+    <versao id="8580"><![CDATA[ 1.6 16V SCE ZEN ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2014</anofabricacao>
-    <anomodelo>2014</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>38089</km>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="15">XTronic</cambio>
+    <km>40395</km>
     <portas>4</portas>
-    <cor id="6">Cinza</cor>
-    <combustivel id="6">Gasolina</combustivel>
-    <preco>R$ 59.990,00</preco>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 66.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>23/01/2020 18:54</cadastro>
-    <alteracao>28/01/2020 09:31</alteracao>
+    <cadastro>27/02/2020 09:34</cadastro>
+    <alteracao>27/02/2020 09:36</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
-      <opcional id="12">Bancos de couro</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
       <opcional id="29">Retrovisores elétricos</opcional>
       <opcional id="30">Rodas de liga leve</opcional>
       <opcional id="71">Start / Stop Engine</opcional>
@@ -766,16 +1095,174 @@
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYP-4115_02.jpg?u=20200123184602</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYP-4115_03.jpg?u=20200123184604</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYP-4115_04.jpg?u=20200123184610</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYP-4115_05.jpg?u=20200123184611</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYP-4115_06.jpg?u=20200123184614</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYP-4115_07.jpg?u=20200123184616</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYP-4115_08.jpg?u=20200123184618</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYP-4115_09.jpg?u=20200123184619</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYP-4115_10.jpg?u=20200123184833</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYP-4115_11.jpg?u=20200123184835</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDY-6193_01.jpg?u=20200227093547</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDY-6193_02.jpg?u=20200227093550</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDY-6193_03.jpg?u=20200227093553</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDY-6193_04.jpg?u=20200227093601</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDY-6193_05.jpg?u=20200227093608</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDY-6193_06.jpg?u=20200227093611</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDY-6193_07.jpg?u=20200227093620</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDY-6193_08.jpg?u=20200227093625</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDY-6193_09.jpg?u=20200227093628</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDY-6193_10.jpg?u=20200227093632</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1136</id>
+      <nomefantasia>Autonunes (Boa Viagem)</nomefantasia>
+      <cnpj>40.889.222/0003-93</cnpj>
+      <endereco>
+        <logradouro>Av. Engenheiro Domingos Ferreira</logradouro>
+        <numero>266</numero>
+        <complemento>
+        </complemento>
+        <bairro>Pina</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>51011-050</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1362021</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>QQF-3350</placa>
+    <marca id="89">RENAULT</marca>
+    <modelo id="839"><![CDATA[ LOGAN ]]></modelo>
+    <versao id="8468"><![CDATA[ 1.0 12V SCE Authentique ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2019</anofabricacao>
+    <anomodelo>2020</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>30789</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 39.263,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>29/02/2020 17:11</cadastro>
+    <alteracao>29/02/2020 17:18</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="8">Ar quente</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_01.jpg?u=20200229171656</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_02.jpg?u=20200229171701</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_03.jpg?u=20200229171705</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_04.jpg?u=20200229171709</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_05.jpg?u=20200229171714</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_06.jpg?u=20200229171718</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_07.jpg?u=20200229171722</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_08.jpg?u=20200229171726</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_09.jpg?u=20200229171729</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_10.jpg?u=20200229171733</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1136</id>
+      <nomefantasia>Autonunes (Boa Viagem)</nomefantasia>
+      <cnpj>40.889.222/0003-93</cnpj>
+      <endereco>
+        <logradouro>Av. Engenheiro Domingos Ferreira</logradouro>
+        <numero>266</numero>
+        <complemento>
+        </complemento>
+        <bairro>Pina</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>51011-050</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1362017</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDR-5069</placa>
+    <marca id="89">RENAULT</marca>
+    <modelo id="842"><![CDATA[ SANDERO ]]></modelo>
+    <versao id="5768"><![CDATA[ 1.6 Stepway 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2016</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>37456</km>
+    <portas>4</portas>
+    <cor id="12">Preto</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 38.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>29/02/2020 17:07</cadastro>
+    <alteracao>29/02/2020 17:07</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDR-5069_01.jpg?u=20200229170517</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDR-5069_02.jpg?u=20200229170520</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDR-5069_03.jpg?u=20200229170523</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDR-5069_04.jpg?u=20200229170526</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDR-5069_05.jpg?u=20200229170529</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDR-5069_06.jpg?u=20200229170532</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDR-5069_07.jpg?u=20200229170536</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDR-5069_08.jpg?u=20200229170539</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDR-5069_09.jpg?u=20200229170542</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDR-5069_10.jpg?u=20200229170545</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDR-5069_11.jpg?u=20200229170548</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDR-5069_12.jpg?u=20200229170555</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDR-5069_13.jpg?u=20200229170557</foto>
     </fotos>
     <foto360>
       <exterior>
