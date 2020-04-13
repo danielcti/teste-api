@@ -19,7 +19,7 @@ app.use(function (req, res, next) {
 
 app.use(bodyParser.json());
 
-app.get("/", CarController.index);
+app.post("/", CarController.index);
 app.get("/marcas", MarcaController.index);
 app.get("/atualizar", UpdateController.store);
 

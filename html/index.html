@@ -7,26 +7,36 @@
     <title>Document</title>
   </head>
   <body>
+    <div class="ano">
+      De <input type="text" name="a" placeholder="ex: 2010" /> Até
+      <input type="text" name="b" placeholder="ex: 2018" />
+      <button>Atualizar busca</button>
+    </div>
     <div class="content"></div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.js"></script>
     <script>
-      async function main() {
-        const { data } = await axios.get(
-          "https://autotop.herokuapp.com/?year=2018"
-        );
+      async function main(a, b) {
+        const { data } = await axios.post("http://localhost:3333", {
+          yearRange: [a, b],
+        });
         console.log(data);
 
         const div = document.querySelector("div.content");
         const object = data[0].estoque.veiculo[0];
         const array = Object.entries(object);
 
-        array.forEach(item => {
+        array.forEach((item) => {
           console.log(item);
           div.innerHTML += item[0] + ":" + item[1] + "<br>";
         });
       }
-      main();
+
+      document.querySelector("button").addEventListener("click", () => {
+        var a = document.querySelector("input[name=a]").value;
+        var b = document.querySelector("input[name=b]").value;
+        main(a, b);
+      });
     </script>
   </body>
 </html>

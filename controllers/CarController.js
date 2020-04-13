@@ -94,7 +94,7 @@ module.exports = {
       if (combustivel) {
         const filteredContent = await content.estoque.veiculo.filter(
           (carro) => {
-            return carro.combustivel[0]._.toLowerCase() === combustivel;
+            return carro.combustivel[0]._ === combustivel;
           }
         );
         content.estoque.veiculo = filteredContent;
