@@ -4,6 +4,7 @@ const parseString = require("xml2js").parseString;
 const util = require("util");
 var _ = require("underscore");
 const filterPrice = require("../utils/filterPrice");
+const category = require("../utils/categoryHash.json");
 
 const fsp = fs.promises;
 const readdir = util.promisify(fs.readdir);
@@ -32,6 +33,14 @@ module.exports = {
       await parseString(parsedData, function (err, result) {
         content = result;
       });
+
+      await content.estoque.veiculo.forEach((carro) => {
+        const modelo = carro.modelo[0]._.trim();
+        if (category[modelo]) {
+          carro.categoria = category[modelo];
+        }
+      });
+
       if (yearRange) {
         const filteredContent = await content.estoque.veiculo.filter(
           (carro) => {
