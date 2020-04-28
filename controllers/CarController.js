@@ -20,6 +20,7 @@ module.exports = {
       marca,
       combustivel,
       opcionais,
+      id,
     } = req.body;
 
     const dir = path.join(__dirname, "../files");
@@ -104,6 +105,15 @@ module.exports = {
         const filteredContent = await content.estoque.veiculo.filter(
           (carro) => {
             return carro.combustivel[0]._ === combustivel;
+          }
+        );
+        content.estoque.veiculo = filteredContent;
+      }
+
+      if (id) {
+        const filteredContent = await content.estoque.veiculo.filter(
+          (carro) => {
+            return carro.id[0] === id;
           }
         );
         content.estoque.veiculo = filteredContent;
