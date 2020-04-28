@@ -66,7 +66,7 @@ module.exports = {
         const filteredContent = await content.estoque.veiculo.filter(
           (carro) => {
             return filterPrice(carro.preco[0], priceRange[0], priceRange[1]);
-          }
+          } 
         );
         content.estoque.veiculo = filteredContent;
       }
