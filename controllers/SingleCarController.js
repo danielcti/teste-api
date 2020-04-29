@@ -2,7 +2,6 @@ const fs = require("fs");
 const path = require("path");
 const parseString = require("xml2js").parseString;
 const util = require("util");
-var _ = require("underscore");
 
 const fsp = fs.promises;
 const readdir = util.promisify(fs.readdir);
