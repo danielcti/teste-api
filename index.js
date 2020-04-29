@@ -21,7 +21,7 @@ app.use(function (req, res, next) {
 app.use(bodyParser.json());
 
 app.post("/", CarController.index);
-app.get("/:id", SingleCarController.index);
+app.get("/", SingleCarController.index);
 app.get("/marcas", MarcaController.index);
 app.get("/atualizar", UpdateController.store);
 

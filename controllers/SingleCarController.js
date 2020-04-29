@@ -8,7 +8,7 @@ const readdir = util.promisify(fs.readdir);
 
 module.exports = {
   async index(req, res) {
-    const { id } = req.params;
+    const { id } = req.query;
 
     const dir = path.join(__dirname, "../files");
 
