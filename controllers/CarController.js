@@ -40,6 +40,8 @@ module.exports = {
         if (category[modelo]) {
           carro.categoria = category[modelo];
         }
+
+        carro.preco[0] = carro.preco[0].slice(3, -3).replace(".", "");
       });
 
       if (yearRange) {
@@ -66,7 +68,7 @@ module.exports = {
         const filteredContent = await content.estoque.veiculo.filter(
           (carro) => {
             return filterPrice(carro.preco[0], priceRange[0], priceRange[1]);
-          } 
+          }
         );
         content.estoque.veiculo = filteredContent;
       }
