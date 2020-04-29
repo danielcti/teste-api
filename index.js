@@ -3,6 +3,7 @@ const cors = require("cors");
 const bodyParser = require("body-parser");
 
 const CarController = require("./controllers/CarController");
+const SingleCarController = require("./controllers/SingleCarController");
 const MarcaController = require("./controllers/MarcaController");
 const UpdateController = require("./controllers/UpdateController");
 
@@ -20,6 +21,7 @@ app.use(function (req, res, next) {
 app.use(bodyParser.json());
 
 app.post("/", CarController.index);
+app.post("/:id", SingleCarController.index);
 app.get("/marcas", MarcaController.index);
 app.get("/atualizar", UpdateController.store);
 
