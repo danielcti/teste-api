@@ -19,10 +19,10 @@
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 33.490,00</preco>
+    <preco>R$ 30.990,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
     <cadastro>29/01/2020 15:23</cadastro>
-    <alteracao>28/02/2020 08:53</alteracao>
+    <alteracao>11/05/2020 08:45</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -85,10 +85,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 56.990,00</preco>
+    <preco>R$ 53.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>19/03/2020 11:59</cadastro>
-    <alteracao>19/03/2020 11:59</alteracao>
+    <alteracao>11/05/2020 08:46</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -170,7 +170,7 @@
     <preco>R$ 39.490,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>19/03/2020 11:43</cadastro>
-    <alteracao>19/03/2020 11:43</alteracao>
+    <alteracao>11/05/2020 08:47</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -229,160 +229,6 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1362145</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PCG-2185</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="2280"><![CDATA[ SPIN ]]></modelo>
-    <versao id="9232"><![CDATA[ 1.8 Activ7 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2018</anofabricacao>
-    <anomodelo>2019</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>61857</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 63.962,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>02/03/2020 10:42</cadastro>
-    <alteracao>02/03/2020 10:42</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCG-2185_01.jpg?u=20200302103957</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1811</id>
-      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
-      <cnpj>14.989.426/0003-96</cnpj>
-      <endereco>
-        <logradouro>Av. dos Estados</logradouro>
-        <numero>55</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1358788</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PCQ-1988</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="213"><![CDATA[ TRACKER ]]></modelo>
-    <versao id="8859"><![CDATA[ 1.4 16V Turbo Premier ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2018</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>21317</km>
-    <portas>4</portas>
-    <cor id="15">Vermelho</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 74.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>20/02/2020 15:23</cadastro>
-    <alteracao>11/03/2020 10:47</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="12">Bancos de couro</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="71">Start / Stop Engine</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_01.jpg?u=20200311104704</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_02.jpg?u=20200311104716</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_03.jpg?u=20200311104723</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_04.jpg?u=20200311104726</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_05.jpg?u=20200311104729</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_06.jpg?u=20200311104731</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_07.jpg?u=20200311104733</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_08.jpg?u=20200311104735</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_09.jpg?u=20200311104737</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_10.jpg?u=20200311104738</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_11.jpg?u=20200311104742</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_12.jpg?u=20200311104742</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/PCQ-1988_13.jpg?u=20200311104744</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1811</id>
-      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
-      <cnpj>14.989.426/0003-96</cnpj>
-      <endereco>
-        <logradouro>Av. dos Estados</logradouro>
-        <numero>55</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
     <id>1347835</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -399,10 +245,10 @@
     <portas>4</portas>
     <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 44.990,00</preco>
+    <preco>R$ 39.990,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
     <cadastro>29/01/2020 15:53</cadastro>
-    <alteracao>29/01/2020 15:53</alteracao>
+    <alteracao>02/05/2020 17:16</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -467,10 +313,10 @@
     <portas>4</portas>
     <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 27.990,00</preco>
+    <preco>R$ 25.000,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
     <cadastro>02/03/2020 09:58</cadastro>
-    <alteracao>02/03/2020 10:15</alteracao>
+    <alteracao>25/04/2020 18:05</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -534,10 +380,10 @@
     <portas>4</portas>
     <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 64.990,00</preco>
+    <preco>R$ 59.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>20/02/2020 15:34</cadastro>
-    <alteracao>11/03/2020 11:01</alteracao>
+    <alteracao>02/05/2020 17:17</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -616,10 +462,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 36.990,00</preco>
+    <preco>R$ 33.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>02/03/2020 09:49</cadastro>
-    <alteracao>02/03/2020 09:49</alteracao>
+    <alteracao>11/05/2020 08:41</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -696,10 +542,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 60.990,00</preco>
+    <preco>R$ 55.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>28/12/2019 14:58</cadastro>
-    <alteracao>28/02/2020 08:53</alteracao>
+    <alteracao>25/04/2020 18:02</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -765,10 +611,10 @@
     <portas>4</portas>
     <cor id="1">Amarelo</cor>
     <combustivel id="3">Diesel</combustivel>
-    <preco>R$ 108.990,00</preco>
+    <preco>R$ 99.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>13/01/2020 17:13</cadastro>
-    <alteracao>21/02/2020 17:58</alteracao>
+    <alteracao>10/04/2020 14:33</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -837,10 +683,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="3">Diesel</combustivel>
-    <preco>R$ 120.990,00</preco>
+    <preco>R$ 117.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>11/02/2020 16:29</cadastro>
-    <alteracao>02/03/2020 08:44</alteracao>
+    <alteracao>11/05/2020 08:39</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -919,10 +765,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 70.990,00</preco>
+    <preco>R$ 62.990,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
     <cadastro>29/11/2019 18:20</cadastro>
-    <alteracao>06/01/2020 15:45</alteracao>
+    <alteracao>25/04/2020 18:03</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -980,10 +826,10 @@
     <portas>4</portas>
     <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 72.990,00</preco>
+    <preco>R$ 67.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>02/03/2020 09:08</cadastro>
-    <alteracao>02/03/2020 09:08</alteracao>
+    <alteracao>11/05/2020 08:44</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -1062,10 +908,10 @@
     <portas>4</portas>
     <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 40.990,00</preco>
+    <preco>R$ 37.990,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
     <cadastro>11/03/2020 17:28</cadastro>
-    <alteracao>11/03/2020 17:28</alteracao>
+    <alteracao>25/04/2020 18:04</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -1123,10 +969,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 37.990,00</preco>
+    <preco>R$ 35.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>11/03/2020 17:21</cadastro>
-    <alteracao>11/03/2020 17:23</alteracao>
+    <alteracao>25/04/2020 18:04</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -1183,6 +1029,88 @@
     </loja>
   </veiculo>
   <veiculo>
+    <id>1376312</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>OYQ-6339</placa>
+    <marca id="107">TOYOTA</marca>
+    <modelo id="895"><![CDATA[ COROLLA ]]></modelo>
+    <versao id="6118"><![CDATA[ 2.0 XEI 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2014</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>76238</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 55.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>14/04/2020 13:30</cadastro>
+    <alteracao>02/05/2020 17:19</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/OYQ-6339_01.jpg?u=20200414132851</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/OYQ-6339_02.jpg?u=20200414132857</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/OYQ-6339_03.jpg?u=20200414132902</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/OYQ-6339_04.jpg?u=20200414132910</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/OYQ-6339_05.jpg?u=20200414132915</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/OYQ-6339_06.jpg?u=20200414132919</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/OYQ-6339_07.jpg?u=20200414132923</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/OYQ-6339_08.jpg?u=20200414132927</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/OYQ-6339_09.jpg?u=20200414132932</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/OYQ-6339_10.jpg?u=20200414132935</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/OYQ-6339_11.jpg?u=20200414132941</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/OYQ-6339_12.jpg?u=20200414132947</foto>
+      <foto>https://dsae.s3.amazonaws.com/14989426000396/Fotos/OYQ-6339_13.jpg?u=20200414132951</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1811</id>
+      <nomefantasia>Auto Oriente (Caruaru)</nomefantasia>
+      <cnpj>14.989.426/0003-96</cnpj>
+      <endereco>
+        <logradouro>Av. dos Estados</logradouro>
+        <numero>55</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
     <id>1334008</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -1199,10 +1127,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 32.998,00</preco>
+    <preco>R$ 30.990,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
     <cadastro>28/12/2019 14:40</cadastro>
-    <alteracao>28/02/2020 08:52</alteracao>
+    <alteracao>02/05/2020 17:19</alteracao>
     <complementos />
     <opcionais />
     <acessorios />

@@ -21,6 +21,22 @@ const lojas = [
     nome: "Caxanga",
     url: "http://xml.dsautoestoque.com/?l=09924937000128&v=2",
   },
+  {
+    nome: "Autonunes_Caruaru",
+    url: "http://xml.dsautoestoque.com/?l=40889222000806&v=2",
+  },
+  {
+    nome: "Autonunes_Gravata",
+    url: "http://xml.dsautoestoque.com/?l=40889222000717&v=2",
+  },
+  {
+    nome: "Autonunes_Olinda",
+    url: "http://xml.dsautoestoque.com/?l=40889222000474&v=2",
+  },
+  {
+    nome: "Autonunes_Prazeres",
+    url: "http://xml.dsautoestoque.com/?l=40889222000121&v=2",
+  },
 ];
 
 module.exports = {
@@ -28,11 +44,12 @@ module.exports = {
     try {
       await lojas.forEach(async (loja) => {
         await getLojaInfo(loja.nome, loja.url);
+        console.log("Arquivos atualizados com sucesso");
       });
     } catch (err) {
       throw new Error(err);
     }
 
-    return res.send("Arquivos atualizados");
+    return;
   },
 };

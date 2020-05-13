@@ -3,70 +3,6 @@
 
 
   <veiculo>
-    <id>1333831</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PEA-9653</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="2244"><![CDATA[ COBALT ]]></modelo>
-    <versao id="1640"><![CDATA[ 1.8 MPFI LTZ 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2017</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>24000</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 52.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>28/12/2019 10:40</cadastro>
-    <alteracao>10/01/2020 18:42</alteracao>
-    <complementos />
-    <opcionais />
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-9653_01.jpg?u=20200109092430</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-9653_02.jpg?u=20200109092430</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-9653_04.jpg?u=20200109092436</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-9653_03.jpg?u=20200109092432</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1820</id>
-      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
-      <cnpj>40.889.222/0008-06</cnpj>
-      <endereco>
-        <logradouro>Avenida dos Estados</logradouro>
-        <numero>269</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
     <id>1349841</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -83,10 +19,10 @@
     <portas>4</portas>
     <cor id="15">Vermelho</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 35.990,00</preco>
-    <observacao><![CDATA[  ]]></observacao>
+    <preco>R$ 30.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>03/02/2020 09:57</cadastro>
-    <alteracao>03/02/2020 09:57</alteracao>
+    <alteracao>25/04/2020 11:03</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -142,201 +78,63 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1349835</id>
+    <id>1367163</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PDM-6642</placa>
+    <placa>PDI-3682</placa>
     <marca id="23">CHEVROLET</marca>
     <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
-    <versao id="1656"><![CDATA[ 1.0 MPFI LT 8V ]]></versao>
+    <versao id="8044"><![CDATA[ 1.4 MPFI Activ 8V ]]></versao>
     <tipomotor>
     </tipomotor>
     <anofabricacao>2016</anofabricacao>
     <anomodelo>2017</anomodelo>
     <cambio id="3">Manual</cambio>
-    <km>74000</km>
-    <portas>4</portas>
-    <cor id="16">Vinho</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 37.990,00</preco>
-    <observacao><![CDATA[  ]]></observacao>
-    <cadastro>03/02/2020 09:49</cadastro>
-    <alteracao>03/02/2020 09:59</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="4">Alarme</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-    </opcionais>
-    <acessorios>
-      <acessorio id="23">Rádio e CD Player</acessorio>
-    </acessorios>
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_01.jpg?u=20200203094633</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_02.jpg?u=20200203094644</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_03.jpg?u=20200203094647</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_04.jpg?u=20200203094656</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_05.jpg?u=20200203094658</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_06.jpg?u=20200203094700</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_07.jpg?u=20200203094712</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-6642_08.jpg?u=20200203094713</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1820</id>
-      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
-      <cnpj>40.889.222/0008-06</cnpj>
-      <endereco>
-        <logradouro>Avenida dos Estados</logradouro>
-        <numero>269</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1353319</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDO-6724</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
-    <versao id="1657"><![CDATA[ 1.4 MPFI LT 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2018</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>29400</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 41.990,00</preco>
-    <observacao><![CDATA[  ]]></observacao>
-    <cadastro>10/02/2020 11:02</cadastro>
-    <alteracao>10/02/2020 11:02</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="4">Alarme</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="8">Ar quente</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios>
-      <acessorio id="74">Central Multimídia</acessorio>
-    </acessorios>
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_01.jpg?u=20200210110021</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_02.jpg?u=20200210110023</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_03.jpg?u=20200210110029</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_04.jpg?u=20200210110038</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_05.jpg?u=20200210110040</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_06.jpg?u=20200210110044</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_07.jpg?u=20200210110047</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_08.jpg?u=20200210110048</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDO-6724_09.jpg?u=20200210110050</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1820</id>
-      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
-      <cnpj>40.889.222/0008-06</cnpj>
-      <endereco>
-        <logradouro>Avenida dos Estados</logradouro>
-        <numero>269</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1325335</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDV-2484</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
-    <versao id="1657"><![CDATA[ 1.4 MPFI LT 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2015</anofabricacao>
-    <anomodelo>2015</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>62420</km>
+    <km>58500</km>
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 32.990,00</preco>
+    <preco>R$ 44.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>10/12/2019 16:42</cadastro>
-    <alteracao>08/02/2020 14:44</alteracao>
+    <cadastro>12/03/2020 09:00</cadastro>
+    <alteracao>25/04/2020 11:05</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
       <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="15">Computador de bordo</opcional>
+      <opcional id="18">Desembaçador traseiro</opcional>
+      <opcional id="19">Direção elétrica</opcional>
       <opcional id="23">Freios ABS</opcional>
+      <opcional id="24">Limpador traseiro</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
       <opcional id="36">Travas elétricas</opcional>
       <opcional id="38">Vidros elétricos</opcional>
+      <opcional id="41">Freios ABS c/ EBD</opcional>
     </opcionais>
     <acessorios>
-      <acessorio id="24">MP3 Player</acessorio>
+      <acessorio id="42">Brake light</acessorio>
+      <acessorio id="74">Central Multimídia</acessorio>
+      <acessorio id="75">Faróis de Led</acessorio>
+      <acessorio id="17">Faróis de neblina</acessorio>
     </acessorios>
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDV-2484_01.jpg?u=20200108150830</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDV-2484_02.jpg?u=20200108150832</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDV-2484_03.jpg?u=20200108150838</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDV-2484_04.jpg?u=20200108150842</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDV-2484_05.jpg?u=20200108150845</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDV-2484_06.jpg?u=20200108150847</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDV-2484_07.jpg?u=20200108150854</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDI-3682_05.jpg?u=20200312085810</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDI-3682_11.jpg?u=20200312085821</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDI-3682_12.jpg?u=20200312085822</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDI-3682_14.jpg?u=20200312085825</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDI-3682_15.jpg?u=20200312085827</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDI-3682_16.jpg?u=20200312085829</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDI-3682_06.jpg?u=20200312085812</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDI-3682_07.jpg?u=20200312085813</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDI-3682_03.jpg?u=20200312085806</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDI-3682_04.jpg?u=20200312085809</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDI-3682_08.jpg?u=20200312085815</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDI-3682_09.jpg?u=20200312085817</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDI-3682_10.jpg?u=20200312085819</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -373,43 +171,61 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1332623</id>
+    <id>1367235</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>OYU-6418</placa>
+    <placa>PGV-4184</placa>
     <marca id="23">CHEVROLET</marca>
-    <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
-    <versao id="1307"><![CDATA[ 1.4 MPFI LT 8V ]]></versao>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="1658"><![CDATA[ 1.4 MPFI LTZ 8V ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2014</anofabricacao>
-    <anomodelo>2015</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>57900</km>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>38193</km>
     <portas>4</portas>
-    <cor id="11">Prata</cor>
+    <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 34.990,00</preco>
+    <preco>R$ 41.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>24/12/2019 11:24</cadastro>
-    <alteracao>08/02/2020 14:44</alteracao>
+    <cadastro>12/03/2020 09:54</cadastro>
+    <alteracao>25/04/2020 11:06</alteracao>
     <complementos />
-    <opcionais />
-    <acessorios />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="15">Computador de bordo</opcional>
+      <opcional id="18">Desembaçador traseiro</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+      <opcional id="1">Air bag do motorista</opcional>
+      <opcional id="2">Air bag do passageiro</opcional>
+      <opcional id="10">Banco do motorista com ajuste de altura</opcional>
+      <opcional id="41">Freios ABS c/ EBD</opcional>
+    </opcionais>
+    <acessorios>
+      <acessorio id="42">Brake light</acessorio>
+      <acessorio id="74">Central Multimídia</acessorio>
+      <acessorio id="75">Faróis de Led</acessorio>
+      <acessorio id="17">Faróis de neblina</acessorio>
+      <acessorio id="73">Câmera de Ré</acessorio>
+    </acessorios>
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_01.jpg?u=20191224112346</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_02.jpg?u=20191224112348</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_03.jpg?u=20191224112355</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_04.jpg?u=20191224112410</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_05.jpg?u=20191224112413</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_06.jpg?u=20191224112418</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_07.jpg?u=20191224112426</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_08.jpg?u=20191224112429</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_09.jpg?u=20191224112433</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_10.jpg?u=20191224112436</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_11.jpg?u=20191224112441</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_12.jpg?u=20191224112444</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/OYU-6418_13.jpg?u=20191224112447</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_11.jpg?u=20200312095301</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_03.jpg?u=20200312095246</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_01.jpg?u=20200312095241</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_08.jpg?u=20200312095256</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_07.jpg?u=20200312095254</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_02.jpg?u=20200312095243</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_10.jpg?u=20200312095259</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_05.jpg?u=20200312095251</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_04.jpg?u=20200312095248</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_06.jpg?u=20200312095253</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_09.jpg?u=20200312095258</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -462,10 +278,10 @@
     <portas>4</portas>
     <cor id="2">Azul</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 57.990,00</preco>
+    <preco>R$ 49.990,00</preco>
     <observacao><![CDATA[  ]]></observacao>
     <cadastro>10/02/2020 09:30</cadastro>
-    <alteracao>10/02/2020 09:30</alteracao>
+    <alteracao>25/04/2020 11:06</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -530,47 +346,52 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1353313</id>
+    <id>1356408</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PDT-5258</placa>
+    <placa>PEA-5341</placa>
     <marca id="23">CHEVROLET</marca>
     <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
     <versao id="1308"><![CDATA[ 1.4 MPFI LTZ 8V ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2017</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>24000</km>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>34400</km>
     <portas>4</portas>
-    <cor id="11">Prata</cor>
+    <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 55.990,00</preco>
+    <preco>R$ 46.990,00</preco>
     <observacao><![CDATA[  ]]></observacao>
-    <cadastro>10/02/2020 10:43</cadastro>
-    <alteracao>10/02/2020 10:43</alteracao>
+    <cadastro>14/02/2020 18:12</cadastro>
+    <alteracao>04/03/2020 14:45</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
       <opcional id="4">Alarme</opcional>
       <opcional id="6">Ar condicionado</opcional>
+      <opcional id="8">Ar quente</opcional>
       <opcional id="12">Bancos de couro</opcional>
       <opcional id="15">Computador de bordo</opcional>
+      <opcional id="18">Desembaçador traseiro</opcional>
       <opcional id="19">Direção elétrica</opcional>
       <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
     </opcionais>
-    <acessorios />
+    <acessorios>
+      <acessorio id="74">Central Multimídia</acessorio>
+    </acessorios>
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_01.jpg?u=20200210104154</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_02.jpg?u=20200210104155</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_03.jpg?u=20200210104159</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_04.jpg?u=20200210104202</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_05.jpg?u=20200210104213</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_06.jpg?u=20200210104215</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_07.jpg?u=20200210104219</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_08.jpg?u=20200210104222</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDT-5258_09.jpg?u=20200210104224</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-5341_01.jpg?u=20200214181107</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-5341_02.jpg?u=20200214181114</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-5341_03.jpg?u=20200214181115</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-5341_04.jpg?u=20200214181116</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-5341_05.jpg?u=20200214181117</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-5341_06.jpg?u=20200214181123</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-5341_07.jpg?u=20200214181127</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEA-5341_08.jpg?u=20200214181128</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -607,47 +428,125 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1347676</id>
+    <id>1371316</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PDN-2474</placa>
+    <placa>PGZ-8134</placa>
     <marca id="23">CHEVROLET</marca>
     <modelo id="202"><![CDATA[ S10 ]]></modelo>
-    <versao id="1397"><![CDATA[ 2.8 LT 4X4 CD 16V Turbo ]]></versao>
+    <versao id="8411"><![CDATA[ 2.5 Advantage 4X2 CD 16V ]]></versao>
     <tipomotor>
     </tipomotor>
     <anofabricacao>2017</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>50200</km>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>39800</km>
     <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="3">Diesel</combustivel>
-    <preco>R$ 112.990,00</preco>
-    <observacao><![CDATA[  ]]></observacao>
-    <cadastro>29/01/2020 11:40</cadastro>
-    <alteracao>29/01/2020 11:40</alteracao>
+    <cor id="6">Cinza</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 69.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>19/03/2020 16:47</cadastro>
+    <alteracao>25/04/2020 11:07</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
       <opcional id="4">Alarme</opcional>
       <opcional id="6">Ar condicionado</opcional>
-      <opcional id="15">Computador de bordo</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="19">Direção elétrica</opcional>
       <opcional id="23">Freios ABS</opcional>
-      <opcional id="35">Tração 4x4</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="37">Trio elétrico</opcional>
+      <opcional id="41">Freios ABS c/ EBD</opcional>
     </opcionais>
     <acessorios>
-      <acessorio id="24">MP3 Player</acessorio>
-      <acessorio id="73">Câmera de Ré</acessorio>
+      <acessorio id="42">Brake light</acessorio>
     </acessorios>
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-2474_01.jpg?u=20200129113904</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-2474_02.jpg?u=20200129113907</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-2474_03.jpg?u=20200129113910</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-2474_04.jpg?u=20200129113915</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-2474_05.jpg?u=20200129113919</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDN-2474_06.jpg?u=20200129113920</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGZ-8134_01.jpg?u=20200409103530</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1375605</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCQ-5692</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2280"><![CDATA[ SPIN ]]></modelo>
+    <versao id="7266"><![CDATA[ 1.8 Activ 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>55042</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 47.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>09/04/2020 17:06</cadastro>
+    <alteracao>25/04/2020 11:08</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCQ-5692_01.jpg?u=20200409170532</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCQ-5692_02.jpg?u=20200409170534</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCQ-5692_03.jpg?u=20200409170538</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCQ-5692_04.jpg?u=20200409170541</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCQ-5692_05.jpg?u=20200409170543</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCQ-5692_06.jpg?u=20200409170545</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCQ-5692_07.jpg?u=20200409170549</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCQ-5692_08.jpg?u=20200409170551</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCQ-5692_09.jpg?u=20200409170553</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCQ-5692_10.jpg?u=20200409170556</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCQ-5692_11.jpg?u=20200409170558</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCQ-5692_12.jpg?u=20200409170601</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCQ-5692_13.jpg?u=20200409170622</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCQ-5692_14.jpg?u=20200409170610</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -700,10 +599,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 52.990,00</preco>
+    <preco>R$ 46.990,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
     <cadastro>09/01/2020 15:07</cadastro>
-    <alteracao>10/02/2020 10:25</alteracao>
+    <alteracao>25/04/2020 11:09</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -754,407 +653,53 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1353309</id>
+    <id>1371327</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PEC-6190</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="213"><![CDATA[ TRACKER ]]></modelo>
-    <versao id="1524"><![CDATA[ 1.8 MPFI LTZ 4X2 16V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2015</anofabricacao>
-    <anomodelo>2015</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>42800</km>
-    <portas>4</portas>
-    <cor id="16">Vinho</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 55.990,00</preco>
-    <observacao><![CDATA[  ]]></observacao>
-    <cadastro>10/02/2020 10:33</cadastro>
-    <alteracao>10/02/2020 10:33</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="4">Alarme</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="12">Bancos de couro</opcional>
-      <opcional id="15">Computador de bordo</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-    </opcionais>
-    <acessorios>
-      <acessorio id="74">Central Multimídia</acessorio>
-      <acessorio id="65">Chave cópia</acessorio>
-    </acessorios>
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_01.jpg?u=20200210103225</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_02.jpg?u=20200210103228</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_03.jpg?u=20200210103231</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_04.jpg?u=20200210103233</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_05.jpg?u=20200210103236</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_06.jpg?u=20200210103238</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_07.jpg?u=20200210103244</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_08.jpg?u=20200210103247</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEC-6190_09.jpg?u=20200210103249</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1820</id>
-      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
-      <cnpj>40.889.222/0008-06</cnpj>
-      <endereco>
-        <logradouro>Avenida dos Estados</logradouro>
-        <numero>269</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1337750</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDX-8539</placa>
+    <placa>PDM-5170</placa>
     <marca id="25">CITROËN</marca>
     <modelo id="238"><![CDATA[ C3 ]]></modelo>
-    <versao id="1754"><![CDATA[ 1.6 Tendance 16V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2015</anofabricacao>
-    <anomodelo>2016</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>31450</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 35.990,00</preco>
-    <observacao><![CDATA[  ]]></observacao>
-    <cadastro>09/01/2020 10:14</cadastro>
-    <alteracao>08/02/2020 14:41</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-    </opcionais>
-    <acessorios>
-      <acessorio id="24">MP3 Player</acessorio>
-    </acessorios>
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-8539_01.jpg?u=20200109101228</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-8539_02.jpg?u=20200109101231</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-8539_03.jpg?u=20200109101234</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-8539_04.jpg?u=20200109101236</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-8539_05.jpg?u=20200109101237</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-8539_06.jpg?u=20200109101240</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDX-8539_07.jpg?u=20200109101242</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1820</id>
-      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
-      <cnpj>40.889.222/0008-06</cnpj>
-      <endereco>
-        <logradouro>Avenida dos Estados</logradouro>
-        <numero>269</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1333837</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PLG-1700</placa>
-    <marca id="39">FIAT</marca>
-    <modelo id="3881"><![CDATA[ CRONOS ]]></modelo>
-    <versao id="9000"><![CDATA[ 1.8 E.torq Precision AT6 ]]></versao>
+    <versao id="9301"><![CDATA[ 1.6 VTI 120 Exclusive Eat6 ]]></versao>
     <tipomotor>
     </tipomotor>
     <anofabricacao>2018</anofabricacao>
     <anomodelo>2019</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>14419</km>
+    <cambio id="1">Automático</cambio>
+    <km>11500</km>
     <portas>4</portas>
-    <cor id="4">Branco</cor>
+    <cor id="10">Marrom</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 65.990,00</preco>
+    <preco>R$ 49.990,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
-    <cadastro>28/12/2019 10:45</cadastro>
-    <alteracao>08/01/2020 18:25</alteracao>
-    <complementos />
-    <opcionais />
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PLG-1700_01.jpg?u=20200108182529</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PLG-1700_02.jpg?u=20200108182535</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PLG-1700_03.jpg?u=20200108182537</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PLG-1700_04.jpg?u=20200108182538</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PLG-1700_05.jpg?u=20200108182540</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PLG-1700_06.jpg?u=20200108182543</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PLG-1700_07.jpg?u=20200108182545</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1820</id>
-      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
-      <cnpj>40.889.222/0008-06</cnpj>
-      <endereco>
-        <logradouro>Avenida dos Estados</logradouro>
-        <numero>269</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1318580</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PEB-9119</placa>
-    <marca id="39">FIAT</marca>
-    <modelo id="2261"><![CDATA[ GRAND SIENA ]]></modelo>
-    <versao id="8511"><![CDATA[ 1.0 EVO Attractive ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2017</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>24668</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 32.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>28/11/2019 11:41</cadastro>
-    <alteracao>08/02/2020 14:43</alteracao>
-    <complementos />
-    <opcionais />
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_01.jpg?u=20191128113757</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_02.jpg?u=20191128121132</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_03.jpg?u=20191128121137</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_04.jpg?u=20191128121140</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_05.jpg?u=20191128121147</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_06.jpg?u=20191128121152</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_07.jpg?u=20191128121155</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_08.jpg?u=20191128121214</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_09.jpg?u=20191128121223</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_10.jpg?u=20191128121229</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PEB-9119_11.jpg?u=20191128121243</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1820</id>
-      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
-      <cnpj>40.889.222/0008-06</cnpj>
-      <endereco>
-        <logradouro>Avenida dos Estados</logradouro>
-        <numero>269</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1337671</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PGP-4275</placa>
-    <marca id="39">FIAT</marca>
-    <modelo id="335"><![CDATA[ PUNTO ]]></modelo>
-    <versao id="2410"><![CDATA[ 1.6 Essence 16V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2013</anofabricacao>
-    <anomodelo>2014</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>11000</km>
-    <portas>4</portas>
-    <cor id="6">Cinza</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 29.990,00</preco>
-    <observacao><![CDATA[  ]]></observacao>
-    <cadastro>08/01/2020 18:41</cadastro>
-    <alteracao>08/02/2020 14:45</alteracao>
+    <cadastro>19/03/2020 16:54</cadastro>
+    <alteracao>02/05/2020 17:25</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="4">Alarme</opcional>
+      <opcional id="7">Ar condicionado digital</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="19">Direção elétrica</opcional>
       <opcional id="23">Freios ABS</opcional>
+      <opcional id="24">Limpador traseiro</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
       <opcional id="38">Vidros elétricos</opcional>
+      <opcional id="58">Abertura interna da tampa de combustível</opcional>
+      <opcional id="1">Air bag do motorista</opcional>
+      <opcional id="2">Air bag do passageiro</opcional>
+      <opcional id="41">Freios ABS c/ EBD</opcional>
+      <opcional id="25">Piloto automático</opcional>
+      <opcional id="48">Pintura metálica</opcional>
     </opcionais>
     <acessorios>
-      <acessorio id="24">MP3 Player</acessorio>
+      <acessorio id="42">Brake light</acessorio>
+      <acessorio id="75">Faróis de Led</acessorio>
+      <acessorio id="17">Faróis de neblina</acessorio>
     </acessorios>
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGP-4275_01.jpg?u=20200108184044</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGP-4275_03.jpg?u=20200108184049</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGP-4275_02.jpg?u=20200108184047</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGP-4275_04.jpg?u=20200108184051</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGP-4275_05.jpg?u=20200108184053</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGP-4275_06.jpg?u=20200108184054</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGP-4275_07.jpg?u=20200108184056</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1820</id>
-      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
-      <cnpj>40.889.222/0008-06</cnpj>
-      <endereco>
-        <logradouro>Avenida dos Estados</logradouro>
-        <numero>269</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1325338</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PGL-7989</placa>
-    <marca id="41">FORD</marca>
-    <modelo id="372"><![CDATA[ FIESTA ]]></modelo>
-    <versao id="2915"><![CDATA[ 1.5 S Hatch 16V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2013</anofabricacao>
-    <anomodelo>2014</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>84900</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 30.990,00</preco>
-    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
-    <cadastro>10/12/2019 16:45</cadastro>
-    <alteracao>10/01/2020 09:20</alteracao>
-    <complementos />
-    <opcionais />
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGL-7989_01.jpg?u=20200108182858</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGL-7989_02.jpg?u=20200108182900</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGL-7989_03.jpg?u=20200108182903</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGL-7989_04.jpg?u=20200108182904</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGL-7989_05.jpg?u=20200108182906</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGL-7989_06.jpg?u=20200108182907</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDM-5170_01.jpg?u=20200409103857</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -1207,10 +752,10 @@
     <portas>4</portas>
     <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 52.990,00</preco>
+    <preco>R$ 41.990,00</preco>
     <observacao><![CDATA[ VENHA CONFERIR OS VEÍCULOS SEMINOVOS MAIS SELECIONADOS DO MERCADO, QUALIDADE E PROCEDÊNCIA TUDO EM UM SÓ LUGAR !!! ]]></observacao>
     <cadastro>09/01/2020 15:12</cadastro>
-    <alteracao>21/01/2020 16:36</alteracao>
+    <alteracao>25/04/2020 10:58</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -1257,51 +802,66 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1337557</id>
+    <id>1367208</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PCB6123</placa>
+    <placa>PDK-1189</placa>
     <marca id="50">HYUNDAI</marca>
     <modelo id="3674"><![CDATA[ CRETA ]]></modelo>
-    <versao id="8882"><![CDATA[ 2.0 16V Sport ]]></versao>
+    <versao id="9590"><![CDATA[ 1.6 16V Smart ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2017</anofabricacao>
-    <anomodelo>2018</anomodelo>
+    <anofabricacao>2019</anofabricacao>
+    <anomodelo>2019</anomodelo>
     <cambio id="1">Automático</cambio>
-    <km>43999</km>
+    <km>8900</km>
     <portas>4</portas>
-    <cor id="15">Vermelho</cor>
+    <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 74.990,00</preco>
-    <observacao><![CDATA[  ]]></observacao>
-    <cadastro>08/01/2020 17:05</cadastro>
-    <alteracao>08/02/2020 14:42</alteracao>
+    <preco>R$ 72.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>12/03/2020 09:18</cadastro>
+    <alteracao>02/05/2020 17:25</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
       <opcional id="6">Ar condicionado</opcional>
       <opcional id="12">Bancos de couro</opcional>
       <opcional id="15">Computador de bordo</opcional>
+      <opcional id="18">Desembaçador traseiro</opcional>
       <opcional id="19">Direção elétrica</opcional>
       <opcional id="23">Freios ABS</opcional>
+      <opcional id="24">Limpador traseiro</opcional>
       <opcional id="29">Retrovisores elétricos</opcional>
       <opcional id="30">Rodas de liga leve</opcional>
       <opcional id="36">Travas elétricas</opcional>
       <opcional id="38">Vidros elétricos</opcional>
+      <opcional id="39">Vidros verdes</opcional>
     </opcionais>
     <acessorios>
-      <acessorio id="17">Faróis de neblina</acessorio>
-      <acessorio id="24">MP3 Player</acessorio>
+      <acessorio id="5">Alto falante</acessorio>
+      <acessorio id="42">Brake light</acessorio>
+      <acessorio id="74">Central Multimídia</acessorio>
+      <acessorio id="63">Luz de neblina</acessorio>
+      <acessorio id="67">Rack de teto</acessorio>
+      <acessorio id="22">Rádio</acessorio>
     </acessorios>
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB6123_08.jpg?u=20200108170344</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB6123_09.jpg?u=20200108170346</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB6123_10.jpg?u=20200108170347</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB6123_11.jpg?u=20200108170349</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB6123_12.jpg?u=20200108170351</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB6123_13.jpg?u=20200108170352</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB6123_14.jpg?u=20200108170354</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDK-1189_10.jpg?u=20200312091526</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDK-1189_11.jpg?u=20200312091527</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDK-1189_09.jpg?u=20200312091524</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDK-1189_12.jpg?u=20200312091529</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDK-1189_13.jpg?u=20200312091530</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDK-1189_14.jpg?u=20200312091531</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDK-1189_02.jpg?u=20200312091513</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDK-1189_04.jpg?u=20200312091517</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDK-1189_03.jpg?u=20200312091515</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDK-1189_05.jpg?u=20200312091518</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDK-1189_06.jpg?u=20200312091520</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDK-1189_01.jpg?u=20200312091511</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDK-1189_07.jpg?u=20200312091521</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDK-1189_08.jpg?u=20200312091522</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -1338,50 +898,133 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1347681</id>
+    <id>1360555</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PCM-9660</placa>
-    <marca id="82">NISSAN</marca>
-    <modelo id="760"><![CDATA[ FRONTIER ]]></modelo>
-    <versao id="8594"><![CDATA[ 2.3 16V Turbo LE CD 4X4 ]]></versao>
+    <placa>PCB-6123</placa>
+    <marca id="50">HYUNDAI</marca>
+    <modelo id="3674"><![CDATA[ CRETA ]]></modelo>
+    <versao id="8523"><![CDATA[ 2.0 16V Prestige ]]></versao>
     <tipomotor>
     </tipomotor>
     <anofabricacao>2017</anofabricacao>
-    <anomodelo>2017</anomodelo>
+    <anomodelo>2018</anomodelo>
     <cambio id="1">Automático</cambio>
-    <km>60000</km>
+    <km>42957</km>
     <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="3">Diesel</combustivel>
-    <preco>R$ 120.990,00</preco>
-    <observacao><![CDATA[  ]]></observacao>
-    <cadastro>29/01/2020 11:47</cadastro>
-    <alteracao>30/01/2020 14:59</alteracao>
+    <cor id="15">Vermelho</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 72.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>27/02/2020 10:34</cadastro>
+    <alteracao>02/05/2020 17:27</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
-      <opcional id="4">Alarme</opcional>
       <opcional id="6">Ar condicionado</opcional>
       <opcional id="12">Bancos de couro</opcional>
-      <opcional id="15">Computador de bordo</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB-6123_01.jpg?u=20200229084409</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB-6123_02.jpg?u=20200229084421</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB-6123_03.jpg?u=20200229084423</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB-6123_04.jpg?u=20200229084428</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB-6123_05.jpg?u=20200229084435</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB-6123_06.jpg?u=20200229084437</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB-6123_07.jpg?u=20200229084440</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB-6123_08.jpg?u=20200229084451</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB-6123_09.jpg?u=20200229084458</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB-6123_10.jpg?u=20200229084503</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB-6123_11.jpg?u=20200229084505</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB-6123_12.jpg?u=20200229084507</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCB-6123_13.jpg?u=20200229084508</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1375609</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCN-5930</placa>
+    <marca id="50">HYUNDAI</marca>
+    <modelo id="2768"><![CDATA[ HB20S ]]></modelo>
+    <versao id="3604"><![CDATA[ 1.6 Comfort Plus 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>30867</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 44.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>09/04/2020 17:14</cadastro>
+    <alteracao>02/05/2020 17:27</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
       <opcional id="20">Direção hidráulica</opcional>
       <opcional id="23">Freios ABS</opcional>
       <opcional id="29">Retrovisores elétricos</opcional>
       <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="71">Start / Stop Engine</opcional>
       <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
     </opcionais>
-    <acessorios>
-      <acessorio id="74">Central Multimídia</acessorio>
-      <acessorio id="19">GPS</acessorio>
-    </acessorios>
+    <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCM-9660_01.jpg?u=20200129114605</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCM-9660_02.jpg?u=20200129114609</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCM-9660_03.jpg?u=20200129114610</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCM-9660_04.jpg?u=20200129114610</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCM-9660_05.jpg?u=20200129114612</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCN-5930_01.jpg?u=20200409171057</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCN-5930_02.jpg?u=20200409171102</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCN-5930_03.jpg?u=20200409171105</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCN-5930_04.jpg?u=20200409171110</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCN-5930_05.jpg?u=20200409171115</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCN-5930_06.jpg?u=20200409171120</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCN-5930_07.jpg?u=20200409171125</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCN-5930_08.jpg?u=20200409171130</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCN-5930_09.jpg?u=20200409171311</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCN-5930_10.jpg?u=20200409171316</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCN-5930_11.jpg?u=20200409171322</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCN-5930_12.jpg?u=20200409171327</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCN-5930_13.jpg?u=20200409171328</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCN-5930_14.jpg?u=20200409171333</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -1434,10 +1077,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 31.990,00</preco>
+    <preco>R$ 29.990,00</preco>
     <observacao><![CDATA[  ]]></observacao>
     <cadastro>10/02/2020 09:45</cadastro>
-    <alteracao>10/02/2020 09:45</alteracao>
+    <alteracao>25/04/2020 11:02</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -1495,43 +1138,52 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1337512</id>
+    <id>1356425</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PCW-0719</placa>
-    <marca id="82">NISSAN</marca>
-    <modelo id="2231"><![CDATA[ MARCH ]]></modelo>
-    <versao id="7364"><![CDATA[ 1.0 SV 12V ]]></versao>
+    <placa>PCH-9150</placa>
+    <marca id="89">RENAULT</marca>
+    <modelo id="3714"><![CDATA[ CAPTUR ]]></modelo>
+    <versao id="8751"><![CDATA[ 1.6 16V SCE Intense ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2018</anofabricacao>
-    <anomodelo>2019</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>52500</km>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="15">XTronic</cambio>
+    <km>26600</km>
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 34.990,00</preco>
+    <preco>R$ 66.990,00</preco>
     <observacao><![CDATA[  ]]></observacao>
-    <cadastro>08/01/2020 16:24</cadastro>
-    <alteracao>08/02/2020 14:43</alteracao>
+    <cadastro>14/02/2020 18:29</cadastro>
+    <alteracao>25/04/2020 10:57</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
       <opcional id="6">Ar condicionado</opcional>
+      <opcional id="7">Ar condicionado digital</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="15">Computador de bordo</opcional>
       <opcional id="19">Direção elétrica</opcional>
       <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
       <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
     </opcionais>
-    <acessorios />
+    <acessorios>
+      <acessorio id="74">Central Multimídia</acessorio>
+    </acessorios>
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCW-0719_01.jpg?u=20200108154400</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCW-0719_02.jpg?u=20200108154403</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCW-0719_06.jpg?u=20200108162322</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCW-0719_03.jpg?u=20200108161957</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCW-0719_04.jpg?u=20200108162230</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCW-0719_05.jpg?u=20200108162259</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCH-9150_01.jpg?u=20200214182407</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCH-9150_02.jpg?u=20200214182427</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCH-9150_03.jpg?u=20200214182428</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCH-9150_04.jpg?u=20200214182429</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCH-9150_05.jpg?u=20200214182429</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCH-9150_07.jpg?u=20200214182431</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCH-9150_08.jpg?u=20200214182432</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCH-9150_09.jpg?u=20200214182432</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCH-9150_10.jpg?u=20200214182433</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -1568,46 +1220,137 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1337533</id>
+    <id>1367707</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PCP-4372</placa>
-    <marca id="84">PEUGEOT</marca>
-    <modelo id="2770"><![CDATA[ 208 ]]></modelo>
-    <versao id="7952"><![CDATA[ 1.2 Active Pack 12V ]]></versao>
+    <placa>QQA-6301</placa>
+    <marca id="89">RENAULT</marca>
+    <modelo id="839"><![CDATA[ LOGAN ]]></modelo>
+    <versao id="8468"><![CDATA[ 1.0 12V SCE Authentique ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2017</anomodelo>
+    <anofabricacao>2019</anofabricacao>
+    <anomodelo>2019</anomodelo>
     <cambio id="3">Manual</cambio>
-    <km>12400</km>
+    <km>33063</km>
     <portas>4</portas>
-    <cor id="4">Branco</cor>
+    <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 40.990,00</preco>
+    <preco>R$ 35.990,00</preco>
     <observacao><![CDATA[  ]]></observacao>
-    <cadastro>08/01/2020 16:42</cadastro>
-    <alteracao>08/01/2020 16:44</alteracao>
+    <cadastro>12/03/2020 14:02</cadastro>
+    <alteracao>02/05/2020 17:28</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
       <opcional id="6">Ar condicionado</opcional>
       <opcional id="19">Direção elétrica</opcional>
       <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="1">Air bag do motorista</opcional>
+    </opcionais>
+    <acessorios>
+      <acessorio id="72">Calotas</acessorio>
+      <acessorio id="22">Rádio</acessorio>
+    </acessorios>
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-6301_12.jpg?u=20200312135853</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-6301_13.jpg?u=20200312135857</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-6301_14.jpg?u=20200312135904</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-6301_11.jpg?u=20200312135839</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-6301_10.jpg?u=20200312135837</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-6301_06.jpg?u=20200312135827</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-6301_05.jpg?u=20200312135821</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-6301_07.jpg?u=20200312135829</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-6301_08.jpg?u=20200312135833</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-6301_09.jpg?u=20200312135835</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-6301_04.jpg?u=20200312135816</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1367227</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>QQA-5476</placa>
+    <marca id="89">RENAULT</marca>
+    <modelo id="842"><![CDATA[ SANDERO ]]></modelo>
+    <versao id="8470"><![CDATA[ 1.0 12V SCE Authentique ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2019</anofabricacao>
+    <anomodelo>2020</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>30847</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 36.421,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>12/03/2020 09:43</cadastro>
+    <alteracao>12/03/2020 09:45</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="4">Alarme</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
       <opcional id="36">Travas elétricas</opcional>
       <opcional id="38">Vidros elétricos</opcional>
+      <opcional id="1">Air bag do motorista</opcional>
+      <opcional id="2">Air bag do passageiro</opcional>
     </opcionais>
-    <acessorios />
+    <acessorios>
+      <acessorio id="72">Calotas</acessorio>
+    </acessorios>
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCP-4372_07.jpg?u=20200108164051</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCP-4372_06.jpg?u=20200108164049</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCP-4372_05.jpg?u=20200108164047</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCP-4372_04.jpg?u=20200108164046</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCP-4372_03.jpg?u=20200108164044</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCP-4372_02.jpg?u=20200108164043</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCP-4372_01.jpg?u=20200108164042</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-5476_14.jpg?u=20200312094113</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-5476_12.jpg?u=20200312094109</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-5476_13.jpg?u=20200312094111</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-5476_09.jpg?u=20200312094103</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-5476_10.jpg?u=20200312094106</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-5476_11.jpg?u=20200312094107</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-5476_08.jpg?u=20200312094100</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-5476_07.jpg?u=20200312094058</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-5476_01.jpg?u=20200312094041</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-5476_06.jpg?u=20200312094056</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-5476_05.jpg?u=20200312094053</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-5476_02.jpg?u=20200312094044</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-5476_03.jpg?u=20200312094047</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/QQA-5476_04.jpg?u=20200312094051</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -1660,10 +1403,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 34.990,00</preco>
+    <preco>R$ 30.990,00</preco>
     <observacao><![CDATA[  ]]></observacao>
     <cadastro>10/02/2020 11:20</cadastro>
-    <alteracao>10/02/2020 11:20</alteracao>
+    <alteracao>25/04/2020 11:08</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -1721,161 +1464,6 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1353288</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDJ-1382</placa>
-    <marca id="107">TOYOTA</marca>
-    <modelo id="2296"><![CDATA[ ETIOS ]]></modelo>
-    <versao id="6251"><![CDATA[ 1.3 X 16V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2017</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>28191</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 41.990,00</preco>
-    <observacao><![CDATA[  ]]></observacao>
-    <cadastro>10/02/2020 09:38</cadastro>
-    <alteracao>10/02/2020 09:38</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="4">Alarme</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="8">Ar quente</opcional>
-      <opcional id="15">Computador de bordo</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_01.jpg?u=20200210093646</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_02.jpg?u=20200210093648</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_03.jpg?u=20200210093651</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_04.jpg?u=20200210093654</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_05.jpg?u=20200210093657</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_06.jpg?u=20200210093659</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_07.jpg?u=20200210093704</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_08.jpg?u=20200210093705</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PDJ-1382_09.jpg?u=20200210093708</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1820</id>
-      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
-      <cnpj>40.889.222/0008-06</cnpj>
-      <endereco>
-        <logradouro>Avenida dos Estados</logradouro>
-        <numero>269</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1337210</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PCX-2662</placa>
-    <marca id="109">VOLKSWAGEN</marca>
-    <modelo id="932"><![CDATA[ FOX ]]></modelo>
-    <versao id="7538"><![CDATA[ 1.6 MSI Highline 16V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2015</anofabricacao>
-    <anomodelo>2015</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>43500</km>
-    <portas>4</portas>
-    <cor id="2">Azul</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 35.990,00</preco>
-    <observacao><![CDATA[ FOX HIGHLINE 1.6 REVISADO COM MANUAIS CHAVE RESERVA E REVISÕES EM DIA. ]]></observacao>
-    <cadastro>08/01/2020 11:44</cadastro>
-    <alteracao>08/02/2020 14:42</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="12">Bancos de couro</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="37">Trio elétrico</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCX-2662_01.jpg?u=20200108113856</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCX-2662_02.jpg?u=20200108113936</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCX-2662_03.jpg?u=20200108114003</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCX-2662_04.jpg?u=20200108114021</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCX-2662_05.jpg?u=20200108114043</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCX-2662_06.jpg?u=20200108114056</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCX-2662_07.jpg?u=20200108114122</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1820</id>
-      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
-      <cnpj>40.889.222/0008-06</cnpj>
-      <endereco>
-        <logradouro>Avenida dos Estados</logradouro>
-        <numero>269</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
     <id>1337547</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -1892,10 +1480,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 35.990,00</preco>
+    <preco>R$ 30.990,00</preco>
     <observacao><![CDATA[  ]]></observacao>
     <cadastro>08/01/2020 16:52</cadastro>
-    <alteracao>08/01/2020 16:52</alteracao>
+    <alteracao>25/04/2020 11:00</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -1912,6 +1500,83 @@
       <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCF-4374_05.jpg?u=20200108165042</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCF-4374_06.jpg?u=20200108165044</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCF-4374_07.jpg?u=20200108165046</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1820</id>
+      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
+      <cnpj>40.889.222/0008-06</cnpj>
+      <endereco>
+        <logradouro>Avenida dos Estados</logradouro>
+        <numero>269</numero>
+        <complemento>
+        </complemento>
+        <bairro>Nova Caruaru</bairro>
+        <cidade>Caruaru</cidade>
+        <uf>PE</uf>
+        <cep>55014-545</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1375602</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCY-7876</placa>
+    <marca id="109">VOLKSWAGEN</marca>
+    <modelo id="934"><![CDATA[ GOL ]]></modelo>
+    <versao id="7912"><![CDATA[ 1.6 MSI Totalflex Trendline ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>30045</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 32.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>09/04/2020 17:01</cadastro>
+    <alteracao>25/04/2020 11:00</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCY-7876_01.jpg?u=20200409165956</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCY-7876_02.jpg?u=20200409170007</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCY-7876_03.jpg?u=20200409170012</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCY-7876_04.jpg?u=20200409170016</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCY-7876_05.jpg?u=20200409170018</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCY-7876_06.jpg?u=20200409170021</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCY-7876_07.jpg?u=20200409170025</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCY-7876_08.jpg?u=20200409170032</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCY-7876_09.jpg?u=20200409170034</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PCY-7876_10.jpg?u=20200409170040</foto>
     </fotos>
     <foto360>
       <exterior>

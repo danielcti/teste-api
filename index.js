@@ -1,6 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
+const cron = require("node-cron");
 
 const CarController = require("./controllers/CarController");
 const SingleCarController = require("./controllers/SingleCarController");
@@ -26,6 +27,12 @@ app.get("/marcas", MarcaController.index);
 app.get("/atualizar", UpdateController.store);
 
 app.use(cors());
+
+// CRON JOB EXECUTANDO DE UM EM UM MINUTO
+cron.schedule("0 */1 * * *", () => {
+  console.log("Executando a tarefa a cada 1 hora");
+  UpdateController.store();
+});
 
 app.listen(process.env.PORT || 3333);
 

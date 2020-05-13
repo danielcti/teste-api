@@ -19,10 +19,10 @@
     <portas>4</portas>
     <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 54.990,00</preco>
+    <preco>R$ 50.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>24/01/2020 15:11</cadastro>
-    <alteracao>24/01/2020 15:11</alteracao>
+    <alteracao>25/04/2020 10:44</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -83,51 +83,52 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1349894</id>
+    <id>1375948</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PCG-1092</placa>
+    <placa>PDA-3740</placa>
     <marca id="23">CHEVROLET</marca>
-    <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
-    <versao id="1308"><![CDATA[ 1.4 MPFI LTZ 8V ]]></versao>
+    <modelo id="2145"><![CDATA[ CRUZE ]]></modelo>
+    <versao id="7985"><![CDATA[ 1.4 Turbo LTZ 16V ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2015</anofabricacao>
-    <anomodelo>2016</anomodelo>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
     <cambio id="1">Automático</cambio>
-    <km>59983</km>
+    <km>41000</km>
     <portas>4</portas>
-    <cor id="11">Prata</cor>
+    <cor id="15">Vermelho</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 45.990,00</preco>
+    <preco>R$ 75.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>03/02/2020 11:38</cadastro>
-    <alteracao>03/02/2020 11:38</alteracao>
+    <cadastro>13/04/2020 09:44</cadastro>
+    <alteracao>17/04/2020 15:23</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
       <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="19">Direção elétrica</opcional>
       <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
       <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="71">Start / Stop Engine</opcional>
       <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
+      <opcional id="37">Trio elétrico</opcional>
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCG-1092_01.jpg?u=20200203113700</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCG-1092_02.jpg?u=20200203113700</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCG-1092_03.jpg?u=20200203113703</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCG-1092_04.jpg?u=20200203113705</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCG-1092_05.jpg?u=20200203113706</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCG-1092_06.jpg?u=20200203113712</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCG-1092_09.jpg?u=20200203113733</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCG-1092_07.jpg?u=20200203113720</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCG-1092_08.jpg?u=20200203113721</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCG-1092_10.jpg?u=20200203113735</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCG-1092_11.jpg?u=20200203113746</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCG-1092_12.jpg?u=20200203113812</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDA-3740_01.jpg?u=20200413093922</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDA-3740_02.jpg?u=20200413093926</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDA-3740_03.jpg?u=20200413093928</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDA-3740_04.jpg?u=20200413093930</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDA-3740_05.jpg?u=20200413093932</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDA-3740_06.jpg?u=20200413093935</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDA-3740_07.jpg?u=20200413093936</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDA-3740_08.jpg?u=20200413093940</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDA-3740_09.jpg?u=20200413093944</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDA-3740_10.jpg?u=20200413094000</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDA-3740_11.jpg?u=20200413094338</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDA-3740_12.jpg?u=20200413094340</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -164,26 +165,26 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1347785</id>
+    <id>1374909</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PCS-2730</placa>
-    <marca id="41">FORD</marca>
-    <modelo id="357"><![CDATA[ ECOSPORT ]]></modelo>
-    <versao id="2664"><![CDATA[ 1.6 Freestyle 16V ]]></versao>
+    <placa>PCX-6854</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2145"><![CDATA[ CRUZE ]]></modelo>
+    <versao id="1613"><![CDATA[ 1.8 LT 16V ]]></versao>
     <tipomotor>
     </tipomotor>
     <anofabricacao>2016</anofabricacao>
-    <anomodelo>2017</anomodelo>
-    <cambio id="13">PowerShift</cambio>
-    <km>39438</km>
+    <anomodelo>2016</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>63195</km>
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 57.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>29/01/2020 14:22</cadastro>
-    <alteracao>29/01/2020 14:22</alteracao>
+    <preco>R$ 49.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação ]]></observacao>
+    <cadastro>06/04/2020 15:34</cadastro>
+    <alteracao>02/05/2020 17:07</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -197,16 +198,804 @@
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-2730_01.jpg?u=20200129142128</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-2730_02.jpg?u=20200129142129</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-2730_03.jpg?u=20200129142139</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-2730_04.jpg?u=20200129142140</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-2730_05.jpg?u=20200129142141</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-2730_06.jpg?u=20200129142142</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-2730_07.jpg?u=20200129142143</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-2730_08.jpg?u=20200129142144</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-2730_09.jpg?u=20200129142145</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-2730_10.jpg?u=20200129142146</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-6854_01.jpg?u=20200406153321</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-6854_02.jpg?u=20200406153325</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-6854_03.jpg?u=20200406153328</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-6854_04.jpg?u=20200406153332</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-6854_05.jpg?u=20200406153335</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-6854_06.jpg?u=20200406153339</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-6854_07.jpg?u=20200406153343</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-6854_08.jpg?u=20200406153346</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-6854_09.jpg?u=20200406153348</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-6854_10.jpg?u=20200406153350</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-6854_11.jpg?u=20200406153411</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-6854_12.jpg?u=20200406153416</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-6854_13.jpg?u=20200406153418</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-6854_14.jpg?u=20200406153422</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1356978</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDC-2835</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="8059"><![CDATA[ 1.0 MPFI JOY 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>55442</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 34.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>17/02/2020 13:16</cadastro>
+    <alteracao>25/04/2020 10:47</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDC-2835_01.jpg?u=20200217131549</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDC-2835_02.jpg?u=20200217131550</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDC-2835_03.jpg?u=20200217131552</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDC-2835_04.jpg?u=20200217131553</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDC-2835_05.jpg?u=20200217131555</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDC-2835_06.jpg?u=20200217131556</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDC-2835_07.jpg?u=20200217131558</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDC-2835_08.jpg?u=20200217131559</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDC-2835_09.jpg?u=20200217131601</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDC-2835_10.jpg?u=20200217131603</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDC-2835_11.jpg?u=20200217131605</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1374914</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>OYP-8031</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="1655"><![CDATA[ 1.0 MPFI LS 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2014</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>62406</km>
+    <portas>4</portas>
+    <cor id="12">Preto</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 29.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>06/04/2020 15:43</cadastro>
+    <alteracao>25/04/2020 10:50</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYP-8031_01.jpg?u=20200406154311</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYP-8031_02.jpg?u=20200406154314</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYP-8031_03.jpg?u=20200406154316</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYP-8031_04.jpg?u=20200406154318</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYP-8031_05.jpg?u=20200406154322</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYP-8031_06.jpg?u=20200406154325</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYP-8031_07.jpg?u=20200406154328</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYP-8031_08.jpg?u=20200406154330</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYP-8031_09.jpg?u=20200406154332</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYP-8031_10.jpg?u=20200406154335</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYP-8031_11.jpg?u=20200406154337</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1365493</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>OYY-6037</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="1656"><![CDATA[ 1.0 MPFI LT 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2014</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>32990</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 30.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>09/03/2020 09:03</cadastro>
+    <alteracao>17/04/2020 15:54</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYY-6037_01.jpg?u=20200406154716</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYY-6037_02.jpg?u=20200406154721</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYY-6037_03.jpg?u=20200406154723</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYY-6037_04.jpg?u=20200406154728</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYY-6037_05.jpg?u=20200406154731</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYY-6037_06.jpg?u=20200406154735</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYY-6037_07.jpg?u=20200406154739</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYY-6037_08.jpg?u=20200406154743</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYY-6037_09.jpg?u=20200406154745</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYY-6037_10.jpg?u=20200406154749</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYY-6037_11.jpg?u=20200406154752</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/OYY-6037_12.jpg?u=20200406154754</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1365501</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCH-9412</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="1658"><![CDATA[ 1.4 MPFI LTZ 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2016</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>49742</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 36.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>09/03/2020 09:12</cadastro>
+    <alteracao>25/04/2020 10:51</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCH-9412_01.jpg?u=20200406155713</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCH-9412_14.jpg?u=20200406155717</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCH-9412_04.jpg?u=20200406155412</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCH-9412_03.jpg?u=20200406155411</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCH-9412_02.jpg?u=20200406155408</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCH-9412_05.jpg?u=20200406155414</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCH-9412_06.jpg?u=20200406155416</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCH-9412_07.jpg?u=20200406155419</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCH-9412_08.jpg?u=20200406155420</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCH-9412_09.jpg?u=20200406155422</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCH-9412_10.jpg?u=20200406155424</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCH-9412_11.jpg?u=20200406155426</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCH-9412_12.jpg?u=20200406155428</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCH-9412_13.jpg?u=20200406155429</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1374922</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCW-1463</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
+    <versao id="1307"><![CDATA[ 1.4 MPFI LT 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>28383</km>
+    <portas>4</portas>
+    <cor id="6">Cinza</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 48.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>06/04/2020 16:07</cadastro>
+    <alteracao>25/04/2020 10:52</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCW-1463_01.jpg?u=20200406160650</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCW-1463_02.jpg?u=20200406160654</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCW-1463_03.jpg?u=20200406160655</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCW-1463_04.jpg?u=20200406160658</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCW-1463_05.jpg?u=20200406160658</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCW-1463_06.jpg?u=20200406160701</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCW-1463_07.jpg?u=20200406160702</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCW-1463_08.jpg?u=20200406160704</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCW-1463_09.jpg?u=20200406160706</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCW-1463_10.jpg?u=20200406160707</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCW-1463_11.jpg?u=20200406160711</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCW-1463_12.jpg?u=20200406160722</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1374927</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDL-2692</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
+    <versao id="1307"><![CDATA[ 1.4 MPFI LT 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>50269</km>
+    <portas>4</portas>
+    <cor id="12">Preto</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 42.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>06/04/2020 16:14</cadastro>
+    <alteracao>25/04/2020 10:52</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_01.jpg?u=20200406161404</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_02.jpg?u=20200406161406</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_03.jpg?u=20200406161408</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_04.jpg?u=20200406161409</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_05.jpg?u=20200406161412</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_06.jpg?u=20200406161414</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_07.jpg?u=20200406161416</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_08.jpg?u=20200406161417</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_09.jpg?u=20200406161420</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_10.jpg?u=20200406161421</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_11.jpg?u=20200406161424</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_12.jpg?u=20200406161425</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_13.jpg?u=20200406161427</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1356687</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCS-5640</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2280"><![CDATA[ SPIN ]]></modelo>
+    <versao id="1651"><![CDATA[ 1.8 Advantage 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>36963</km>
+    <portas>4</portas>
+    <cor id="2">Azul</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 48.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>15/02/2020 15:35</cadastro>
+    <alteracao>19/04/2020 21:09</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-5640_01.jpg?u=20200215153241</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-5640_02.jpg?u=20200215153244</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-5640_03.jpg?u=20200215153247</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-5640_04.jpg?u=20200215153248</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-5640_05.jpg?u=20200215153250</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-5640_06.jpg?u=20200215153251</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-5640_07.jpg?u=20200215153253</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-5640_08.jpg?u=20200215153254</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-5640_09.jpg?u=20200215153256</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-5640_10.jpg?u=20200215153257</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-5640_11.jpg?u=20200215153258</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-5640_12.jpg?u=20200215153300</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1374930</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCY-1386</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2280"><![CDATA[ SPIN ]]></modelo>
+    <versao id="7492"><![CDATA[ 1.8 LS 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>35000</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 39.990,00</preco>
+    <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
+    <cadastro>06/04/2020 16:21</cadastro>
+    <alteracao>25/04/2020 10:53</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCY-1386_01.jpg?u=20200406162047</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1376387</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PEC-6190</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="213"><![CDATA[ TRACKER ]]></modelo>
+    <versao id="1524"><![CDATA[ 1.8 MPFI LTZ 4X2 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2015</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>42600</km>
+    <portas>4</portas>
+    <cor id="15">Vermelho</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 49.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>14/04/2020 16:16</cadastro>
+    <alteracao>25/04/2020 10:53</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PEC-6190_01.jpg?u=20200414161624</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PEC-6190_02.jpg?u=20200414161627</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PEC-6190_03.jpg?u=20200414161630</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PEC-6190_04.jpg?u=20200414161632</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PEC-6190_05.jpg?u=20200414161634</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PEC-6190_06.jpg?u=20200414161636</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PEC-6190_07.jpg?u=20200414161638</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PEC-6190_08.jpg?u=20200414161641</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1354308</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>FZI-4507</placa>
+    <marca id="41">FORD</marca>
+    <modelo id="372"><![CDATA[ FIESTA ]]></modelo>
+    <versao id="2940"><![CDATA[ 1.6 Titanium Hatch 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="13">PowerShift</cambio>
+    <km>27935</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 39.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>12/02/2020 11:41</cadastro>
+    <alteracao>02/05/2020 17:07</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/FZI-4507_01.jpg?u=20200212113852</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/FZI-4507_02.jpg?u=20200212113855</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/FZI-4507_03.jpg?u=20200212113858</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/FZI-4507_04.jpg?u=20200212113901</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/FZI-4507_05.jpg?u=20200212113903</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/FZI-4507_06.jpg?u=20200212113904</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/FZI-4507_07.jpg?u=20200212113906</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/FZI-4507_08.jpg?u=20200212113907</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/FZI-4507_09.jpg?u=20200212113908</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/FZI-4507_10.jpg?u=20200212113909</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/FZI-4507_11.jpg?u=20200212113910</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/FZI-4507_12.jpg?u=20200212113912</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/FZI-4507_13.jpg?u=20200212113913</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -259,10 +1048,10 @@
     <portas>4</portas>
     <cor id="2">Azul</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 48.990,00</preco>
+    <preco>R$ 43.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>24/01/2020 14:58</cadastro>
-    <alteracao>24/01/2020 14:58</alteracao>
+    <alteracao>09/05/2020 20:18</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -323,6 +1112,84 @@
     </loja>
   </veiculo>
   <veiculo>
+    <id>1374911</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCQ-7442</placa>
+    <marca id="50">HYUNDAI</marca>
+    <modelo id="2295"><![CDATA[ HB20 ]]></modelo>
+    <versao id="3589"><![CDATA[ 1.0 Comfort Plus 12V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>69503</km>
+    <portas>4</portas>
+    <cor id="10">Marrom</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 32.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>06/04/2020 15:38</cadastro>
+    <alteracao>02/05/2020 17:08</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCQ-7442_01.jpg?u=20200414164750</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCQ-7442_02.jpg?u=20200414164758</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCQ-7442_03.jpg?u=20200414164806</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCQ-7442_09.jpg?u=20200414165130</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCQ-7442_04.jpg?u=20200414164813</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCQ-7442_05.jpg?u=20200414164817</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCQ-7442_06.jpg?u=20200414165108</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCQ-7442_07.jpg?u=20200414165121</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCQ-7442_08.jpg?u=20200414165126</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCQ-7442_10.jpg?u=20200414165132</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCQ-7442_11.jpg?u=20200414165136</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
     <id>1324881</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -339,10 +1206,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 64.990,00</preco>
+    <preco>R$ 63.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>09/12/2019 19:13</cadastro>
-    <alteracao>08/02/2020 14:39</alteracao>
+    <alteracao>19/04/2020 21:16</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -396,42 +1263,46 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1328094</id>
+    <id>1376383</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PDH-5447</placa>
+    <placa>PCX-4809</placa>
     <marca id="82">NISSAN</marca>
-    <modelo id="3615"><![CDATA[ KICKS ]]></modelo>
-    <versao id="9466"><![CDATA[ 1.6 16vstart SL ]]></versao>
+    <modelo id="2231"><![CDATA[ MARCH ]]></modelo>
+    <versao id="7364"><![CDATA[ 1.0 SV 12V ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2017</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="15">XTronic</cambio>
-    <km>23542</km>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>48968</km>
     <portas>4</portas>
-    <cor id="11">Prata</cor>
+    <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 79.990,00</preco>
+    <preco>R$ 34.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>14/12/2019 15:26</cadastro>
-    <alteracao>14/12/2019 15:26</alteracao>
+    <cadastro>14/04/2020 16:05</cadastro>
+    <alteracao>02/05/2020 17:09</alteracao>
     <complementos />
-    <opcionais />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDH-5447_01.jpg?u=20191214152503</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDH-5447_02.jpg?u=20191214152506</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDH-5447_03.jpg?u=20191214152510</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDH-5447_04.jpg?u=20191214152512</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDH-5447_05.jpg?u=20191214152517</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDH-5447_06.jpg?u=20191214152520</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDH-5447_08.jpg?u=20191214152525</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDH-5447_07.jpg?u=20191214152523</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDH-5447_09.jpg?u=20191214152527</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDH-5447_10.jpg?u=20191214152531</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDH-5447_11.jpg?u=20191214152532</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDH-5447_12.jpg?u=20191214152535</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-4809_01.jpg?u=20200414160551</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-4809_02.jpg?u=20200414160555</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-4809_03.jpg?u=20200414160558</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-4809_04.jpg?u=20200414160600</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-4809_05.jpg?u=20200414160602</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-4809_06.jpg?u=20200414160605</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-4809_07.jpg?u=20200414160607</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-4809_08.jpg?u=20200414160609</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCX-4809_09.jpg?u=20200414160611</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -484,10 +1355,10 @@
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 38.990,00</preco>
+    <preco>R$ 34.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>29/01/2020 14:15</cadastro>
-    <alteracao>29/01/2020 14:15</alteracao>
+    <alteracao>02/05/2020 17:09</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -548,6 +1419,247 @@
     </loja>
   </veiculo>
   <veiculo>
+    <id>1369522</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PYE-7171</placa>
+    <marca id="82">NISSAN</marca>
+    <modelo id="2252"><![CDATA[ VERSA ]]></modelo>
+    <versao id="7450"><![CDATA[ 1.6 16V SV ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="15">XTronic</cambio>
+    <km>55500</km>
+    <portas>4</portas>
+    <cor id="6">Cinza</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 42.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>16/03/2020 19:59</cadastro>
+    <alteracao>25/04/2020 10:53</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PYE-7171_02.jpg?u=20200406162626</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PYE-7171_03.jpg?u=20200406162627</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PYE-7171_04.jpg?u=20200406162629</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PYE-7171_05.jpg?u=20200406162631</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PYE-7171_06.jpg?u=20200406162634</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PYE-7171_07.jpg?u=20200406162635</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PYE-7171_08.jpg?u=20200406162637</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PYE-7171_09.jpg?u=20200406162639</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PYE-7171_10.jpg?u=20200406162640</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PYE-7171_11.jpg?u=20200406162642</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PYE-7171_12.jpg?u=20200406162645</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PYE-7171_13.jpg?u=20200406162647</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PYE-7171_14.jpg?u=20200406162655</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1355381</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PGX-0671</placa>
+    <marca id="84">PEUGEOT</marca>
+    <modelo id="3393"><![CDATA[ 2008 ]]></modelo>
+    <versao id="7524"><![CDATA[ 1.6 16V Allure ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>30028</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 45.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>13/02/2020 14:39</cadastro>
+    <alteracao>25/04/2020 10:43</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="71">Start / Stop Engine</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PGX-0671_01.jpg?u=20200213143653</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PGX-0671_02.jpg?u=20200213143703</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PGX-0671_03.jpg?u=20200213143710</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PGX-0671_04.jpg?u=20200213143716</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PGX-0671_05.jpg?u=20200213143723</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PGX-0671_06.jpg?u=20200213143740</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PGX-0671_07.jpg?u=20200213143745</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PGX-0671_08.jpg?u=20200213143751</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PGX-0671_09.jpg?u=20200213143755</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1374906</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCF-2298</placa>
+    <marca id="84">PEUGEOT</marca>
+    <modelo id="2770"><![CDATA[ 208 ]]></modelo>
+    <versao id="7951"><![CDATA[ 1.2 Active 12V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>25816</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 34.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação ]]></observacao>
+    <cadastro>06/04/2020 15:29</cadastro>
+    <alteracao>25/04/2020 10:44</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_01.jpg?u=20200406152843</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_02.jpg?u=20200406152847</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_03.jpg?u=20200406152850</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_04.jpg?u=20200406152853</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_05.jpg?u=20200406152857</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_06.jpg?u=20200406152900</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_07.jpg?u=20200406152902</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_08.jpg?u=20200406152903</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_09.jpg?u=20200406152905</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_10.jpg?u=20200406152907</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_11.jpg?u=20200406152909</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_13.jpg?u=20200406152923</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_12.jpg?u=20200406152912</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
     <id>1326709</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -564,10 +1676,10 @@
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 31.990,00</preco>
+    <preco>R$ 29.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>12/12/2019 14:48</cadastro>
-    <alteracao>08/02/2020 14:38</alteracao>
+    <alteracao>02/05/2020 17:08</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -592,6 +1704,158 @@
       <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-6041_08.jpg?u=20191212145118</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-6041_09.jpg?u=20191212145121</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-6041_10.jpg?u=20191212145125</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1354313</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCF-4234</placa>
+    <marca id="109">VOLKSWAGEN</marca>
+    <modelo id="934"><![CDATA[ GOL ]]></modelo>
+    <versao id="7912"><![CDATA[ 1.6 MSI Totalflex Trendline ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>37711</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 30.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>12/02/2020 11:47</cadastro>
+    <alteracao>25/04/2020 10:45</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-4234_01.jpg?u=20200212114518</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-4234_02.jpg?u=20200212114520</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-4234_03.jpg?u=20200212114521</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-4234_04.jpg?u=20200212114523</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-4234_05.jpg?u=20200212114524</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-4234_06.jpg?u=20200212114526</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-4234_07.jpg?u=20200212114529</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-4234_08.jpg?u=20200212114530</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1134</id>
+      <nomefantasia>Autonunes (Olinda)</nomefantasia>
+      <cnpj>40.889.222/0004-74</cnpj>
+      <endereco>
+        <logradouro>Av. Pan Nordestina</logradouro>
+        <numero>1800</numero>
+        <complemento>
+        </complemento>
+        <bairro>Salgadinho</bairro>
+        <cidade>Olinda</cidade>
+        <uf>PE</uf>
+        <cep>53230-000</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1374935</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PED-1513</placa>
+    <marca id="109">VOLKSWAGEN</marca>
+    <modelo id="959"><![CDATA[ VOYAGE ]]></modelo>
+    <versao id="7919"><![CDATA[ 1.0 12V MPI Totalflex Trendline ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>44124</km>
+    <portas>4</portas>
+    <cor id="12">Preto</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 35.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
+    <cadastro>06/04/2020 16:34</cadastro>
+    <alteracao>19/04/2020 21:26</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PED-1513_01.jpg?u=20200406163305</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PED-1513_02.jpg?u=20200406163308</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PED-1513_03.jpg?u=20200406163311</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PED-1513_04.jpg?u=20200406163312</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PED-1513_05.jpg?u=20200406163314</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PED-1513_06.jpg?u=20200406163315</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PED-1513_07.jpg?u=20200406163317</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PED-1513_08.jpg?u=20200406163319</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PED-1513_09.jpg?u=20200406163323</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PED-1513_10.jpg?u=20200406163324</foto>
     </fotos>
     <foto360>
       <exterior>
