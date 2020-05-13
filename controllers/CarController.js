@@ -36,12 +36,14 @@ module.exports = {
       });
 
       await content.estoque.veiculo.forEach((carro) => {
-        const modelo = carro.modelo[0]._.trim();
-        if (category[modelo]) {
-          carro.categoria = category[modelo];
-        }
+        if (carro) {
+          const modelo = carro.modelo[0]._.trim();
+          if (category[modelo]) {
+            carro.categoria = category[modelo];
+          }
 
-        carro.preco[0] = carro.preco[0].slice(3, -3).replace(".", "");
+          carro.preco[0] = carro.preco[0].slice(3, -3).replace(".", "");
+        }
       });
 
       if (yearRange) {
