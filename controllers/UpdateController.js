@@ -45,6 +45,7 @@ module.exports = {
       await lojas.forEach(async (loja) => {
         await getLojaInfo(loja.nome, loja.url);
         console.log("Arquivos atualizados com sucesso");
+        return res("Arquivos atualizados com sucesso");
       });
     } catch (err) {
       throw new Error(err);
