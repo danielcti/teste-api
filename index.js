@@ -29,10 +29,10 @@ app.get("/atualizar", UpdateController.store);
 app.use(cors());
 
 // CRON JOB EXECUTANDO DE UM EM UM MINUTO
-cron.schedule("0 */1 * * *", () => {
-  console.log("Executando a tarefa a cada 1 hora");
-  UpdateController.store();
-});
+// cron.schedule("0 */1 * * *", () => {
+//   console.log("Executando a tarefa a cada 1 hora");
+//   UpdateController.store();
+// });
 
 app.listen(process.env.PORT || 3333);
 
