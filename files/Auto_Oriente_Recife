@@ -101,7 +101,9 @@
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>16/03/2020 15:09</cadastro>
     <alteracao>02/05/2020 17:24</alteracao>
-    <complementos />
+    <complementos>
+      <complemento id="11">Destaque</complemento>
+    </complementos>
     <opcionais>
       <opcional id="54">Air bag</opcional>
       <opcional id="6">Ar condicionado</opcional>
@@ -181,7 +183,9 @@
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>14/04/2020 12:52</cadastro>
     <alteracao>25/04/2020 17:57</alteracao>
-    <complementos />
+    <complementos>
+      <complemento id="11">Destaque</complemento>
+    </complementos>
     <opcionais>
       <opcional id="54">Air bag</opcional>
       <opcional id="6">Ar condicionado</opcional>
@@ -453,86 +457,6 @@
       <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDV-3471_12.jpg?u=20200413161051</foto>
       <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDV-3471_13.jpg?u=20200413161056</foto>
       <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PDV-3471_14.jpg?u=20200413161104</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1810</id>
-      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
-      <cnpj>14.989.426/0001-24</cnpj>
-      <endereco>
-        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
-        <numero>1925</numero>
-        <complemento>
-        </complemento>
-        <bairro>Espinheiro</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>52021-000</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1352870</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PCN-2385</placa>
-    <marca id="50">HYUNDAI</marca>
-    <modelo id="2295"><![CDATA[ HB20 ]]></modelo>
-    <versao id="3590"><![CDATA[ 1.0 Comfort Style 12V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2017</anofabricacao>
-    <anomodelo>2017</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>15743</km>
-    <portas>4</portas>
-    <cor id="12">Preto</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 34.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>07/02/2020 19:05</cadastro>
-    <alteracao>02/05/2020 17:23</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-2385_01.jpg?u=20200207190237</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-2385_02.jpg?u=20200207190239</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-2385_03.jpg?u=20200207190244</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-2385_04.jpg?u=20200207190245</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-2385_05.jpg?u=20200207190250</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-2385_06.jpg?u=20200207190255</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-2385_07.jpg?u=20200207190300</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-2385_08.jpg?u=20200207190302</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-2385_09.jpg?u=20200207190306</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-2385_10.jpg?u=20200207190308</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-2385_11.jpg?u=20200207190311</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-2385_12.jpg?u=20200207190314</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCN-2385_13.jpg?u=20200207190316</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -1111,83 +1035,6 @@
       <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCZ-6689_13.jpg?u=20200413171109</foto>
       <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCZ-6689_14.jpg?u=20200413171112</foto>
       <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/PCZ-6689_15.jpg?u=20200413171113</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1810</id>
-      <nomefantasia>Auto Oriente (Recife)</nomefantasia>
-      <cnpj>14.989.426/0001-24</cnpj>
-      <endereco>
-        <logradouro>Av. Norte Miguel Arraes de Alencar</logradouro>
-        <numero>1925</numero>
-        <complemento>
-        </complemento>
-        <bairro>Espinheiro</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>52021-000</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1376108</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>QQF-3446</placa>
-    <marca id="89">RENAULT</marca>
-    <modelo id="839"><![CDATA[ LOGAN ]]></modelo>
-    <versao id="8468"><![CDATA[ 1.0 12V SCE Authentique ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2019</anofabricacao>
-    <anomodelo>2020</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>35587</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 38.490,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>13/04/2020 16:32</cadastro>
-    <alteracao>11/05/2020 08:52</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/QQF-3446_01.jpg?u=20200413163050</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/QQF-3446_02.jpg?u=20200413163055</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/QQF-3446_03.jpg?u=20200413163058</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/QQF-3446_05.jpg?u=20200413163110</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/QQF-3446_04.jpg?u=20200413163103</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/QQF-3446_06.jpg?u=20200413163116</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/QQF-3446_07.jpg?u=20200413163119</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/QQF-3446_08.jpg?u=20200413163122</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/QQF-3446_09.jpg?u=20200413163125</foto>
-      <foto>https://dsae.s3.amazonaws.com/14989426000124/Fotos/QQF-3446_10.jpg?u=20200413163127</foto>
     </fotos>
     <foto360>
       <exterior>

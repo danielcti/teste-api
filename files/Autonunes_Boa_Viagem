@@ -106,7 +106,9 @@
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>24/01/2020 12:14</cadastro>
     <alteracao>02/05/2020 17:11</alteracao>
-    <complementos />
+    <complementos>
+      <complemento id="11">Destaque</complemento>
+    </complementos>
     <opcionais>
       <opcional id="54">Air bag</opcional>
       <opcional id="6">Ar condicionado</opcional>
@@ -134,85 +136,6 @@
       <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCF-1057_10.jpg?u=20200124121321</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCF-1057_11.jpg?u=20200124121324</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PCF-1057_12.jpg?u=20200124121328</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1136</id>
-      <nomefantasia>Autonunes (Boa Viagem)</nomefantasia>
-      <cnpj>40.889.222/0003-93</cnpj>
-      <endereco>
-        <logradouro>Av. Engenheiro Domingos Ferreira</logradouro>
-        <numero>266</numero>
-        <complemento>
-        </complemento>
-        <bairro>Pina</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>51011-050</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1370034</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>QPR-2992</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
-    <versao id="8059"><![CDATA[ 1.0 MPFI JOY 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2018</anofabricacao>
-    <anomodelo>2019</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>45046</km>
-    <portas>4</portas>
-    <cor id="12">Preto</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 36.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>17/03/2020 16:23</cadastro>
-    <alteracao>25/04/2020 09:36</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_01.jpg?u=20200317162147</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_02.jpg?u=20200317162151</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_03.jpg?u=20200317162159</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_04.jpg?u=20200317162204</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_05.jpg?u=20200317162215</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_06.jpg?u=20200317162219</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_07.jpg?u=20200317162223</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_08.jpg?u=20200317162229</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_09.jpg?u=20200317162233</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_10.jpg?u=20200317162236</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_11.jpg?u=20200317162239</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QPR-2992_12.jpg?u=20200317162245</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -457,84 +380,6 @@
       <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_12.jpg?u=20200214112654</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_13.jpg?u=20200214112659</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDH-3257_14.jpg?u=20200214112709</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1136</id>
-      <nomefantasia>Autonunes (Boa Viagem)</nomefantasia>
-      <cnpj>40.889.222/0003-93</cnpj>
-      <endereco>
-        <logradouro>Av. Engenheiro Domingos Ferreira</logradouro>
-        <numero>266</numero>
-        <complemento>
-        </complemento>
-        <bairro>Pina</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>51011-050</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1369919</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>OYQ-0102</placa>
-    <marca id="41">FORD</marca>
-    <modelo id="379"><![CDATA[ KA ]]></modelo>
-    <versao id="3025"><![CDATA[ 1.5 SE 16V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2014</anofabricacao>
-    <anomodelo>2015</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>52660</km>
-    <portas>4</portas>
-    <cor id="9">Laranja</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 30.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>17/03/2020 14:15</cadastro>
-    <alteracao>25/04/2020 09:36</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_02.jpg?u=20200317141334</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_03.jpg?u=20200317141403</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_04.jpg?u=20200317141409</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_05.jpg?u=20200317141420</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_06.jpg?u=20200317141425</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_07.jpg?u=20200317141430</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_08.jpg?u=20200317141435</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_09.jpg?u=20200317141439</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_10.jpg?u=20200317141445</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_11.jpg?u=20200317141449</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/OYQ-0102_12.jpg?u=20200317141453</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -854,83 +699,6 @@
       <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDY-6193_08.jpg?u=20200227093625</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDY-6193_09.jpg?u=20200227093628</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/PDY-6193_10.jpg?u=20200227093632</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1136</id>
-      <nomefantasia>Autonunes (Boa Viagem)</nomefantasia>
-      <cnpj>40.889.222/0003-93</cnpj>
-      <endereco>
-        <logradouro>Av. Engenheiro Domingos Ferreira</logradouro>
-        <numero>266</numero>
-        <complemento>
-        </complemento>
-        <bairro>Pina</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>51011-050</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1362021</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>QQF-3350</placa>
-    <marca id="89">RENAULT</marca>
-    <modelo id="839"><![CDATA[ LOGAN ]]></modelo>
-    <versao id="8468"><![CDATA[ 1.0 12V SCE Authentique ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2019</anofabricacao>
-    <anomodelo>2020</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>30789</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 38.490,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>29/02/2020 17:11</cadastro>
-    <alteracao>11/05/2020 08:29</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="8">Ar quente</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_01.jpg?u=20200229171656</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_02.jpg?u=20200229171701</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_03.jpg?u=20200229171705</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_04.jpg?u=20200229171709</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_05.jpg?u=20200229171714</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_06.jpg?u=20200229171718</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_07.jpg?u=20200229171722</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_08.jpg?u=20200229171726</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_09.jpg?u=20200229171729</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000393/Fotos/QQF-3350_10.jpg?u=20200229171733</foto>
     </fotos>
     <foto360>
       <exterior>
