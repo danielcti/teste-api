@@ -19,10 +19,10 @@
     <portas>4</portas>
     <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 50.990,00</preco>
+    <preco>R$ 49.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>24/01/2020 15:11</cadastro>
-    <alteracao>25/04/2020 10:44</alteracao>
+    <alteracao>02/06/2020 11:13</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -181,10 +181,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 49.990,00</preco>
+    <preco>R$ 52.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação ]]></observacao>
     <cadastro>06/04/2020 15:34</cadastro>
-    <alteracao>02/05/2020 17:07</alteracao>
+    <alteracao>02/06/2020 11:14</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -565,86 +565,6 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1374927</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDL-2692</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
-    <versao id="1307"><![CDATA[ 1.4 MPFI LT 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2017</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>50269</km>
-    <portas>4</portas>
-    <cor id="12">Preto</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 42.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>06/04/2020 16:14</cadastro>
-    <alteracao>25/04/2020 10:52</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_01.jpg?u=20200406161404</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_02.jpg?u=20200406161406</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_03.jpg?u=20200406161408</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_04.jpg?u=20200406161409</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_05.jpg?u=20200406161412</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_06.jpg?u=20200406161414</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_07.jpg?u=20200406161416</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_08.jpg?u=20200406161417</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_09.jpg?u=20200406161420</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_10.jpg?u=20200406161421</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_11.jpg?u=20200406161424</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_12.jpg?u=20200406161425</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PDL-2692_13.jpg?u=20200406161427</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1134</id>
-      <nomefantasia>Autonunes (Olinda)</nomefantasia>
-      <cnpj>40.889.222/0004-74</cnpj>
-      <endereco>
-        <logradouro>Av. Pan Nordestina</logradouro>
-        <numero>1800</numero>
-        <complemento>
-        </complemento>
-        <bairro>Salgadinho</bairro>
-        <cidade>Olinda</cidade>
-        <uf>PE</uf>
-        <cep>53230-000</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
     <id>1356687</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -661,10 +581,10 @@
     <portas>4</portas>
     <cor id="2">Azul</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 48.990,00</preco>
+    <preco>R$ 46.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>15/02/2020 15:35</cadastro>
-    <alteracao>19/04/2020 21:09</alteracao>
+    <alteracao>02/06/2020 11:12</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -742,10 +662,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 39.990,00</preco>
+    <preco>R$ 38.990,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
     <cadastro>06/04/2020 16:21</cadastro>
-    <alteracao>25/04/2020 10:53</alteracao>
+    <alteracao>02/06/2020 11:08</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -886,10 +806,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 39.990,00</preco>
+    <preco>R$ 38.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>12/02/2020 11:41</cadastro>
-    <alteracao>02/05/2020 17:07</alteracao>
+    <alteracao>02/06/2020 11:07</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -1127,10 +1047,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 63.990,00</preco>
+    <preco>R$ 60.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>09/12/2019 19:13</cadastro>
-    <alteracao>19/04/2020 21:16</alteracao>
+    <alteracao>02/06/2020 11:23</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -1276,10 +1196,10 @@
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 34.990,00</preco>
+    <preco>R$ 35.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>29/01/2020 14:15</cadastro>
-    <alteracao>02/05/2020 17:09</alteracao>
+    <alteracao>05/06/2020 08:05</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -1356,10 +1276,10 @@
     <portas>4</portas>
     <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 42.990,00</preco>
+    <preco>R$ 40.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>16/03/2020 19:59</cadastro>
-    <alteracao>25/04/2020 10:53</alteracao>
+    <alteracao>02/06/2020 11:10</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -1465,166 +1385,6 @@
       <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PGX-0671_07.jpg?u=20200213143745</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PGX-0671_08.jpg?u=20200213143751</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PGX-0671_09.jpg?u=20200213143755</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1134</id>
-      <nomefantasia>Autonunes (Olinda)</nomefantasia>
-      <cnpj>40.889.222/0004-74</cnpj>
-      <endereco>
-        <logradouro>Av. Pan Nordestina</logradouro>
-        <numero>1800</numero>
-        <complemento>
-        </complemento>
-        <bairro>Salgadinho</bairro>
-        <cidade>Olinda</cidade>
-        <uf>PE</uf>
-        <cep>53230-000</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1374906</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PCF-2298</placa>
-    <marca id="84">PEUGEOT</marca>
-    <modelo id="2770"><![CDATA[ 208 ]]></modelo>
-    <versao id="7951"><![CDATA[ 1.2 Active 12V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2017</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>25816</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 34.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação ]]></observacao>
-    <cadastro>06/04/2020 15:29</cadastro>
-    <alteracao>25/04/2020 10:44</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_01.jpg?u=20200406152843</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_02.jpg?u=20200406152847</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_03.jpg?u=20200406152850</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_04.jpg?u=20200406152853</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_05.jpg?u=20200406152857</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_06.jpg?u=20200406152900</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_07.jpg?u=20200406152902</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_08.jpg?u=20200406152903</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_09.jpg?u=20200406152905</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_10.jpg?u=20200406152907</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_11.jpg?u=20200406152909</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_13.jpg?u=20200406152923</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCF-2298_12.jpg?u=20200406152912</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1134</id>
-      <nomefantasia>Autonunes (Olinda)</nomefantasia>
-      <cnpj>40.889.222/0004-74</cnpj>
-      <endereco>
-        <logradouro>Av. Pan Nordestina</logradouro>
-        <numero>1800</numero>
-        <complemento>
-        </complemento>
-        <bairro>Salgadinho</bairro>
-        <cidade>Olinda</cidade>
-        <uf>PE</uf>
-        <cep>53230-000</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1326709</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PCS-6041</placa>
-    <marca id="109">VOLKSWAGEN</marca>
-    <modelo id="932"><![CDATA[ FOX ]]></modelo>
-    <versao id="7124"><![CDATA[ 1.0 MI Trendline 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2014</anofabricacao>
-    <anomodelo>2015</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>57474</km>
-    <portas>4</portas>
-    <cor id="12">Preto</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 29.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>12/12/2019 14:48</cadastro>
-    <alteracao>02/05/2020 17:08</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios>
-      <acessorio id="74">Central Multimídia</acessorio>
-    </acessorios>
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-6041_01.jpg?u=20191212145059</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-6041_02.jpg?u=20191212145101</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-6041_03.jpg?u=20191212145104</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-6041_04.jpg?u=20191212145106</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-6041_05.jpg?u=20191212145109</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-6041_06.jpg?u=20191212145112</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-6041_07.jpg?u=20191212145116</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-6041_08.jpg?u=20191212145118</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-6041_09.jpg?u=20191212145121</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000474/Fotos/PCS-6041_10.jpg?u=20191212145125</foto>
     </fotos>
     <foto360>
       <exterior>

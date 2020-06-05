@@ -19,10 +19,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="6">Gasolina</combustivel>
-    <preco>R$ 68.990,00</preco>
+    <preco>R$ 64.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>02/12/2019 18:35</cadastro>
-    <alteracao>27/04/2020 16:12</alteracao>
+    <alteracao>31/05/2020 20:08</alteracao>
     <complementos>
       <complemento id="11">Destaque</complemento>
     </complementos>
@@ -157,90 +157,6 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1374874</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDW-9397</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="2244"><![CDATA[ COBALT ]]></modelo>
-    <versao id="1640"><![CDATA[ 1.8 MPFI LTZ 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2016</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>23842</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 41.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>06/04/2020 13:56</cadastro>
-    <alteracao>24/04/2020 22:35</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDW-9397_01.jpg?u=20200406135513</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDW-9397_02.jpg?u=20200406135517</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDW-9397_03.jpg?u=20200406135520</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDW-9397_04.jpg?u=20200406135521</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDW-9397_05.jpg?u=20200406135523</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDW-9397_06.jpg?u=20200406135526</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDW-9397_07.jpg?u=20200406135528</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDW-9397_08.jpg?u=20200406135531</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDW-9397_09.jpg?u=20200406135533</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDW-9397_10.jpg?u=20200406135536</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDW-9397_11.jpg?u=20200406135539</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDW-9397_12.jpg?u=20200406135541</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDW-9397_13.jpg?u=20200406135544</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDW-9397_14.jpg?u=20200406135545</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
     <id>1381662</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -257,10 +173,10 @@
     <portas>4</portas>
     <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 53.990,00</preco>
+    <preco>R$ 50.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>07/05/2020 16:01</cadastro>
-    <alteracao>23/05/2020 10:55</alteracao>
+    <alteracao>31/05/2020 20:03</alteracao>
     <complementos>
       <complemento id="11">Destaque</complemento>
     </complementos>
@@ -325,93 +241,6 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1386054</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>QYF-8680</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="2145"><![CDATA[ CRUZE ]]></modelo>
-    <versao id="7985"><![CDATA[ 1.4 Turbo LTZ 16V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2019</anofabricacao>
-    <anomodelo>2019</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>2946</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 85.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>21/05/2020 15:13</cadastro>
-    <alteracao>21/05/2020 15:13</alteracao>
-    <complementos>
-      <complemento id="11">Destaque</complemento>
-    </complementos>
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="12">Bancos de couro</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="71">Start / Stop Engine</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYF-8680_01.jpg?u=20200521151157</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYF-8680_02.jpg?u=20200521151202</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYF-8680_03.jpg?u=20200521151207</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYF-8680_04.jpg?u=20200521151210</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYF-8680_05.jpg?u=20200521151211</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYF-8680_06.jpg?u=20200521151214</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYF-8680_07.jpg?u=20200521151216</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYF-8680_08.jpg?u=20200521151218</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYF-8680_09.jpg?u=20200521151221</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYF-8680_14.jpg?u=20200521151313</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYF-8680_10.jpg?u=20200521151224</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYF-8680_11.jpg?u=20200521151226</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYF-8680_12.jpg?u=20200521151228</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYF-8680_13.jpg?u=20200521151230</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
     <id>1372748</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -428,10 +257,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 47.990,00</preco>
+    <preco>R$ 46.990,00</preco>
     <observacao><![CDATA[   ]]></observacao>
     <cadastro>25/03/2020 18:25</cadastro>
-    <alteracao>02/05/2020 16:51</alteracao>
+    <alteracao>31/05/2020 20:01</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -512,10 +341,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="6">Gasolina</combustivel>
-    <preco>R$ 129.990,00</preco>
+    <preco>R$ 119.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>03/03/2020 15:13</cadastro>
-    <alteracao>19/04/2020 19:39</alteracao>
+    <alteracao>05/06/2020 11:27</alteracao>
     <complementos>
       <complemento id="11">Destaque</complemento>
     </complementos>
@@ -552,154 +381,6 @@
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYA-6762_14.jpg?u=20200303151057</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYA-6762_15.jpg?u=20200303151105</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/QYA-6762_16.jpg?u=20200303151126</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1380234</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDB-7510</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
-    <versao id="8059"><![CDATA[ 1.0 MPFI JOY 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2018</anofabricacao>
-    <anomodelo>2019</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>64678</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 38.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>02/05/2020 12:41</cadastro>
-    <alteracao>02/05/2020 12:41</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_01.jpg?u=20200502124041</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_02.jpg?u=20200502124045</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_04.jpg?u=20200502124055</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_03.jpg?u=20200502124048</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_05.jpg?u=20200502124057</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_06.jpg?u=20200502124101</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_07.jpg?u=20200502124104</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_08.jpg?u=20200502124106</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_09.jpg?u=20200502124108</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_10.jpg?u=20200502124110</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1371984</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDC-2755</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
-    <versao id="8059"><![CDATA[ 1.0 MPFI JOY 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2018</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>41668</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 34.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>21/03/2020 13:02</cadastro>
-    <alteracao>23/05/2020 10:53</alteracao>
-    <complementos />
-    <opcionais />
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-2755_01.jpg?u=20200321130021</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-2755_02.jpg?u=20200321130026</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-2755_03.jpg?u=20200321130030</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-2755_04.jpg?u=20200321130033</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-2755_05.jpg?u=20200321130037</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-2755_06.jpg?u=20200321130041</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-2755_07.jpg?u=20200321130044</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-2755_08.jpg?u=20200321130045</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-2755_09.jpg?u=20200321130048</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-2755_10.jpg?u=20200321130052</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-2755_11.jpg?u=20200321130110</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -813,6 +494,83 @@
     </loja>
   </veiculo>
   <veiculo>
+    <id>1380234</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDB-7510</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
+    <versao id="8059"><![CDATA[ 1.0 MPFI JOY 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2019</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>64678</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 36.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
+    <cadastro>02/05/2020 12:41</cadastro>
+    <alteracao>31/05/2020 19:54</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_01.jpg?u=20200502124041</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_02.jpg?u=20200502124045</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_04.jpg?u=20200502124055</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_03.jpg?u=20200502124048</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_05.jpg?u=20200502124057</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_06.jpg?u=20200502124101</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_07.jpg?u=20200502124104</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_08.jpg?u=20200502124106</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_09.jpg?u=20200502124108</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDB-7510_10.jpg?u=20200502124110</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1133</id>
+      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
+      <cnpj>40.889.222/0001-21</cnpj>
+      <endereco>
+        <logradouro>Est. da Batalha</logradouro>
+        <numero>1000</numero>
+        <complemento>
+        </complemento>
+        <bairro>Jardim Jordao</bairro>
+        <cidade>Jaboatao dos Guararapes</cidade>
+        <uf>PE</uf>
+        <cep>54315-570</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
     <id>1387044</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -854,84 +612,6 @@
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCN-2725_07.jpg?u=20200526102427</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCN-2725_09.jpg?u=20200526102511</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCN-2725_10.jpg?u=20200526102518</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1378769</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PCP-3563</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
-    <versao id="1656"><![CDATA[ 1.0 MPFI LT 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2016</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>68684</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 28.500,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>25/04/2020 09:41</cadastro>
-    <alteracao>09/05/2020 19:30</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_01.jpg?u=20200425094002</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_02.jpg?u=20200425094006</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_03.jpg?u=20200425094011</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_04.jpg?u=20200425094015</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_05.jpg?u=20200425094021</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_06.jpg?u=20200425094025</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_07.jpg?u=20200425094029</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_09.jpg?u=20200425094036</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_08.jpg?u=20200425094032</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_10.jpg?u=20200425094045</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_11.jpg?u=20200425094047</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -1047,26 +727,26 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1384082</id>
+    <id>1378769</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PCL-6337</placa>
+    <placa>PCP-3563</placa>
     <marca id="23">CHEVROLET</marca>
     <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
     <versao id="1656"><![CDATA[ 1.0 MPFI LT 8V ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2019</anofabricacao>
-    <anomodelo>2019</anomodelo>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2016</anomodelo>
     <cambio id="3">Manual</cambio>
-    <km>19472</km>
+    <km>68684</km>
     <portas>4</portas>
-    <cor id="11">Prata</cor>
+    <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 38.990,00</preco>
+    <preco>R$ 28.500,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>14/05/2020 19:39</cadastro>
-    <alteracao>23/05/2020 10:55</alteracao>
+    <cadastro>25/04/2020 09:41</cadastro>
+    <alteracao>09/05/2020 19:30</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -1078,19 +758,17 @@
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCL-6337_01.jpg?u=20200514193717</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCL-6337_02.jpg?u=20200514193723</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCL-6337_03.jpg?u=20200514193728</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCL-6337_04.jpg?u=20200514193732</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCL-6337_05.jpg?u=20200514193737</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCL-6337_06.jpg?u=20200514193743</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCL-6337_07.jpg?u=20200514193750</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCL-6337_08.jpg?u=20200514193756</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCL-6337_09.jpg?u=20200514193805</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCL-6337_10.jpg?u=20200514193814</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCL-6337_11.jpg?u=20200514193817</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCL-6337_12.jpg?u=20200514193821</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCL-6337_13.jpg?u=20200514193830</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_01.jpg?u=20200425094002</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_02.jpg?u=20200425094006</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_03.jpg?u=20200425094011</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_04.jpg?u=20200425094015</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_05.jpg?u=20200425094021</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_06.jpg?u=20200425094025</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_07.jpg?u=20200425094029</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_09.jpg?u=20200425094036</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_08.jpg?u=20200425094032</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_10.jpg?u=20200425094045</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCP-3563_11.jpg?u=20200425094047</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -1143,10 +821,10 @@
     <portas>4</portas>
     <cor id="2">Azul</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 48.990,00</preco>
+    <preco>R$ 49.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>02/05/2020 12:21</cadastro>
-    <alteracao>02/05/2020 17:03</alteracao>
+    <alteracao>31/05/2020 20:04</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -1308,10 +986,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 49.990,00</preco>
+    <preco>R$ 50.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>27/04/2020 09:44</cadastro>
-    <alteracao>02/05/2020 17:02</alteracao>
+    <alteracao>31/05/2020 20:05</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -1374,89 +1052,6 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1376468</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDR-3110</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
-    <versao id="8044"><![CDATA[ 1.4 MPFI Activ 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2018</anofabricacao>
-    <anomodelo>2019</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>3149</km>
-    <portas>4</portas>
-    <cor id="15">Vermelho</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 56.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>15/04/2020 10:58</cadastro>
-    <alteracao>02/05/2020 17:03</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDR-3110_01.jpg?u=20200415105712</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDR-3110_02.jpg?u=20200415105715</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDR-3110_03.jpg?u=20200415105719</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDR-3110_04.jpg?u=20200415105722</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDR-3110_05.jpg?u=20200415105728</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDR-3110_06.jpg?u=20200415105732</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDR-3110_07.jpg?u=20200415105737</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDR-3110_08.jpg?u=20200415105742</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDR-3110_09.jpg?u=20200415105746</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDR-3110_10.jpg?u=20200415105755</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDR-3110_11.jpg?u=20200415105758</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDR-3110_12.jpg?u=20200415105803</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDR-3110_13.jpg?u=20200415105809</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDR-3110_14.jpg?u=20200415105813</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
     <id>1380179</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -1473,10 +1068,10 @@
     <portas>4</portas>
     <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 41.990,00</preco>
+    <preco>R$ 42.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>02/05/2020 10:27</cadastro>
-    <alteracao>02/05/2020 10:27</alteracao>
+    <alteracao>31/05/2020 19:59</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -1551,10 +1146,10 @@
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 33.990,00</preco>
+    <preco>R$ 32.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>11/05/2020 10:39</cadastro>
-    <alteracao>11/05/2020 10:39</alteracao>
+    <alteracao>31/05/2020 19:50</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -1632,10 +1227,10 @@
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 42.990,00</preco>
+    <preco>R$ 43.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>15/04/2020 10:31</cadastro>
-    <alteracao>24/04/2020 22:59</alteracao>
+    <alteracao>31/05/2020 20:00</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -1869,10 +1464,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 32.990,00</preco>
+    <preco>R$ 33.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>27/04/2020 08:58</cadastro>
-    <alteracao>29/04/2020 15:26</alteracao>
+    <alteracao>31/05/2020 19:48</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -2026,10 +1621,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 45.990,00</preco>
+    <preco>R$ 46.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>05/03/2020 10:21</cadastro>
-    <alteracao>24/04/2020 23:02</alteracao>
+    <alteracao>31/05/2020 20:01</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -2109,10 +1704,10 @@
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 40.000,00</preco>
+    <preco>R$ 42.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>13/01/2020 19:01</cadastro>
-    <alteracao>19/04/2020 19:31</alteracao>
+    <alteracao>02/06/2020 11:26</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -2192,10 +1787,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 47.990,00</preco>
+    <preco>R$ 48.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>15/04/2020 11:07</cadastro>
-    <alteracao>24/04/2020 23:03</alteracao>
+    <alteracao>05/06/2020 08:02</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -2223,89 +1818,6 @@
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCS-9040_12.jpg?u=20200415110646</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCS-9040_13.jpg?u=20200415110649</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCS-9040_14.jpg?u=20200415110653</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1363552</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDT-5258</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
-    <versao id="1308"><![CDATA[ 1.4 MPFI LTZ 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2017</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>37500</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 49.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>04/03/2020 13:59</cadastro>
-    <alteracao>24/04/2020 23:04</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDT-5258_01.jpg?u=20200304135138</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDT-5258_02.jpg?u=20200304135149</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDT-5258_04.jpg?u=20200304135158</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDT-5258_03.jpg?u=20200304135154</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDT-5258_05.jpg?u=20200304135214</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDT-5258_06.jpg?u=20200304135220</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDT-5258_07.jpg?u=20200304135225</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDT-5258_08.jpg?u=20200304135258</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDT-5258_09.jpg?u=20200304135314</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDT-5258_10.jpg?u=20200304135331</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDT-5258_11.jpg?u=20200304135337</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDT-5258_12.jpg?u=20200304135346</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDT-5258_13.jpg?u=20200304135350</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDT-5258_14.jpg?u=20200304135354</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -2438,10 +1950,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 48.990,00</preco>
+    <preco>R$ 47.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>07/05/2020 16:16</cadastro>
-    <alteracao>07/05/2020 16:16</alteracao>
+    <alteracao>31/05/2020 20:02</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -2520,7 +2032,7 @@
     <preco>R$ 55.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>13/03/2020 15:29</cadastro>
-    <alteracao>24/04/2020 23:07</alteracao>
+    <alteracao>05/06/2020 08:04</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -2602,7 +2114,7 @@
     <preco>R$ 37.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>07/05/2020 16:53</cadastro>
-    <alteracao>07/05/2020 16:53</alteracao>
+    <alteracao>05/06/2020 08:04</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -2665,6 +2177,84 @@
     </loja>
   </veiculo>
   <veiculo>
+    <id>1381703</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCE-6784</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2280"><![CDATA[ SPIN ]]></modelo>
+    <versao id="7492"><![CDATA[ 1.8 LS 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>50401</km>
+    <portas>4</portas>
+    <cor id="4">Branco</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 37.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
+    <cadastro>07/05/2020 16:47</cadastro>
+    <alteracao>31/05/2020 19:56</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_01.jpg?u=20200507164432</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_02.jpg?u=20200507164437</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_03.jpg?u=20200507164453</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_04.jpg?u=20200507164510</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_05.jpg?u=20200507164530</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_06.jpg?u=20200507164544</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_07.jpg?u=20200507164555</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_08.jpg?u=20200507164609</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_09.jpg?u=20200507164635</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_10.jpg?u=20200507164644</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_11.jpg?u=20200507164652</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1133</id>
+      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
+      <cnpj>40.889.222/0001-21</cnpj>
+      <endereco>
+        <logradouro>Est. da Batalha</logradouro>
+        <numero>1000</numero>
+        <complemento>
+        </complemento>
+        <bairro>Jardim Jordao</bairro>
+        <cidade>Jaboatao dos Guararapes</cidade>
+        <uf>PE</uf>
+        <cep>54315-570</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
     <id>1318370</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -2681,10 +2271,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 39.990,00</preco>
+    <preco>R$ 38.990,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE...  ]]></observacao>
     <cadastro>28/11/2019 10:11</cadastro>
-    <alteracao>24/04/2020 23:08</alteracao>
+    <alteracao>31/05/2020 19:57</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -2812,48 +2402,131 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1381703</id>
+    <id>1388731</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PCE-6784</placa>
+    <placa>FWD-9456</placa>
     <marca id="23">CHEVROLET</marca>
     <modelo id="2280"><![CDATA[ SPIN ]]></modelo>
-    <versao id="7492"><![CDATA[ 1.8 LS 8V ]]></versao>
+    <versao id="1652"><![CDATA[ 1.8 LT 8V ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2017</anofabricacao>
-    <anomodelo>2017</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>50401</km>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2016</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>40844</km>
     <portas>4</portas>
-    <cor id="4">Branco</cor>
+    <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 39.990,00</preco>
+    <preco>R$ 38.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>07/05/2020 16:47</cadastro>
-    <alteracao>07/05/2020 16:47</alteracao>
+    <cadastro>01/06/2020 15:54</cadastro>
+    <alteracao>01/06/2020 15:54</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
       <opcional id="6">Ar condicionado</opcional>
       <opcional id="20">Direção hidráulica</opcional>
       <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
       <opcional id="36">Travas elétricas</opcional>
       <opcional id="38">Vidros elétricos</opcional>
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_01.jpg?u=20200507164432</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_02.jpg?u=20200507164437</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_03.jpg?u=20200507164453</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_04.jpg?u=20200507164510</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_05.jpg?u=20200507164530</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_06.jpg?u=20200507164544</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_07.jpg?u=20200507164555</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_08.jpg?u=20200507164609</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_09.jpg?u=20200507164635</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_10.jpg?u=20200507164644</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCE-6784_11.jpg?u=20200507164652</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD-9456_01.jpg?u=20200601152708</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD-9456_02.jpg?u=20200601152712</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD-9456_03.jpg?u=20200601152715</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD-9456_04.jpg?u=20200601152719</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD-9456_05.jpg?u=20200601152723</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD-9456_06.jpg?u=20200601152727</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD-9456_07.jpg?u=20200601152733</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD-9456_08.jpg?u=20200601152735</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD-9456_09.jpg?u=20200601152741</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD-9456_10.jpg?u=20200601152746</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD-9456_11.jpg?u=20200601152750</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD-9456_12.jpg?u=20200601152753</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD-9456_13.jpg?u=20200601152757</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD-9456_14.jpg?u=20200601152801</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1133</id>
+      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
+      <cnpj>40.889.222/0001-21</cnpj>
+      <endereco>
+        <logradouro>Est. da Batalha</logradouro>
+        <numero>1000</numero>
+        <complemento>
+        </complemento>
+        <bairro>Jardim Jordao</bairro>
+        <cidade>Jaboatao dos Guararapes</cidade>
+        <uf>PE</uf>
+        <cep>54315-570</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1381689</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PGH-2418</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="2280"><![CDATA[ SPIN ]]></modelo>
+    <versao id="1652"><![CDATA[ 1.8 LT 8V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2013</anofabricacao>
+    <anomodelo>2013</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>40922</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 29.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
+    <cadastro>07/05/2020 16:32</cadastro>
+    <alteracao>31/05/2020 19:47</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_01.jpg?u=20200507163101</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_02.jpg?u=20200507163104</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_03.jpg?u=20200507163123</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_04.jpg?u=20200507163130</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_05.jpg?u=20200507163132</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_06.jpg?u=20200507163144</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_07.jpg?u=20200507163147</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_08.jpg?u=20200507163153</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_09.jpg?u=20200507163157</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_10.jpg?u=20200507163207</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -2937,253 +2610,6 @@
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD9456_12.jpg?u=20200505173909</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD9456_13.jpg?u=20200505173940</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/FWD9456_14.jpg?u=20200505173956</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1381689</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PGH-2418</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="2280"><![CDATA[ SPIN ]]></modelo>
-    <versao id="1653"><![CDATA[ 1.8 LTZ 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2013</anofabricacao>
-    <anomodelo>2013</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>40922</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 31.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>07/05/2020 16:32</cadastro>
-    <alteracao>07/05/2020 16:32</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_01.jpg?u=20200507163101</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_02.jpg?u=20200507163104</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_03.jpg?u=20200507163123</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_04.jpg?u=20200507163130</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_05.jpg?u=20200507163132</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_06.jpg?u=20200507163144</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_07.jpg?u=20200507163147</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_08.jpg?u=20200507163153</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_09.jpg?u=20200507163157</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PGH-2418_10.jpg?u=20200507163207</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1364022</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDQ-7065</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="213"><![CDATA[ TRACKER ]]></modelo>
-    <versao id="8463"><![CDATA[ 1.4 16V Turbo LT ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2017</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>26690</km>
-    <portas>4</portas>
-    <cor id="12">Preto</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 64.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>05/03/2020 10:42</cadastro>
-    <alteracao>05/03/2020 10:42</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDQ-7065_01.jpg?u=20200305104109</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDQ-7065_02.jpg?u=20200305104112</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDQ-7065_03.jpg?u=20200305104116</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDQ-7065_04.jpg?u=20200305104118</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDQ-7065_05.jpg?u=20200305104120</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDQ-7065_06.jpg?u=20200305104121</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDQ-7065_07.jpg?u=20200305104123</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDQ-7065_08.jpg?u=20200305104125</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDQ-7065_09.jpg?u=20200305104128</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDQ-7065_10.jpg?u=20200305104130</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDQ-7065_11.jpg?u=20200305104131</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDQ-7065_12.jpg?u=20200305104134</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDQ-7065_13.jpg?u=20200305104136</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDQ-7065_14.jpg?u=20200305104137</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1380202</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDK-4722</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="213"><![CDATA[ TRACKER ]]></modelo>
-    <versao id="8464"><![CDATA[ 1.4 16V Turbo LTZ ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2017</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>20283</km>
-    <portas>4</portas>
-    <cor id="12">Preto</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 69.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>02/05/2020 10:55</cadastro>
-    <alteracao>02/05/2020 10:55</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="12">Bancos de couro</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="33">Teto solar</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDK-4722_01.jpg?u=20200502105336</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDK-4722_02.jpg?u=20200502105339</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDK-4722_03.jpg?u=20200502105416</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDK-4722_04.jpg?u=20200502105420</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDK-4722_05.jpg?u=20200502105424</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDK-4722_06.jpg?u=20200502105426</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDK-4722_07.jpg?u=20200502105428</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDK-4722_08.jpg?u=20200502105430</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDK-4722_09.jpg?u=20200502105431</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDK-4722_10.jpg?u=20200502105434</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDK-4722_11.jpg?u=20200502105435</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDK-4722_12.jpg?u=20200502105437</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDK-4722_13.jpg?u=20200502105439</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDK-4722_14.jpg?u=20200502105441</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDK-4722_15.jpg?u=20200502105443</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -3546,6 +2972,87 @@
     </loja>
   </veiculo>
   <veiculo>
+    <id>1388160</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PCF-0529</placa>
+    <marca id="39">FIAT</marca>
+    <modelo id="2261"><![CDATA[ GRAND SIENA ]]></modelo>
+    <versao id="2607"><![CDATA[ 1.6 MPI Essence 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2016</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>81000</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 30.000,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
+    <cadastro>29/05/2020 16:11</cadastro>
+    <alteracao>31/05/2020 20:12</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCF-0529_01.jpg?u=20200529155240</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCF-0529_02.jpg?u=20200529155243</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCF-0529_03.jpg?u=20200529155254</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCF-0529_04.jpg?u=20200529155258</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCF-0529_05.jpg?u=20200529155300</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCF-0529_06.jpg?u=20200529155304</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCF-0529_07.jpg?u=20200529155307</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCF-0529_08.jpg?u=20200529155309</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCF-0529_09.jpg?u=20200529155313</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCF-0529_10.jpg?u=20200529155315</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCF-0529_11.jpg?u=20200529155320</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCF-0529_12.jpg?u=20200529155323</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1133</id>
+      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
+      <cnpj>40.889.222/0001-21</cnpj>
+      <endereco>
+        <logradouro>Est. da Batalha</logradouro>
+        <numero>1000</numero>
+        <complemento>
+        </complemento>
+        <bairro>Jardim Jordao</bairro>
+        <cidade>Jaboatao dos Guararapes</cidade>
+        <uf>PE</uf>
+        <cep>54315-570</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
     <id>1358474</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -3562,10 +3069,10 @@
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 29.490,00</preco>
+    <preco>R$ 28.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>20/02/2020 10:04</cadastro>
-    <alteracao>24/04/2020 23:00</alteracao>
+    <alteracao>31/05/2020 19:43</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -3646,7 +3153,7 @@
     <preco>R$ 29.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>02/05/2020 10:19</cadastro>
-    <alteracao>02/05/2020 10:19</alteracao>
+    <alteracao>31/05/2020 19:44</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -3723,10 +3230,10 @@
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 35.490,00</preco>
+    <preco>R$ 34.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>08/01/2020 11:49</cadastro>
-    <alteracao>24/04/2020 23:01</alteracao>
+    <alteracao>31/05/2020 19:52</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -3873,10 +3380,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 99.990,00</preco>
+    <preco>R$ 97.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>10/03/2020 17:57</cadastro>
-    <alteracao>24/04/2020 23:09</alteracao>
+    <alteracao>31/05/2020 20:10</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -3957,10 +3464,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 54.990,00</preco>
+    <preco>R$ 52.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>27/04/2020 11:12</cadastro>
-    <alteracao>02/05/2020 16:52</alteracao>
+    <alteracao>31/05/2020 20:03</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -4115,164 +3622,6 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     </loja>
   </veiculo>
   <veiculo>
-    <id>1369611</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PZN-3929</placa>
-    <marca id="41">FORD</marca>
-    <modelo id="379"><![CDATA[ KA ]]></modelo>
-    <versao id="3020"><![CDATA[ 1.0 SE 12V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2017</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>24254</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 34.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>17/03/2020 09:46</cadastro>
-    <alteracao>24/04/2020 22:54</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PZN-3929_01.jpg?u=20200317094428</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PZN-3929_02.jpg?u=20200317094430</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PZN-3929_03.jpg?u=20200317094435</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PZN-3929_04.jpg?u=20200317094438</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PZN-3929_05.jpg?u=20200317094442</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PZN-3929_06.jpg?u=20200317094454</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PZN-3929_07.jpg?u=20200317094456</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PZN-3929_08.jpg?u=20200317094500</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PZN-3929_09.jpg?u=20200317094504</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PZN-3929_10.jpg?u=20200317094505</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PZN-3929_11.jpg?u=20200317094510</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PZN-3929_12.jpg?u=20200317094510</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1378767</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDP-3199</placa>
-    <marca id="41">FORD</marca>
-    <modelo id="379"><![CDATA[ KA ]]></modelo>
-    <versao id="3020"><![CDATA[ 1.0 SE 12V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2015</anofabricacao>
-    <anomodelo>2015</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>25196</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 29.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>25/04/2020 09:36</cadastro>
-    <alteracao>09/05/2020 19:16</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDP-3199_01.jpg?u=20200425093455</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDP-3199_02.jpg?u=20200425093500</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDP-3199_03.jpg?u=20200425093504</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDP-3199_04.jpg?u=20200425093508</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDP-3199_05.jpg?u=20200425093513</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDP-3199_06.jpg?u=20200425093516</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDP-3199_07.jpg?u=20200425093519</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDP-3199_08.jpg?u=20200425093522</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDP-3199_09.jpg?u=20200425093525</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDP-3199_10.jpg?u=20200425093529</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDP-3199_11.jpg?u=20200425093534</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDP-3199_12.jpg?u=20200425093537</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
     <id>1380238</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -4289,10 +3638,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 31.990,00</preco>
+    <preco>R$ 30.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>02/05/2020 12:47</cadastro>
-    <alteracao>02/05/2020 12:47</alteracao>
+    <alteracao>31/05/2020 19:45</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -4429,86 +3778,6 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     </loja>
   </veiculo>
   <veiculo>
-    <id>1386626</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>OYQ-0102</placa>
-    <marca id="41">FORD</marca>
-    <modelo id="379"><![CDATA[ KA ]]></modelo>
-    <versao id="3025"><![CDATA[ 1.5 SE 16V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2014</anofabricacao>
-    <anomodelo>2015</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>52532</km>
-    <portas>4</portas>
-    <cor id="9">Laranja</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 34.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>23/05/2020 12:25</cadastro>
-    <alteracao>23/05/2020 12:25</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYQ-0102_01.jpg?u=20200523122345</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYQ-0102_02.jpg?u=20200523122349</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYQ-0102_03.jpg?u=20200523122352</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYQ-0102_04.jpg?u=20200523122355</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYQ-0102_05.jpg?u=20200523122358</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYQ-0102_06.jpg?u=20200523122402</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYQ-0102_07.jpg?u=20200523122404</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYQ-0102_08.jpg?u=20200523122407</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYQ-0102_09.jpg?u=20200523122411</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYQ-0102_10.jpg?u=20200523122414</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYQ-0102_11.jpg?u=20200523122416</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYQ-0102_12.jpg?u=20200523122419</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYQ-0102_13.jpg?u=20200523122422</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
     <id>1380223</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -4606,10 +3875,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 34.990,00</preco>
+    <preco>R$ 34.490,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>17/04/2020 14:09</cadastro>
-    <alteracao>05/05/2020 16:42</alteracao>
+    <alteracao>31/05/2020 19:51</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -4633,6 +3902,88 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCG-2439_10.jpg?u=20200505164036</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCG-2439_11.jpg?u=20200505164046</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCG-2439_12.jpg?u=20200505164049</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1133</id>
+      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
+      <cnpj>40.889.222/0001-21</cnpj>
+      <endereco>
+        <logradouro>Est. da Batalha</logradouro>
+        <numero>1000</numero>
+        <complemento>
+        </complemento>
+        <bairro>Jardim Jordao</bairro>
+        <cidade>Jaboatao dos Guararapes</cidade>
+        <uf>PE</uf>
+        <cep>54315-570</cep>
+      </endereco>
+      <contato>
+        <nome>Anderson Trindade</nome>
+        <email>andersontrindade@autonunes.com.br</email>
+        <telefone>(81) 3366-2520</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>http://</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1388340</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDH-6094</placa>
+    <marca id="41">FORD</marca>
+    <modelo id="389"><![CDATA[ RANGER ]]></modelo>
+    <versao id="3167"><![CDATA[ 2.5 XLS 4X2 CD 16V ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2018</anofabricacao>
+    <anomodelo>2018</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>15377</km>
+    <portas>4</portas>
+    <cor id="2">Azul</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 86.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
+    <cadastro>30/05/2020 13:30</cadastro>
+    <alteracao>30/05/2020 13:30</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDH-6094_01.jpg?u=20200530132159</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDH-6094_02.jpg?u=20200530132206</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDH-6094_03.jpg?u=20200530132211</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDH-6094_04.jpg?u=20200530132219</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDH-6094_05.jpg?u=20200530132252</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDH-6094_06.jpg?u=20200530132302</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDH-6094_07.jpg?u=20200530132309</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDH-6094_08.jpg?u=20200530132321</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDH-6094_09.jpg?u=20200530132328</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDH-6094_10.jpg?u=20200530132455</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDH-6094_11.jpg?u=20200530132528</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDH-6094_12.jpg?u=20200530132541</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDH-6094_13.jpg?u=20200530132545</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -4748,177 +4099,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     </loja>
   </veiculo>
   <veiculo>
-    <id>1379802</id>
+    <id>1388182</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PCR-2036</placa>
-    <marca id="48">HONDA</marca>
-    <modelo id="3335"><![CDATA[ HR-V ]]></modelo>
-    <versao id="7411"><![CDATA[ 1.8 16V EXL ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2018</anofabricacao>
-    <anomodelo>2019</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>9568</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 87.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>30/04/2020 13:29</cadastro>
-    <alteracao>02/05/2020 17:00</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="7">Ar condicionado digital</opcional>
-      <opcional id="12">Bancos de couro</opcional>
-      <opcional id="15">Computador de bordo</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCR-2036_01.jpg?u=20200430132700</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCR-2036_02.jpg?u=20200430132708</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCR-2036_03.jpg?u=20200430132715</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCR-2036_04.jpg?u=20200430132716</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCR-2036_05.jpg?u=20200430132724</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCR-2036_06.jpg?u=20200430132730</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCR-2036_07.jpg?u=20200430132734</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCR-2036_08.jpg?u=20200430132737</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCR-2036_09.jpg?u=20200430132743</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCR-2036_10.jpg?u=20200430132746</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCR-2036_11.jpg?u=20200430132752</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCR-2036_12.jpg?u=20200430132759</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCR-2036_13.jpg?u=20200430132802</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCR-2036_14.jpg?u=20200430132808</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1378986</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDC-3360</placa>
-    <marca id="50">HYUNDAI</marca>
-    <modelo id="2295"><![CDATA[ HB20 ]]></modelo>
-    <versao id="3593"><![CDATA[ 1.6 Comfort Plus 16V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2019</anofabricacao>
-    <anomodelo>2019</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>14091</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 53.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>27/04/2020 12:17</cadastro>
-    <alteracao>09/05/2020 19:14</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-3360_01.jpg?u=20200427121520</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-3360_02.jpg?u=20200427121524</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-3360_03.jpg?u=20200427121526</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-3360_04.jpg?u=20200427121530</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-3360_05.jpg?u=20200427121532</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-3360_06.jpg?u=20200427121534</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-3360_07.jpg?u=20200427121536</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-3360_08.jpg?u=20200427121538</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-3360_09.jpg?u=20200427121542</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-3360_10.jpg?u=20200427121543</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-3360_11.jpg?u=20200427121546</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-3360_13.jpg?u=20200427121601</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PDC-3360_12.jpg?u=20200427121549</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1386255</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PCN-5556</placa>
+    <placa>PCA-5225</placa>
     <marca id="50">HYUNDAI</marca>
     <modelo id="2295"><![CDATA[ HB20 ]]></modelo>
     <versao id="3593"><![CDATA[ 1.6 Comfort Plus 16V ]]></versao>
@@ -4927,39 +4111,39 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <anofabricacao>2015</anofabricacao>
     <anomodelo>2015</anomodelo>
     <cambio id="1">Automático</cambio>
-    <km>57525</km>
+    <km>37613</km>
     <portas>4</portas>
-    <cor id="11">Prata</cor>
+    <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 31.990,00</preco>
+    <preco>R$ 33.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>22/05/2020 09:18</cadastro>
-    <alteracao>22/05/2020 09:19</alteracao>
+    <cadastro>29/05/2020 16:44</cadastro>
+    <alteracao>29/05/2020 16:44</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
       <opcional id="6">Ar condicionado</opcional>
       <opcional id="20">Direção hidráulica</opcional>
       <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
       <opcional id="36">Travas elétricas</opcional>
       <opcional id="38">Vidros elétricos</opcional>
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCN-5556_01.jpg?u=20200522091648</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCN-5556_02.jpg?u=20200522091650</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCN-5556_03.jpg?u=20200522091652</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCN-5556_04.jpg?u=20200522091654</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCN-5556_05.jpg?u=20200522091657</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCN-5556_06.jpg?u=20200522091703</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCN-5556_07.jpg?u=20200522091704</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCN-5556_08.jpg?u=20200522091706</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCN-5556_09.jpg?u=20200522091711</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCN-5556_10.jpg?u=20200522091725</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCN-5556_11.jpg?u=20200522091726</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCN-5556_12.jpg?u=20200522091729</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCA-5225_01.jpg?u=20200529164340</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCA-5225_02.jpg?u=20200529164344</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCA-5225_03.jpg?u=20200529164352</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCA-5225_04.jpg?u=20200529164356</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCA-5225_05.jpg?u=20200529164400</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCA-5225_06.jpg?u=20200529164410</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCA-5225_07.jpg?u=20200529164414</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCA-5225_08.jpg?u=20200529164416</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCA-5225_09.jpg?u=20200529164419</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCA-5225_10.jpg?u=20200529164422</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCA-5225_11.jpg?u=20200529164426</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCA-5225_12.jpg?u=20200529164428</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCA-5225_13.jpg?u=20200529164432</foto>
+      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCA-5225_14.jpg?u=20200529164435</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -5012,10 +4196,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 40.990,00</preco>
+    <preco>R$ 38.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>27/05/2020 17:23</cadastro>
-    <alteracao>27/05/2020 17:23</alteracao>
+    <alteracao>31/05/2020 19:55</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -5095,10 +4279,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 51.990,00</preco>
+    <preco>R$ 52.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>07/03/2020 11:33</cadastro>
-    <alteracao>24/04/2020 22:45</alteracao>
+    <alteracao>31/05/2020 20:07</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -5266,10 +4450,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="3">Diesel</combustivel>
-    <preco>R$ 142.990,00</preco>
+    <preco>R$ 139.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>15/01/2020 09:57</cadastro>
-    <alteracao>02/05/2020 16:55</alteracao>
+    <alteracao>31/05/2020 20:10</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -5407,99 +4591,6 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     </loja>
   </veiculo>
   <veiculo>
-    <id>1310187</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PNY-9837</placa>
-    <marca id="84">PEUGEOT</marca>
-    <modelo id="2264"><![CDATA[ 308 ]]></modelo>
-    <versao id="5397"><![CDATA[ 1.6 Griffe THP 16V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2017</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>25190</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 49.990,00</preco>
-    <observacao><![CDATA[ Procedência e qualidade garantida, carro revisado e com garantia, carro com vistoria cautelar.
-Direção assistida, ar condicionado, câmbio automático de 6 marchas, vidro elétrico, trava elétrica, Kit Multimídia, sensor de estacionamento, rodas aro 17, farol de milha, ajuste do volante em profundidade, bancos em couro com ajuste de altura, retrovisor elétrico, teto panorâmico, luzes de condução diurna.
-Motorização 1.6 turbo Flex com 173cv de potência e 24,5 de torque no Álcool.
-Consumo médio de 8,5km/l na cidade e 13,2km/l na estrada na Gasolina.
-Obs.: Dados de consumo fornecido pelo site Icarros.
-Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>11/11/2019 15:03</cadastro>
-    <alteracao>19/04/2020 20:40</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="7">Ar condicionado digital</opcional>
-      <opcional id="12">Bancos de couro</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="33">Teto solar</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_01.jpg?u=20200218094330</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_02.jpg?u=20200218094334</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_03.jpg?u=20200218094339</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_04.jpg?u=20200218094345</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_05.jpg?u=20200218094350</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_06.jpg?u=20200218094351</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_07.jpg?u=20200218094356</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_08.jpg?u=20200218094359</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_09.jpg?u=20200218094404</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_10.jpg?u=20200218094411</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_11.jpg?u=20200218094413</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_12.jpg?u=20200218094416</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_13.jpg?u=20200218094422</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_14.jpg?u=20200218094424</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_15.jpg?u=20200218094430</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PNY-9837_16.jpg?u=20200218094433</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
     <id>1380854</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -5516,10 +4607,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 32.990,00</preco>
+    <preco>R$ 33.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>05/05/2020 16:51</cadastro>
-    <alteracao>05/05/2020 16:56</alteracao>
+    <alteracao>31/05/2020 19:49</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -5599,10 +4690,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 35.990,00</preco>
+    <preco>R$ 34.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>18/03/2020 15:12</cadastro>
-    <alteracao>02/05/2020 17:01</alteracao>
+    <alteracao>31/05/2020 19:51</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -5755,10 +4846,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 29.990,00</preco>
+    <preco>R$ 27.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>11/01/2020 13:51</cadastro>
-    <alteracao>19/04/2020 20:41</alteracao>
+    <alteracao>31/05/2020 19:40</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -5853,84 +4944,6 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCJ-9740_10.jpg?u=20200304090756</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCJ-9740_11.jpg?u=20200304090804</foto>
       <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PCJ-9740_12.jpg?u=20200304090808</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1344154</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>OYR-5212</placa>
-    <marca id="109">VOLKSWAGEN</marca>
-    <modelo id="934"><![CDATA[ GOL ]]></modelo>
-    <versao id="7909"><![CDATA[ 1.6 MI Trendline 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2014</anofabricacao>
-    <anomodelo>2015</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>27494</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 24.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>22/01/2020 11:05</cadastro>
-    <alteracao>24/04/2020 22:41</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYR-5212_01.jpg?u=20200127150434</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYR-5212_02.jpg?u=20200127150455</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYR-5212_03.jpg?u=20200127150501</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYR-5212_04.jpg?u=20200127150505</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYR-5212_05.jpg?u=20200127150510</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYR-5212_06.jpg?u=20200127150511</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYR-5212_07.jpg?u=20200127150520</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYR-5212_08.jpg?u=20200127150526</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYR-5212_09.jpg?u=20200127150531</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYR-5212_10.jpg?u=20200127150535</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/OYR-5212_11.jpg?u=20200127150540</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -6119,88 +5132,6 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     </loja>
   </veiculo>
   <veiculo>
-    <id>1345044</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PED-5077</placa>
-    <marca id="109">VOLKSWAGEN</marca>
-    <modelo id="3061"><![CDATA[ UP ]]></modelo>
-    <versao id="6869"><![CDATA[ 1.0 MPI Move UP 12V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2017</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>18138</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 38.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>23/01/2020 14:54</cadastro>
-    <alteracao>24/04/2020 23:09</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="12">Bancos de couro</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PED-5077_01.jpg?u=20200124161000</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PED-5077_02.jpg?u=20200124161003</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PED-5077_03.jpg?u=20200124161005</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PED-5077_04.jpg?u=20200124161007</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PED-5077_05.jpg?u=20200124161009</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PED-5077_06.jpg?u=20200124161011</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PED-5077_07.jpg?u=20200124161012</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PED-5077_08.jpg?u=20200124161015</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PED-5077_09.jpg?u=20200124161017</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PED-5077_10.jpg?u=20200124161020</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PED-5077_11.jpg?u=20200124161022</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000121/Fotos/PED-5077_12.jpg?u=20200124161027</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1133</id>
-      <nomefantasia>Autonunes (Prazeres)</nomefantasia>
-      <cnpj>40.889.222/0001-21</cnpj>
-      <endereco>
-        <logradouro>Est. da Batalha</logradouro>
-        <numero>1000</numero>
-        <complemento>
-        </complemento>
-        <bairro>Jardim Jordao</bairro>
-        <cidade>Jaboatao dos Guararapes</cidade>
-        <uf>PE</uf>
-        <cep>54315-570</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
     <id>1374229</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -6299,10 +5230,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 25.000,00</preco>
+    <preco>R$ 22.000,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>02/05/2020 10:37</cadastro>
-    <alteracao>02/05/2020 17:05</alteracao>
+    <alteracao>31/05/2020 20:11</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -6375,10 +5306,10 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 29.990,00</preco>
+    <preco>R$ 27.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
     <cadastro>02/05/2020 12:06</cadastro>
-    <alteracao>02/05/2020 12:06</alteracao>
+    <alteracao>31/05/2020 19:44</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>

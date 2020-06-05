@@ -173,97 +173,6 @@
     </loja>
   </veiculo>
   <veiculo>
-    <id>1367235</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PGV-4184</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
-    <versao id="1658"><![CDATA[ 1.4 MPFI LTZ 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2017</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>38193</km>
-    <portas>4</portas>
-    <cor id="6">Cinza</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 41.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
-    <cadastro>12/03/2020 09:54</cadastro>
-    <alteracao>25/04/2020 11:06</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="4">Alarme</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="12">Bancos de couro</opcional>
-      <opcional id="15">Computador de bordo</opcional>
-      <opcional id="18">Desembaçador traseiro</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-      <opcional id="1">Air bag do motorista</opcional>
-      <opcional id="2">Air bag do passageiro</opcional>
-      <opcional id="10">Banco do motorista com ajuste de altura</opcional>
-      <opcional id="41">Freios ABS c/ EBD</opcional>
-    </opcionais>
-    <acessorios>
-      <acessorio id="42">Brake light</acessorio>
-      <acessorio id="74">Central Multimídia</acessorio>
-      <acessorio id="75">Faróis de Led</acessorio>
-      <acessorio id="17">Faróis de neblina</acessorio>
-      <acessorio id="73">Câmera de Ré</acessorio>
-    </acessorios>
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_11.jpg?u=20200312095301</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_03.jpg?u=20200312095246</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_01.jpg?u=20200312095241</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_08.jpg?u=20200312095256</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_07.jpg?u=20200312095254</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_02.jpg?u=20200312095243</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_10.jpg?u=20200312095259</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_05.jpg?u=20200312095251</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_04.jpg?u=20200312095248</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_06.jpg?u=20200312095253</foto>
-      <foto>https://dsae.s3.amazonaws.com/40889222000806/Fotos/PGV-4184_09.jpg?u=20200312095258</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1820</id>
-      <nomefantasia>Autonunes (Caruaru)</nomefantasia>
-      <cnpj>40.889.222/0008-06</cnpj>
-      <endereco>
-        <logradouro>Avenida dos Estados</logradouro>
-        <numero>269</numero>
-        <complemento>
-        </complemento>
-        <bairro>Nova Caruaru</bairro>
-        <cidade>Caruaru</cidade>
-        <uf>PE</uf>
-        <cep>55014-545</cep>
-      </endereco>
-      <contato>
-        <nome>Anderson Trindade</nome>
-        <email>andersontrindade@autonunes.com.br</email>
-        <telefone>(81) 3366-2520</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>http://</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
     <id>1353287</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -280,10 +189,10 @@
     <portas>4</portas>
     <cor id="2">Azul</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 49.990,00</preco>
+    <preco>R$ 51.990,00</preco>
     <observacao><![CDATA[  ]]></observacao>
     <cadastro>10/02/2020 09:30</cadastro>
-    <alteracao>25/04/2020 11:06</alteracao>
+    <alteracao>01/06/2020 16:14</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -364,10 +273,10 @@
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 46.990,00</preco>
+    <preco>R$ 44.990,00</preco>
     <observacao><![CDATA[  ]]></observacao>
     <cadastro>14/02/2020 18:12</cadastro>
-    <alteracao>04/03/2020 14:45</alteracao>
+    <alteracao>01/06/2020 16:11</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -446,10 +355,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 46.990,00</preco>
+    <preco>R$ 45.990,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
     <cadastro>09/01/2020 15:07</cadastro>
-    <alteracao>25/04/2020 11:09</alteracao>
+    <alteracao>01/06/2020 16:12</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -516,10 +425,10 @@
     <portas>4</portas>
     <cor id="10">Marrom</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 49.990,00</preco>
+    <preco>R$ 48.990,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
     <cadastro>19/03/2020 16:54</cadastro>
-    <alteracao>02/05/2020 17:25</alteracao>
+    <alteracao>01/06/2020 16:13</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -599,10 +508,10 @@
     <portas>4</portas>
     <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 41.990,00</preco>
+    <preco>R$ 43.990,00</preco>
     <observacao><![CDATA[ VENHA CONFERIR OS VEÍCULOS SEMINOVOS MAIS SELECIONADOS DO MERCADO, QUALIDADE E PROCEDÊNCIA TUDO EM UM SÓ LUGAR !!! ]]></observacao>
     <cadastro>09/01/2020 15:12</cadastro>
-    <alteracao>25/04/2020 10:58</alteracao>
+    <alteracao>01/06/2020 16:10</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -745,10 +654,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 44.990,00</preco>
+    <preco>R$ 43.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>09/04/2020 17:14</cadastro>
-    <alteracao>02/05/2020 17:27</alteracao>
+    <alteracao>01/06/2020 16:10</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -905,10 +814,10 @@
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 66.990,00</preco>
+    <preco>R$ 65.990,00</preco>
     <observacao><![CDATA[  ]]></observacao>
     <cadastro>14/02/2020 18:29</cadastro>
-    <alteracao>25/04/2020 10:57</alteracao>
+    <alteracao>01/06/2020 16:15</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>

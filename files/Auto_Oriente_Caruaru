@@ -167,10 +167,10 @@
     <portas>4</portas>
     <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 39.490,00</preco>
+    <preco>R$ 36.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>19/03/2020 11:43</cadastro>
-    <alteracao>11/05/2020 08:47</alteracao>
+    <alteracao>01/06/2020 13:31</alteracao>
     <complementos>
       <complemento id="11">Destaque</complemento>
     </complementos>
@@ -533,10 +533,10 @@
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="3">Diesel</combustivel>
-    <preco>R$ 117.990,00</preco>
+    <preco>R$ 112.990,00</preco>
     <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação. ]]></observacao>
     <cadastro>11/02/2020 16:29</cadastro>
-    <alteracao>11/05/2020 08:39</alteracao>
+    <alteracao>01/06/2020 14:25</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -615,10 +615,10 @@
     <portas>4</portas>
     <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 62.990,00</preco>
+    <preco>R$ 64.990,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
     <cadastro>29/11/2019 18:20</cadastro>
-    <alteracao>25/04/2020 18:03</alteracao>
+    <alteracao>01/06/2020 14:24</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
@@ -758,10 +758,10 @@
     <portas>4</portas>
     <cor id="6">Cinza</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 37.990,00</preco>
+    <preco>R$ 35.990,00</preco>
     <observacao><![CDATA[ MAIS DETALHES EM BREVE... ]]></observacao>
     <cadastro>11/03/2020 17:28</cadastro>
-    <alteracao>25/04/2020 18:04</alteracao>
+    <alteracao>01/06/2020 13:26</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
