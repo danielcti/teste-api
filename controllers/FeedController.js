@@ -78,7 +78,16 @@ module.exports = {
       }
     });
 
-    var xmlRes = js2xmlparser.parse("veiculo", sanitizedCars);
+    var xmlRes = js2xmlparser.parse("listing", sanitizedCars);
+    xmlRes = xmlRes.replace(
+      "<?xml version='1.0'?>\n<listing>",
+      "<?xml version='1.0' encoding='UTF-8'?>\n<listings>\n<title>Grupo Autonunes Feed</title>\n<link rel='self' href='http://grupoautonunes.com' />"
+    );
+
+    xmlRes = xmlRes.replace(
+      "</listing>\n</listing>",
+      "</listing>\n</listings>"
+    );
 
     res.type("application/xml");
     res.send(xmlRes);
