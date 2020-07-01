@@ -7,6 +7,7 @@ const CarController = require("./controllers/CarController");
 const SingleCarController = require("./controllers/SingleCarController");
 const MarcaController = require("./controllers/MarcaController");
 const UpdateController = require("./controllers/UpdateController");
+const FeedController = require("./controllers/FeedController");
 
 const app = express();
 
@@ -25,14 +26,9 @@ app.post("/", CarController.index);
 app.get("/", SingleCarController.index);
 app.get("/marcas", MarcaController.index);
 app.get("/atualizar", UpdateController.store);
+app.get("/feed", FeedController.index);
 
 app.use(cors());
-
-// CRON JOB EXECUTANDO DE UM EM UM MINUTO
-// cron.schedule("0 */1 * * *", () => {
-//   console.log("Executando a tarefa a cada 1 hora");
-//   UpdateController.store();
-// });
 
 app.listen(process.env.PORT || 3333);
 

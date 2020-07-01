@@ -3,100 +3,6 @@
 
 
   <veiculo>
-    <id>1362074</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PED-9851</placa>
-    <marca id="8">AUDI</marca>
-    <modelo id="2267"><![CDATA[ Q3 ]]></modelo>
-    <versao id="8583"><![CDATA[ 1.4 TFSI Ambiente S Tronic ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2017</anomodelo>
-    <cambio id="10">S-Tronic</cambio>
-    <km>48200</km>
-    <portas>4</portas>
-    <cor id="12">Preto</cor>
-    <combustivel id="6">Gasolina</combustivel>
-    <preco>R$ 84.990,00</preco>
-    <observacao><![CDATA[ CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
-Av. Caxangá, 4251, Várzea, Recife-PE
-
-Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
-Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
-    <cadastro>02/03/2020 08:48</cadastro>
-    <alteracao>01/06/2020 16:38</alteracao>
-    <complementos>
-      <complemento id="11">Destaque</complemento>
-    </complementos>
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="12">Bancos de couro</opcional>
-      <opcional id="15">Computador de bordo</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-      <opcional id="40">Volante com regulagem de altura</opcional>
-      <opcional id="57">Volante em couro</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PED-9851_03.jpg?u=20200302084756</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PED-9851_01.jpg?u=20200302084747</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PED-9851_05.jpg?u=20200302084805</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PED-9851_02.jpg?u=20200302084755</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PED-9851_04.jpg?u=20200302084800</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PED-9851_06.jpg?u=20200302084808</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PED-9851_07.jpg?u=20200302084812</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PED-9851_08.jpg?u=20200302084814</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PED-9851_09.jpg?u=20200302084817</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PED-9851_10.jpg?u=20200302084822</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PED-9851_11.jpg?u=20200302084824</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PED-9851_12.jpg?u=20200302084830</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PED-9851_13.jpg?u=20200302084832</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PED-9851_14.jpg?u=20200302084837</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PED-9851_15.jpg?u=20200302084838</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1117</id>
-      <nomefantasia>Caxangá Veículos</nomefantasia>
-      <cnpj>09.924.937/0001-28</cnpj>
-      <endereco>
-        <logradouro>Av. Caxanga</logradouro>
-        <numero>4251</numero>
-        <complemento>
-        </complemento>
-        <bairro>Varzea</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>50740-000</cep>
-      </endereco>
-      <contato>
-        <nome>Vivian</nome>
-        <email>seminovos@caxangaveiculos.com.br</email>
-        <telefone>(81) 2122-2099</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>https://caxangachevrolet.com.br/</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
     <id>1375327</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -199,19 +105,41 @@ Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 64.990,00</preco>
+    <preco>R$ 67.990,00</preco>
     <observacao><![CDATA[ CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
 Av. Caxangá, 4251, Várzea, Recife-PE
 
 Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
 Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
     <cadastro>08/05/2020 22:42</cadastro>
-    <alteracao>01/06/2020 16:30</alteracao>
+    <alteracao>20/06/2020 09:49</alteracao>
     <complementos />
-    <opcionais />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-3716_01.jpg?u=20200508224204</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-3716_01.jpg?u=20200618170842</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-3716_02.jpg?u=20200618170852</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-3716_03.jpg?u=20200618170921</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-3716_04.jpg?u=20200618170923</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-3716_05.jpg?u=20200618170952</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-3716_06.jpg?u=20200618171005</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-3716_07.jpg?u=20200618171034</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-3716_08.jpg?u=20200618171059</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-3716_09.jpg?u=20200618171111</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-3716_10.jpg?u=20200618171246</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-3716_13.jpg?u=20200618171739</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-3716_11.jpg?u=20200618171315</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-3716_12.jpg?u=20200618171323</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -248,77 +176,55 @@ Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
     </loja>
   </veiculo>
   <veiculo>
-    <id>1382107</id>
+    <id>1394311</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PDM-3007</placa>
+    <placa>PCF-1057</placa>
     <marca id="23">CHEVROLET</marca>
-    <modelo id="2145"><![CDATA[ CRUZE ]]></modelo>
-    <versao id="7985"><![CDATA[ 1.4 Turbo LTZ 16V ]]></versao>
+    <modelo id="1952"><![CDATA[ EQUINOX ]]></modelo>
+    <versao id="8893"><![CDATA[ 2.0 16V Turbo LT ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2017</anomodelo>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
     <cambio id="1">Automático</cambio>
-    <km>27415</km>
+    <km>30000</km>
     <portas>4</portas>
-    <cor id="6">Cinza</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 70.990,00</preco>
-    <observacao><![CDATA[ CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
-Av. Caxangá, 4251, Várzea, Recife-PE
-
-Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
-Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
-    <cadastro>08/05/2020 22:38</cadastro>
-    <alteracao>08/05/2020 22:38</alteracao>
-    <complementos>
-      <complemento id="11">Destaque</complemento>
-    </complementos>
+    <cor id="12">Preto</cor>
+    <combustivel id="6">Gasolina</combustivel>
+    <preco>R$ 97.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
+    <cadastro>15/06/2020 17:42</cadastro>
+    <alteracao>15/06/2020 17:42</alteracao>
+    <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
       <opcional id="6">Ar condicionado</opcional>
-      <opcional id="7">Ar condicionado digital</opcional>
       <opcional id="12">Bancos de couro</opcional>
-      <opcional id="15">Computador de bordo</opcional>
-      <opcional id="18">Desembaçador traseiro</opcional>
       <opcional id="19">Direção elétrica</opcional>
       <opcional id="23">Freios ABS</opcional>
       <opcional id="29">Retrovisores elétricos</opcional>
       <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="71">Start / Stop Engine</opcional>
+      <opcional id="36">Travas elétricas</opcional>
       <opcional id="38">Vidros elétricos</opcional>
-      <opcional id="58">Abertura interna da tampa de combustível</opcional>
-      <opcional id="59">Abertura interna do porta-malas</opcional>
-      <opcional id="1">Air bag do motorista</opcional>
-      <opcional id="2">Air bag do passageiro</opcional>
-      <opcional id="62">Aviso sonoro de faróis acesos</opcional>
-      <opcional id="10">Banco do motorista com ajuste de altura</opcional>
-      <opcional id="21">Encosto de cabeça traseiro</opcional>
-      <opcional id="46">Frisos laterais</opcional>
-      <opcional id="60">Frisos laterais na cor do veículo</opcional>
-      <opcional id="63">Maçanetas na cor do veículo</opcional>
-      <opcional id="47">Para-Choque pintado na cor do veículo</opcional>
-      <opcional id="32">Sensor de estacionamento</opcional>
-      <opcional id="40">Volante com regulagem de altura</opcional>
     </opcionais>
-    <acessorios>
-      <acessorio id="42">Brake light</acessorio>
-      <acessorio id="17">Faróis de neblina</acessorio>
-      <acessorio id="71">Luz de cortesia no teto</acessorio>
-      <acessorio id="57">Pára-sol com espelho para o motorista</acessorio>
-      <acessorio id="58">Pára-sol com espelho para o passageiro</acessorio>
-      <acessorio id="22">Rádio</acessorio>
-    </acessorios>
+    <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-3007_01.jpg?u=20200508223323</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-3007_02.jpg?u=20200508223324</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-3007_03.jpg?u=20200508223350</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-3007_04.jpg?u=20200508223354</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-3007_05.jpg?u=20200508223356</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-3007_06.jpg?u=20200508223415</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-3007_07.jpg?u=20200508223416</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-3007_08.jpg?u=20200508223436</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-3007_09.jpg?u=20200508223439</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCF-1057_01.jpg?u=20200615174047</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCF-1057_02.jpg?u=20200615174053</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCF-1057_03.jpg?u=20200615174102</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCF-1057_05.jpg?u=20200615174122</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCF-1057_04.jpg?u=20200615174110</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCF-1057_06.jpg?u=20200615174134</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCF-1057_07.jpg?u=20200615174139</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCF-1057_08.jpg?u=20200615174140</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCF-1057_09.jpg?u=20200615174143</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCF-1057_10.jpg?u=20200615174145</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCF-1057_11.jpg?u=20200615174147</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCF-1057_12.jpg?u=20200615174148</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCF-1057_13.jpg?u=20200615174151</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCF-1057_14.jpg?u=20200615174152</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -371,14 +277,14 @@ Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
     <portas>4</portas>
     <cor id="11">Prata</cor>
     <combustivel id="6">Gasolina</combustivel>
-    <preco>R$ 135.990,00</preco>
+    <preco>R$ 109.990,00</preco>
     <observacao><![CDATA[ CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
 Av. Caxangá, 4251, Várzea, Recife-PE
 
 Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
 Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
     <cadastro>06/03/2020 11:53</cadastro>
-    <alteracao>19/04/2020 21:48</alteracao>
+    <alteracao>08/06/2020 09:50</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -445,124 +351,35 @@ Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
     </loja>
   </veiculo>
   <veiculo>
-    <id>1364698</id>
+    <id>1395912</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>QYD-1579</placa>
+    <placa>PCU-4831</placa>
     <marca id="23">CHEVROLET</marca>
-    <modelo id="2298"><![CDATA[ ONIX ]]></modelo>
-    <versao id="9987"><![CDATA[ 1.0 Turbo Plus LTZ ]]></versao>
+    <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
+    <versao id="1300"><![CDATA[ 1.0 MPFI LT 8V ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2019</anofabricacao>
-    <anomodelo>2020</anomodelo>
+    <anofabricacao>2015</anofabricacao>
+    <anomodelo>2015</anomodelo>
     <cambio id="3">Manual</cambio>
-    <km>597</km>
+    <km>69485</km>
     <portas>4</portas>
-    <cor id="15">Vermelho</cor>
+    <cor id="11">Prata</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 65.990,00</preco>
+    <preco>R$ 34.000,00</preco>
     <observacao><![CDATA[ CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
 Av. Caxangá, 4251, Várzea, Recife-PE
 
 Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
 Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
-    <cadastro>06/03/2020 12:08</cadastro>
-    <alteracao>19/04/2020 21:51</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="71">Start / Stop Engine</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QYD-1579_02.jpg?u=20200306120624</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QYD-1579_01.jpg?u=20200306120622</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QYD-1579_03.jpg?u=20200306120625</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QYD-1579_04.jpg?u=20200306120640</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QYD-1579_05.jpg?u=20200306120644</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QYD-1579_06.jpg?u=20200306120656</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QYD-1579_07.jpg?u=20200306120702</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QYD-1579_08.jpg?u=20200306120708</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QYD-1579_09.jpg?u=20200306120713</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QYD-1579_10.jpg?u=20200306120716</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QYD-1579_11.jpg?u=20200306120717</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QYD-1579_12.jpg?u=20200306120723</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QYD-1579_13.jpg?u=20200306120724</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1117</id>
-      <nomefantasia>Caxangá Veículos</nomefantasia>
-      <cnpj>09.924.937/0001-28</cnpj>
-      <endereco>
-        <logradouro>Av. Caxanga</logradouro>
-        <numero>4251</numero>
-        <complemento>
-        </complemento>
-        <bairro>Varzea</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>50740-000</cep>
-      </endereco>
-      <contato>
-        <nome>Vivian</nome>
-        <email>seminovos@caxangaveiculos.com.br</email>
-        <telefone>(81) 2122-2099</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>https://caxangachevrolet.com.br/</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1382113</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>QYC0981</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="200"><![CDATA[ PRISMA ]]></modelo>
-    <versao id="1307"><![CDATA[ 1.4 MPFI LT 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2019</anofabricacao>
-    <anomodelo>2019</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>26000</km>
-    <portas>4</portas>
-    <cor id="6">Cinza</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 51.990,00</preco>
-    <observacao><![CDATA[ FOTOS EM BREVE!!!
-
-CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
-Av. Caxangá, 4251, Várzea, Recife-PE
-
-Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
-Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
-    <cadastro>08/05/2020 23:12</cadastro>
-    <alteracao>11/05/2020 09:22</alteracao>
+    <cadastro>19/06/2020 12:37</cadastro>
+    <alteracao>19/06/2020 12:37</alteracao>
     <complementos />
     <opcionais />
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QYC0981_01.jpg?u=20200508231157</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCU-4831_01.jpg?u=20200619123655</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -651,126 +468,6 @@ Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
       <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCU-0754_12.jpg?u=20200305151620</foto>
       <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCU-0754_13.jpg?u=20200305151646</foto>
       <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCU-0754_14.jpg?u=20200305151650</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1117</id>
-      <nomefantasia>Caxangá Veículos</nomefantasia>
-      <cnpj>09.924.937/0001-28</cnpj>
-      <endereco>
-        <logradouro>Av. Caxanga</logradouro>
-        <numero>4251</numero>
-        <complemento>
-        </complemento>
-        <bairro>Varzea</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>50740-000</cep>
-      </endereco>
-      <contato>
-        <nome>Vivian</nome>
-        <email>seminovos@caxangaveiculos.com.br</email>
-        <telefone>(81) 2122-2099</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>https://caxangachevrolet.com.br/</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1315752</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PEA-3461</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="202"><![CDATA[ S10 ]]></modelo>
-    <versao id="7627"><![CDATA[ 2.8 High Country 4X4 CD 16V Turbo ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2017</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>58615</km>
-    <portas>4</portas>
-    <cor id="15">Vermelho</cor>
-    <combustivel id="3">Diesel</combustivel>
-    <preco>R$ 129.990,00</preco>
-    <observacao><![CDATA[ Procedência e qualidade garantida, carro revisado, com garantia e vistoria cautelar.
-Direção elétrica progressiva, tração 4X4, controle de estabilidade automático, Mylink com tela de 7 polegadas, rodas aro 18 de série, bancos em couro marrom com ajuste elétrico, volante multifuncional com ajuste de altura, Santo Antônio de série, estribo, sensor de estacionamento com câmera, alerta de colisão frontal, assistente de partida em rampa, alerta de mudança de faixa.
-Motorização 2.8 Turbo Diesel com 200 CV de potência e 51 kgf.m de torque.
-Consumo médio de 8,7 km/l na cidade e 11,3 km/l na estrada.
-Obs.: Fonte Icarros.
-Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
-Televendas: 81-2122-2013/81-9.818199-6961
-WhatsApp: 81-9.8777-2894  ]]></observacao>
-    <cadastro>22/11/2019 17:03</cadastro>
-    <alteracao>19/04/2020 21:57</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="7">Ar condicionado digital</opcional>
-      <opcional id="12">Bancos de couro</opcional>
-      <opcional id="15">Computador de bordo</opcional>
-      <opcional id="18">Desembaçador traseiro</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-      <opcional id="58">Abertura interna da tampa de combustível</opcional>
-      <opcional id="1">Air bag do motorista</opcional>
-      <opcional id="2">Air bag do passageiro</opcional>
-      <opcional id="68">Airbag Cortina</opcional>
-      <opcional id="42">Alarme anti-furto</opcional>
-      <opcional id="43">Alarme velocidade</opcional>
-      <opcional id="70">Assistente de Partida em Rampa</opcional>
-      <opcional id="62">Aviso sonoro de faróis acesos</opcional>
-      <opcional id="9">Banco com regulagem elétrica</opcional>
-      <opcional id="10">Banco do motorista com ajuste de altura</opcional>
-      <opcional id="16">Controle automático de velocidade</opcional>
-      <opcional id="17">Controle de tração</opcional>
-      <opcional id="21">Encosto de cabeça traseiro</opcional>
-      <opcional id="22">Faróis de milha</opcional>
-      <opcional id="60">Frisos laterais na cor do veículo</opcional>
-      <opcional id="63">Maçanetas na cor do veículo</opcional>
-      <opcional id="47">Para-Choque pintado na cor do veículo</opcional>
-      <opcional id="25">Piloto automático</opcional>
-      <opcional id="26">Porta-copos</opcional>
-      <opcional id="28">Retrovisor fotocrômico</opcional>
-      <opcional id="64">Retrovisores na cor do veículo</opcional>
-      <opcional id="31">Sensor de chuva</opcional>
-      <opcional id="32">Sensor de estacionamento</opcional>
-      <opcional id="35">Tração 4x4</opcional>
-      <opcional id="40">Volante com regulagem de altura</opcional>
-      <opcional id="57">Volante em couro</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PEA-3461_01.jpg?u=20191122165510</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PEA-3461_02.jpg?u=20191122165512</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PEA-3461_03.jpg?u=20191122165515</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PEA-3461_04.jpg?u=20191122165522</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PEA-3461_05.jpg?u=20191122165524</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PEA-3461_06.jpg?u=20191122165528</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PEA-3461_07.jpg?u=20191122165530</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PEA-3461_08.jpg?u=20191122165536</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PEA-3461_09.jpg?u=20191122165537</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PEA-3461_10.jpg?u=20191122165544</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PEA-3461_11.jpg?u=20191122165546</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PEA-3461_12.jpg?u=20191122165553</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PEA-3461_13.jpg?u=20191122165559</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PEA-3461_14.jpg?u=20191122165602</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PEA-3461_15.jpg?u=20191122165614</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -961,57 +658,138 @@ Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
     </loja>
   </veiculo>
   <veiculo>
-    <id>1371220</id>
+    <id>1395188</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>QNI-6067</placa>
+    <placa>PCY-1306</placa>
     <marca id="23">CHEVROLET</marca>
     <modelo id="2280"><![CDATA[ SPIN ]]></modelo>
-    <versao id="1653"><![CDATA[ 1.8 LTZ 8V ]]></versao>
+    <versao id="7492"><![CDATA[ 1.8 LS 8V ]]></versao>
     <tipomotor>
     </tipomotor>
     <anofabricacao>2017</anofabricacao>
     <anomodelo>2018</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>39342</km>
+    <cambio id="3">Manual</cambio>
+    <km>78000</km>
     <portas>4</portas>
-    <cor id="12">Preto</cor>
+    <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 55.990,00</preco>
-    <observacao><![CDATA[ CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
-Av. Caxangá, 4251, Várzea, Recife-PE
-
-Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
-Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
-    <cadastro>19/03/2020 15:33</cadastro>
-    <alteracao>01/06/2020 16:27</alteracao>
+    <preco>R$ 38.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
+    <cadastro>17/06/2020 16:48</cadastro>
+    <alteracao>17/06/2020 16:48</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
       <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="20">Direção hidráulica</opcional>
       <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
       <opcional id="36">Travas elétricas</opcional>
       <opcional id="38">Vidros elétricos</opcional>
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QNI-6067_02.jpg?u=20200505160932</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QNI-6067_01.jpg?u=20200505160930</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QNI-6067_03.jpg?u=20200505161027</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QNI-6067_04.jpg?u=20200505161032</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QNI-6067_05.jpg?u=20200505161049</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QNI-6067_06.jpg?u=20200505161051</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QNI-6067_07.jpg?u=20200505161102</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QNI-6067_08.jpg?u=20200505161121</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QNI-6067_09.jpg?u=20200505161149</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QNI-6067_10.jpg?u=20200505161201</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QNI-6067_11.jpg?u=20200505161208</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QNI-6067_12.jpg?u=20200505161223</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QNI-6067_13.jpg?u=20200505161240</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QNI-6067_14.jpg?u=20200505161259</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-1306_01.jpg?u=20200617164633</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-1306_02.jpg?u=20200617164639</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-1306_03.jpg?u=20200617164649</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-1306_04.jpg?u=20200617164653</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-1306_05.jpg?u=20200617164658</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-1306_06.jpg?u=20200617164705</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-1306_07.jpg?u=20200617164722</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-1306_08.jpg?u=20200617164740</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-1306_09.jpg?u=20200617164741</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-1306_10.jpg?u=20200617164751</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCY-1306_11.jpg?u=20200617164804</foto>
+    </fotos>
+    <foto360>
+      <exterior>
+      </exterior>
+      <interior>
+      </interior>
+    </foto360>
+    <urlVideo>
+    </urlVideo>
+    <loja>
+      <id>1117</id>
+      <nomefantasia>Caxangá Veículos</nomefantasia>
+      <cnpj>09.924.937/0001-28</cnpj>
+      <endereco>
+        <logradouro>Av. Caxanga</logradouro>
+        <numero>4251</numero>
+        <complemento>
+        </complemento>
+        <bairro>Varzea</bairro>
+        <cidade>Recife</cidade>
+        <uf>PE</uf>
+        <cep>50740-000</cep>
+      </endereco>
+      <contato>
+        <nome>Vivian</nome>
+        <email>seminovos@caxangaveiculos.com.br</email>
+        <telefone>(81) 2122-2099</telefone>
+        <fax>
+        </fax>
+        <nextel>
+        </nextel>
+        <site>https://caxangachevrolet.com.br/</site>
+      </contato>
+    </loja>
+  </veiculo>
+  <veiculo>
+    <id>1395893</id>
+    <tipoveiculo>Carro</tipoveiculo>
+    <zerokm>N</zerokm>
+    <placa>PDL-6412</placa>
+    <marca id="23">CHEVROLET</marca>
+    <modelo id="213"><![CDATA[ TRACKER ]]></modelo>
+    <versao id="8464"><![CDATA[ 1.4 16V Turbo LTZ ]]></versao>
+    <tipomotor>
+    </tipomotor>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="1">Automático</cambio>
+    <km>8958</km>
+    <portas>4</portas>
+    <cor id="11">Prata</cor>
+    <combustivel id="5">Flex</combustivel>
+    <preco>R$ 69.990,00</preco>
+    <observacao><![CDATA[ CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
+Av. Caxangá, 4251, Várzea, Recife-PE
+
+Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
+Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
+    <cadastro>19/06/2020 12:06</cadastro>
+    <alteracao>19/06/2020 12:06</alteracao>
+    <complementos />
+    <opcionais>
+      <opcional id="54">Air bag</opcional>
+      <opcional id="6">Ar condicionado</opcional>
+      <opcional id="12">Bancos de couro</opcional>
+      <opcional id="19">Direção elétrica</opcional>
+      <opcional id="23">Freios ABS</opcional>
+      <opcional id="29">Retrovisores elétricos</opcional>
+      <opcional id="30">Rodas de liga leve</opcional>
+      <opcional id="71">Start / Stop Engine</opcional>
+      <opcional id="33">Teto solar</opcional>
+      <opcional id="36">Travas elétricas</opcional>
+      <opcional id="38">Vidros elétricos</opcional>
+    </opcionais>
+    <acessorios />
+    <fotos>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDL-6412_01.jpg?u=20200619120357</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDL-6412_02.jpg?u=20200619120359</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDL-6412_03.jpg?u=20200619120415</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDL-6412_04.jpg?u=20200619120421</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDL-6412_05.jpg?u=20200619120430</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDL-6412_06.jpg?u=20200619120437</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDL-6412_07.jpg?u=20200619120442</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDL-6412_08.jpg?u=20200619120450</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDL-6412_09.jpg?u=20200619120453</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDL-6412_10.jpg?u=20200619120501</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDL-6412_11.jpg?u=20200619120509</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDL-6412_12.jpg?u=20200619120521</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDL-6412_13.jpg?u=20200619120524</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDL-6412_14.jpg?u=20200619120534</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -1138,102 +916,30 @@ Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
     </loja>
   </veiculo>
   <veiculo>
-    <id>1382116</id>
+    <id>1392672</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PDV-6945</placa>
+    <placa>PDH-3257</placa>
     <marca id="23">CHEVROLET</marca>
     <modelo id="213"><![CDATA[ TRACKER ]]></modelo>
-    <versao id="8859"><![CDATA[ 1.4 16V Turbo Premier ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2017</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>59000</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 75.990,00</preco>
-    <observacao><![CDATA[ FOTOS EM BREVE!!!
-
-CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
-Av. Caxangá, 4251, Várzea, Recife-PE
-
-Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
-Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
-    <cadastro>08/05/2020 23:24</cadastro>
-    <alteracao>01/06/2020 16:37</alteracao>
-    <complementos />
-    <opcionais />
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-6945_01.jpg?u=20200508232359</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1117</id>
-      <nomefantasia>Caxangá Veículos</nomefantasia>
-      <cnpj>09.924.937/0001-28</cnpj>
-      <endereco>
-        <logradouro>Av. Caxanga</logradouro>
-        <numero>4251</numero>
-        <complemento>
-        </complemento>
-        <bairro>Varzea</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>50740-000</cep>
-      </endereco>
-      <contato>
-        <nome>Vivian</nome>
-        <email>seminovos@caxangaveiculos.com.br</email>
-        <telefone>(81) 2122-2099</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>https://caxangachevrolet.com.br/</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1353969</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PCT-9358</placa>
-    <marca id="23">CHEVROLET</marca>
-    <modelo id="213"><![CDATA[ TRACKER ]]></modelo>
-    <versao id="8859"><![CDATA[ 1.4 16V Turbo Premier ]]></versao>
+    <versao id="9515"><![CDATA[ 1.4 16V Turbo Midnight ]]></versao>
     <tipomotor>
     </tipomotor>
     <anofabricacao>2018</anofabricacao>
-    <anomodelo>2018</anomodelo>
+    <anomodelo>2019</anomodelo>
     <cambio id="1">Automático</cambio>
-    <km>31553</km>
+    <km>10966</km>
     <portas>4</portas>
-    <cor id="4">Branco</cor>
+    <cor id="12">Preto</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 75.990,00</preco>
-    <observacao><![CDATA[ CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
-Av. Caxangá, 4251, Várzea, Recife-PE
-
-Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
-Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
-    <cadastro>11/02/2020 14:30</cadastro>
-    <alteracao>01/06/2020 16:33</alteracao>
+    <preco>R$ 79.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
+    <cadastro>10/06/2020 16:49</cadastro>
+    <alteracao>20/06/2020 09:51</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
       <opcional id="6">Ar condicionado</opcional>
-      <opcional id="12">Bancos de couro</opcional>
       <opcional id="19">Direção elétrica</opcional>
       <opcional id="23">Freios ABS</opcional>
       <opcional id="29">Retrovisores elétricos</opcional>
@@ -1244,18 +950,22 @@ Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCT-9358_11.jpg?u=20200211143653</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCT-9358_13.jpg?u=20200211143655</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCT-9358_01.jpg?u=20200211143617</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCT-9358_02.jpg?u=20200211143618</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCT-9358_03.jpg?u=20200211143618</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCT-9358_04.jpg?u=20200211143621</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCT-9358_05.jpg?u=20200211143626</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCT-9358_06.jpg?u=20200211143627</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCT-9358_07.jpg?u=20200211143629</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCT-9358_08.jpg?u=20200211143638</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCT-9358_09.jpg?u=20200211143639</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCT-9358_10.jpg?u=20200211143649</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_01.jpg?u=20200610164438</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_02.jpg?u=20200610164440</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_03.jpg?u=20200610164441</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_04.jpg?u=20200610164447</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_05.jpg?u=20200610164449</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_06.jpg?u=20200610164832</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_07.jpg?u=20200610164836</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_08.jpg?u=20200610164839</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_09.jpg?u=20200610164845</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_10.jpg?u=20200610164849</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_11.jpg?u=20200610164851</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_12.jpg?u=20200610164853</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_13.jpg?u=20200610164854</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_14.jpg?u=20200610164855</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_15.jpg?u=20200610164856</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDH-3257_16.jpg?u=20200610164857</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -1379,93 +1089,6 @@ Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
     </loja>
   </veiculo>
   <veiculo>
-    <id>1364655</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDM-5280</placa>
-    <marca id="25">CITROËN</marca>
-    <modelo id="3967"><![CDATA[ C4 CACTUS ]]></modelo>
-    <versao id="9511"><![CDATA[ 1.6 VTI 120 Feel Eat6 ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2018</anofabricacao>
-    <anomodelo>2019</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>11213</km>
-    <portas>4</portas>
-    <cor id="12">Preto</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 67.990,00</preco>
-    <observacao><![CDATA[ CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
-Av. Caxangá, 4251, Várzea, Recife-PE
-
-Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
-Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
-    <cadastro>06/03/2020 11:14</cadastro>
-    <alteracao>04/05/2020 22:55</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="71">Start / Stop Engine</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-5280_12.jpg?u=20200306113417</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-5280_01.jpg?u=20200306111517</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-5280_13.jpg?u=20200306113420</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-5280_02.jpg?u=20200306111518</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-5280_14.jpg?u=20200306113425</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-5280_03.jpg?u=20200306113345</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-5280_04.jpg?u=20200306113347</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-5280_05.jpg?u=20200306113349</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-5280_06.jpg?u=20200306113356</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-5280_07.jpg?u=20200306113359</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-5280_08.jpg?u=20200306113400</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-5280_10.jpg?u=20200306113407</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-5280_09.jpg?u=20200306113407</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDM-5280_11.jpg?u=20200306113412</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1117</id>
-      <nomefantasia>Caxangá Veículos</nomefantasia>
-      <cnpj>09.924.937/0001-28</cnpj>
-      <endereco>
-        <logradouro>Av. Caxanga</logradouro>
-        <numero>4251</numero>
-        <complemento>
-        </complemento>
-        <bairro>Varzea</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>50740-000</cep>
-      </endereco>
-      <contato>
-        <nome>Vivian</nome>
-        <email>seminovos@caxangaveiculos.com.br</email>
-        <telefone>(81) 2122-2099</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>https://caxangachevrolet.com.br/</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
     <id>1337757</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
@@ -1490,13 +1113,13 @@ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, a
 Televendas: 81-2122-2013 / 81-2122-2014
 WhatsApp: 81-9.9624-7346  ]]></observacao>
     <cadastro>09/01/2020 10:22</cadastro>
-    <alteracao>02/05/2020 17:31</alteracao>
+    <alteracao>19/06/2020 09:30</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
       <opcional id="6">Ar condicionado</opcional>
       <opcional id="15">Computador de bordo</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
+      <opcional id="19">Direção elétrica</opcional>
       <opcional id="23">Freios ABS</opcional>
       <opcional id="29">Retrovisores elétricos</opcional>
       <opcional id="30">Rodas de liga leve</opcional>
@@ -1513,19 +1136,21 @@ WhatsApp: 81-9.9624-7346  ]]></observacao>
       <acessorio id="13">DVD Player</acessorio>
     </acessorios>
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_01.jpg?u=20200109102131</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_02.jpg?u=20200109102132</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_01.jpg?u=20200619092805</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_04.jpg?u=20200619092834</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_02.jpg?u=20200619092830</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_06.jpg?u=20200619092900</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_05.jpg?u=20200619092849</foto>
       <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_03.jpg?u=20200109102133</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_04.jpg?u=20200109102135</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_05.jpg?u=20200109102141</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_06.jpg?u=20200109102143</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_07.jpg?u=20200109102147</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_08.jpg?u=20200109102150</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_09.jpg?u=20200109102152</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_10.jpg?u=20200109102154</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_11.jpg?u=20200109102156</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_12.jpg?u=20200109102200</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_14.jpg?u=20200617173224</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_07.jpg?u=20200617173201</foto>
       <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_13.jpg?u=20200109102202</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_15.jpg?u=20200619092931</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_12.jpg?u=20200109102200</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_09.jpg?u=20200109102152</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_10.jpg?u=20200617173206</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_08.jpg?u=20200109102150</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDB-2009_11.jpg?u=20200109102156</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -1562,197 +1187,30 @@ WhatsApp: 81-9.9624-7346  ]]></observacao>
     </loja>
   </veiculo>
   <veiculo>
-    <id>1369615</id>
+    <id>1395906</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>PDG-6104</placa>
-    <marca id="39">FIAT</marca>
-    <modelo id="2261"><![CDATA[ GRAND SIENA ]]></modelo>
-    <versao id="8511"><![CDATA[ 1.0 EVO Attractive ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2018</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>31997</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 35.990,00</preco>
-    <observacao><![CDATA[ CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
-Av. Caxangá, 4251, Várzea, Recife-PE
-
-Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
-Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
-    <cadastro>17/03/2020 09:52</cadastro>
-    <alteracao>01/06/2020 16:20</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-6104_01.jpg?u=20200317095240</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-6104_02.jpg?u=20200317095242</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-6104_03.jpg?u=20200317095244</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-6104_05.jpg?u=20200317095258</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-6104_06.jpg?u=20200317095307</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-6104_07.jpg?u=20200317095308</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-6104_08.jpg?u=20200317095316</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-6104_04.jpg?u=20200317095251</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-6104_10.jpg?u=20200317095327</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-6104_11.jpg?u=20200317095335</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-6104_12.jpg?u=20200317095336</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-6104_13.jpg?u=20200317095343</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-6104_14.jpg?u=20200317095347</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-6104_15.jpg?u=20200317095351</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-6104_09.jpg?u=20200317095405</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1117</id>
-      <nomefantasia>Caxangá Veículos</nomefantasia>
-      <cnpj>09.924.937/0001-28</cnpj>
-      <endereco>
-        <logradouro>Av. Caxanga</logradouro>
-        <numero>4251</numero>
-        <complemento>
-        </complemento>
-        <bairro>Varzea</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>50740-000</cep>
-      </endereco>
-      <contato>
-        <nome>Vivian</nome>
-        <email>seminovos@caxangaveiculos.com.br</email>
-        <telefone>(81) 2122-2099</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>https://caxangachevrolet.com.br/</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1375148</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PCG-2580</placa>
-    <marca id="41">FORD</marca>
-    <modelo id="372"><![CDATA[ FIESTA ]]></modelo>
-    <versao id="2916"><![CDATA[ 1.5 SE Hatch 16V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2015</anofabricacao>
-    <anomodelo>2016</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>41197</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 33.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>08/04/2020 11:08</cadastro>
-    <alteracao>28/04/2020 02:32</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCG-2580_01.jpg?u=20200408110725</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCG-2580_02.jpg?u=20200408110729</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCG-2580_11.jpg?u=20200408110806</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCG-2580_10.jpg?u=20200408110803</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCG-2580_03.jpg?u=20200408110735</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCG-2580_04.jpg?u=20200408110741</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCG-2580_05.jpg?u=20200408110742</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCG-2580_06.jpg?u=20200408110748</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCG-2580_07.jpg?u=20200408110752</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCG-2580_08.jpg?u=20200408110754</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCG-2580_09.jpg?u=20200408110758</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCG-2580_12.jpg?u=20200408110807</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCG-2580_13.jpg?u=20200408110810</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1117</id>
-      <nomefantasia>Caxangá Veículos</nomefantasia>
-      <cnpj>09.924.937/0001-28</cnpj>
-      <endereco>
-        <logradouro>Av. Caxanga</logradouro>
-        <numero>4251</numero>
-        <complemento>
-        </complemento>
-        <bairro>Varzea</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>50740-000</cep>
-      </endereco>
-      <contato>
-        <nome>Vivian</nome>
-        <email>seminovos@caxangaveiculos.com.br</email>
-        <telefone>(81) 2122-2099</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>https://caxangachevrolet.com.br/</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1364874</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>OYY-7922</placa>
+    <placa>PZN-3929</placa>
     <marca id="41">FORD</marca>
     <modelo id="379"><![CDATA[ KA ]]></modelo>
-    <versao id="3025"><![CDATA[ 1.5 SE 16V ]]></versao>
+    <versao id="3020"><![CDATA[ 1.0 SE 12V ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2014</anofabricacao>
-    <anomodelo>2015</anomodelo>
+    <anofabricacao>2017</anofabricacao>
+    <anomodelo>2018</anomodelo>
     <cambio id="3">Manual</cambio>
-    <km>58355</km>
+    <km>24254</km>
     <portas>4</portas>
-    <cor id="12">Preto</cor>
+    <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 30.990,00</preco>
+    <preco>R$ 37.990,00</preco>
     <observacao><![CDATA[ CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
 Av. Caxangá, 4251, Várzea, Recife-PE
 
 Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
 Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
-    <cadastro>06/03/2020 15:46</cadastro>
-    <alteracao>28/04/2020 02:31</alteracao>
+    <cadastro>19/06/2020 12:33</cadastro>
+    <alteracao>20/06/2020 09:50</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -1764,18 +1222,7 @@ Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYY-7922_01.jpg?u=20200306154217</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYY-7922_02.jpg?u=20200306154218</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYY-7922_03.jpg?u=20200306154228</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYY-7922_04.jpg?u=20200306154230</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYY-7922_05.jpg?u=20200306154506</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYY-7922_06.jpg?u=20200306154507</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYY-7922_07.jpg?u=20200306154511</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYY-7922_08.jpg?u=20200306154513</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYY-7922_09.jpg?u=20200306154520</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYY-7922_10.jpg?u=20200306154522</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYY-7922_11.jpg?u=20200306154533</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYY-7922_12.jpg?u=20200306154535</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PZN-3929_01.jpg?u=20200619123033</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -1812,57 +1259,46 @@ Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
     </loja>
   </veiculo>
   <veiculo>
-    <id>1375248</id>
+    <id>1394450</id>
     <tipoveiculo>Carro</tipoveiculo>
     <zerokm>N</zerokm>
-    <placa>OYQ-9682</placa>
-    <marca id="48">HONDA</marca>
-    <modelo id="2019"><![CDATA[ CITY ]]></modelo>
-    <versao id="3448"><![CDATA[ 1.5 EX 16V ]]></versao>
+    <placa>PDV-4071</placa>
+    <marca id="50">HYUNDAI</marca>
+    <modelo id="2309"><![CDATA[ HB20X ]]></modelo>
+    <versao id="3598"><![CDATA[ 1.6 16V Style ]]></versao>
     <tipomotor>
     </tipomotor>
-    <anofabricacao>2014</anofabricacao>
-    <anomodelo>2015</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>47833</km>
+    <anofabricacao>2016</anofabricacao>
+    <anomodelo>2017</anomodelo>
+    <cambio id="3">Manual</cambio>
+    <km>51852</km>
     <portas>4</portas>
-    <cor id="6">Cinza</cor>
+    <cor id="4">Branco</cor>
     <combustivel id="5">Flex</combustivel>
-    <preco>R$ 46.990,00</preco>
-    <observacao><![CDATA[ CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
-Av. Caxangá, 4251, Várzea, Recife-PE
-
-Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
-Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
-    <cadastro>08/04/2020 14:52</cadastro>
-    <alteracao>01/06/2020 16:22</alteracao>
+    <preco>R$ 41.990,00</preco>
+    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
+    <cadastro>16/06/2020 11:06</cadastro>
+    <alteracao>19/06/2020 09:34</alteracao>
     <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="19">Direção elétrica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="29">Retrovisores elétricos</opcional>
-      <opcional id="30">Rodas de liga leve</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
+    <opcionais />
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYQ-9682_01.jpg?u=20200408145047</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYQ-9682_02.jpg?u=20200408145051</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYQ-9682_03.jpg?u=20200408145054</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYQ-9682_04.jpg?u=20200408145056</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYQ-9682_05.jpg?u=20200408145058</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYQ-9682_06.jpg?u=20200408145100</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYQ-9682_07.jpg?u=20200408145101</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYQ-9682_08.jpg?u=20200408145104</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYQ-9682_09.jpg?u=20200408145107</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYQ-9682_14.jpg?u=20200408145151</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYQ-9682_10.jpg?u=20200408145113</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYQ-9682_12.jpg?u=20200408145128</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYQ-9682_11.jpg?u=20200408145118</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/OYQ-9682_13.jpg?u=20200408145132</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_01.jpg?u=20200617155636</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_05.jpg?u=20200617155719</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_02.jpg?u=20200617155640</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_04.jpg?u=20200617155710</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_03.jpg?u=20200617155703</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_06.jpg?u=20200617155815</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_08.jpg?u=20200617155818</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_07.jpg?u=20200616105857</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_10.jpg?u=20200617155900</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_14.jpg?u=20200617155902</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_09.jpg?u=20200616105901</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_11.jpg?u=20200616105906</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_12.jpg?u=20200616105910</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_13.jpg?u=20200616105922</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_15.jpg?u=20200617155911</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDV-4071_16.jpg?u=20200617155918</foto>
     </fotos>
     <foto360>
       <exterior>
@@ -2105,7 +1541,7 @@ Av. Caxangá, 4251, Várzea, Recife-PE
 Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
 Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
     <cadastro>11/02/2020 16:56</cadastro>
-    <alteracao>18/05/2020 00:53</alteracao>
+    <alteracao>17/06/2020 17:19</alteracao>
     <complementos />
     <opcionais>
       <opcional id="54">Air bag</opcional>
@@ -2122,406 +1558,22 @@ Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
     </opcionais>
     <acessorios />
     <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_01.jpg?u=20200211165439</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_02.jpg?u=20200211165440</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_04.jpg?u=20200211165452</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_05.jpg?u=20200211165456</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_03.jpg?u=20200211165448</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_06.jpg?u=20200211165502</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_07.jpg?u=20200211165507</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_08.jpg?u=20200211165511</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_09.jpg?u=20200211165516</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_01.jpg?u=20200617171149</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_02.jpg?u=20200617171158</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_03.jpg?u=20200617171202</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_04.jpg?u=20200617171206</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_05.jpg?u=20200617171229</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_07.jpg?u=20200617171307</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_08.jpg?u=20200617171334</foto>
       <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_10.jpg?u=20200211165523</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_06.jpg?u=20200617171301</foto>
       <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_11.jpg?u=20200211165527</foto>
       <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_12.jpg?u=20200211165543</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_13.jpg?u=20200211165547</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_14.jpg?u=20200211165552</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_15.jpg?u=20200211165553</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1117</id>
-      <nomefantasia>Caxangá Veículos</nomefantasia>
-      <cnpj>09.924.937/0001-28</cnpj>
-      <endereco>
-        <logradouro>Av. Caxanga</logradouro>
-        <numero>4251</numero>
-        <complemento>
-        </complemento>
-        <bairro>Varzea</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>50740-000</cep>
-      </endereco>
-      <contato>
-        <nome>Vivian</nome>
-        <email>seminovos@caxangaveiculos.com.br</email>
-        <telefone>(81) 2122-2099</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>https://caxangachevrolet.com.br/</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1337662</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>QPF-1199</placa>
-    <marca id="89">RENAULT</marca>
-    <modelo id="839"><![CDATA[ LOGAN ]]></modelo>
-    <versao id="8468"><![CDATA[ 1.0 12V SCE Authentique ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2018</anofabricacao>
-    <anomodelo>2019</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>40790</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 34.990,00</preco>
-    <observacao><![CDATA[ CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
-Av. Caxangá, 4251, Várzea, Recife-PE
-
-Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
-Televendas: 81-2122-2013 / 81-2122-2014
-WhatsApp: 81-9.9624-7346  ]]></observacao>
-    <cadastro>08/01/2020 18:32</cadastro>
-    <alteracao>01/06/2020 16:19</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QPF-1199_01.jpg?u=20200108183122</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QPF-1199_06.jpg?u=20200108183137</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QPF-1199_07.jpg?u=20200108183137</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QPF-1199_08.jpg?u=20200108183139</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/QPF-1199_09.jpg?u=20200108183146</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1117</id>
-      <nomefantasia>Caxangá Veículos</nomefantasia>
-      <cnpj>09.924.937/0001-28</cnpj>
-      <endereco>
-        <logradouro>Av. Caxanga</logradouro>
-        <numero>4251</numero>
-        <complemento>
-        </complemento>
-        <bairro>Varzea</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>50740-000</cep>
-      </endereco>
-      <contato>
-        <nome>Vivian</nome>
-        <email>seminovos@caxangaveiculos.com.br</email>
-        <telefone>(81) 2122-2099</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>https://caxangachevrolet.com.br/</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1375151</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PCJ-8659</placa>
-    <marca id="89">RENAULT</marca>
-    <modelo id="839"><![CDATA[ LOGAN ]]></modelo>
-    <versao id="5691"><![CDATA[ 1.6 Expression 8V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2016</anofabricacao>
-    <anomodelo>2017</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>40274</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 33.990,00</preco>
-    <observacao><![CDATA[ Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.  ]]></observacao>
-    <cadastro>08/04/2020 11:13</cadastro>
-    <alteracao>02/05/2020 17:33</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCJ-8659_01.jpg?u=20200408111224</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCJ-8659_02.jpg?u=20200408111228</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCJ-8659_04.jpg?u=20200408111256</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCJ-8659_05.jpg?u=20200408111311</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCJ-8659_03.jpg?u=20200408111236</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1117</id>
-      <nomefantasia>Caxangá Veículos</nomefantasia>
-      <cnpj>09.924.937/0001-28</cnpj>
-      <endereco>
-        <logradouro>Av. Caxanga</logradouro>
-        <numero>4251</numero>
-        <complemento>
-        </complemento>
-        <bairro>Varzea</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>50740-000</cep>
-      </endereco>
-      <contato>
-        <nome>Vivian</nome>
-        <email>seminovos@caxangaveiculos.com.br</email>
-        <telefone>(81) 2122-2099</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>https://caxangachevrolet.com.br/</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1371180</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDG-8997</placa>
-    <marca id="89">RENAULT</marca>
-    <modelo id="842"><![CDATA[ SANDERO ]]></modelo>
-    <versao id="8470"><![CDATA[ 1.0 12V SCE Authentique ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2017</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>26000</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 31.990,00</preco>
-    <observacao><![CDATA[ CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
-Av. Caxangá, 4251, Várzea, Recife-PE
-
-Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
-Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
-    <cadastro>19/03/2020 14:51</cadastro>
-    <alteracao>11/05/2020 09:34</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="18">Desembaçador traseiro</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="24">Limpador traseiro</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-      <opcional id="1">Air bag do motorista</opcional>
-      <opcional id="2">Air bag do passageiro</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-8997_03.jpg?u=20200505154510</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-8997_02.jpg?u=20200505154445</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-8997_04.jpg?u=20200505154516</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-8997_05.jpg?u=20200505154711</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-8997_06.jpg?u=20200505154535</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-8997_07.jpg?u=20200505154545</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-8997_08.jpg?u=20200505154552</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-8997_09.jpg?u=20200505154603</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-8997_10.jpg?u=20200505154606</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-8997_11.jpg?u=20200505154614</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1117</id>
-      <nomefantasia>Caxangá Veículos</nomefantasia>
-      <cnpj>09.924.937/0001-28</cnpj>
-      <endereco>
-        <logradouro>Av. Caxanga</logradouro>
-        <numero>4251</numero>
-        <complemento>
-        </complemento>
-        <bairro>Varzea</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>50740-000</cep>
-      </endereco>
-      <contato>
-        <nome>Vivian</nome>
-        <email>seminovos@caxangaveiculos.com.br</email>
-        <telefone>(81) 2122-2099</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>https://caxangachevrolet.com.br/</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1382118</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PDF-0056</placa>
-    <marca id="107">TOYOTA</marca>
-    <modelo id="2296"><![CDATA[ ETIOS ]]></modelo>
-    <versao id="6255"><![CDATA[ 1.5 XLS Sedan 16V ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2017</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="1">Automático</cambio>
-    <km>36332</km>
-    <portas>4</portas>
-    <cor id="11">Prata</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 46.990,00</preco>
-    <observacao><![CDATA[ FOTOS EM BREVE!!!
-
-CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
-Av. Caxangá, 4251, Várzea, Recife-PE
-
-Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
-Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
-    <cadastro>08/05/2020 23:30</cadastro>
-    <alteracao>08/05/2020 23:30</alteracao>
-    <complementos />
-    <opcionais />
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDF-0056_01.jpg?u=20200508233002</foto>
-    </fotos>
-    <foto360>
-      <exterior>
-      </exterior>
-      <interior>
-      </interior>
-    </foto360>
-    <urlVideo>
-    </urlVideo>
-    <loja>
-      <id>1117</id>
-      <nomefantasia>Caxangá Veículos</nomefantasia>
-      <cnpj>09.924.937/0001-28</cnpj>
-      <endereco>
-        <logradouro>Av. Caxanga</logradouro>
-        <numero>4251</numero>
-        <complemento>
-        </complemento>
-        <bairro>Varzea</bairro>
-        <cidade>Recife</cidade>
-        <uf>PE</uf>
-        <cep>50740-000</cep>
-      </endereco>
-      <contato>
-        <nome>Vivian</nome>
-        <email>seminovos@caxangaveiculos.com.br</email>
-        <telefone>(81) 2122-2099</telefone>
-        <fax>
-        </fax>
-        <nextel>
-        </nextel>
-        <site>https://caxangachevrolet.com.br/</site>
-      </contato>
-    </loja>
-  </veiculo>
-  <veiculo>
-    <id>1371190</id>
-    <tipoveiculo>Carro</tipoveiculo>
-    <zerokm>N</zerokm>
-    <placa>PCZ-2046</placa>
-    <marca id="109">VOLKSWAGEN</marca>
-    <modelo id="934"><![CDATA[ GOL ]]></modelo>
-    <versao id="7912"><![CDATA[ 1.6 MSI Totalflex Trendline ]]></versao>
-    <tipomotor>
-    </tipomotor>
-    <anofabricacao>2017</anofabricacao>
-    <anomodelo>2018</anomodelo>
-    <cambio id="3">Manual</cambio>
-    <km>46000</km>
-    <portas>4</portas>
-    <cor id="4">Branco</cor>
-    <combustivel id="5">Flex</combustivel>
-    <preco>R$ 32.990,00</preco>
-    <observacao><![CDATA[ CAXANGÁ VEÍCULOS - ESPECIALISTA EM FAZER NEGÓCIOS
-Av. Caxangá, 4251, Várzea, Recife-PE
-
-Venha conferir! Temos a maior taxa de aprovação de financiamento do mercado, aceitamos todos os consórcios, facilitamos a entrada no cartão de crédito, entre em contato conosco e faça já a sua cotação.
-Televendas/ WhatsApp: 81-9.8777-2894/ 9.8199-6961  ]]></observacao>
-    <cadastro>19/03/2020 15:08</cadastro>
-    <alteracao>04/05/2020 23:02</alteracao>
-    <complementos />
-    <opcionais>
-      <opcional id="54">Air bag</opcional>
-      <opcional id="6">Ar condicionado</opcional>
-      <opcional id="20">Direção hidráulica</opcional>
-      <opcional id="23">Freios ABS</opcional>
-      <opcional id="36">Travas elétricas</opcional>
-      <opcional id="38">Vidros elétricos</opcional>
-    </opcionais>
-    <acessorios />
-    <fotos>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCZ-2046_01.jpg?u=20200406170512</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCZ-2046_02.jpg?u=20200406170518</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCZ-2046_03.jpg?u=20200406170526</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCZ-2046_04.jpg?u=20200406170532</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCZ-2046_05.jpg?u=20200406170538</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCZ-2046_06.jpg?u=20200406170543</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCZ-2046_07.jpg?u=20200406170549</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCZ-2046_08.jpg?u=20200406170554</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCZ-2046_09.jpg?u=20200406170601</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCZ-2046_10.jpg?u=20200406170609</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCZ-2046_11.jpg?u=20200406170614</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCZ-2046_12.jpg?u=20200406170620</foto>
-      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PCZ-2046_13.jpg?u=20200406170631</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_09.jpg?u=20200617171411</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_13.jpg?u=20200617171423</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_16.jpg?u=20200617171905</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_14.jpg?u=20200617171811</foto>
+      <foto>https://dsae.s3.amazonaws.com/09924937000128/Fotos/PDG-9060_15.jpg?u=20200617171827</foto>
     </fotos>
     <foto360>
       <exterior>
