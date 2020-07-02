@@ -49,9 +49,17 @@ module.exports = {
     merged.forEach((car) => {
       if (car.id) {
         let opcionais = "Sem opcionais";
+        let cambio = "OTHER";
         if (car.opcionais[0] !== "") {
           opcionais = car.opcionais[0].opcional.map((op) => op._).join(" | ");
         }
+
+        if (car.cambio[0]._ === "Manual") {
+          cambio = "MANUAL";
+        } else if (car.cambio[0]._ === "Automático") {
+          cambio = "AUTOMATIC";
+        }
+
         sanitizedCars.push({
           fb_page_id: "113324413735738",
           vehicle_id: car.id[0],
@@ -65,15 +73,15 @@ module.exports = {
           year: car.anomodelo[0],
           mileage: {
             value: car.km[0],
-            unit: "kms",
+            unit: "KM",
           },
           image: car.fotos[0].foto[0],
-          transmission: car.cambio[0]._,
-          body_style: car.versao[0]._,
-          drivetrain: "não informado",
+          transmission: cambio,
+          body_style: "NONE",
+          drivetrain: "Other",
           price: `${car.preco[0]} BRL`,
           exterior_color: car.cor[0]._,
-          state_of_vehicle: "Usado",
+          state_of_vehicle: "USED",
         });
       }
     });
