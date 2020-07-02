@@ -61,8 +61,7 @@ module.exports = {
         }
 
         sanitizedCars.push({
-          fb_page_id: "113324413735738",
-          vehicle_id: car.id[0],
+          vehicle_id: `${car.modelo[0]._.trim()}-${car.id[0]}`,
           title: `${car.marca[0]._} ${car.modelo[0]._} ${car.versao[0]._}`,
           description: opcionais,
           url: `http://grupoautonunes.com/veiculo/${car.modelo[0]._.trim()}-${
@@ -74,6 +73,13 @@ module.exports = {
           mileage: {
             value: car.km[0],
             unit: "KM",
+          },
+          address: {
+            component: [
+              car.loja[0].endereco[0].cidade[0],
+              "Pernambuco",
+              "Brasil",
+            ],
           },
           image: car.fotos[0].foto[0],
           transmission: cambio,
