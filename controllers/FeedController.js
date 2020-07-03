@@ -61,7 +61,7 @@ module.exports = {
         }
 
         sanitizedCars.push({
-          fb_page_id: "113324413735738",
+          fb_page_id: "110667224041697",
           vehicle_id: `${car.modelo[0]._.trim()}-${car.id[0]}`,
           title: `${car.marca[0]._} ${car.modelo[0]._} ${car.versao[0]._}`,
           description: opcionais,
@@ -93,7 +93,9 @@ module.exports = {
       }
     });
 
-    console.log(merged.length);
+    sanitizedCars.forEach((car) => {
+      console.log(car.vehicle_id);
+    });
 
     var xmlRes = js2xmlparser.parse("listing", sanitizedCars);
     xmlRes = xmlRes.replace(
