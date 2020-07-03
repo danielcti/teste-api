@@ -96,7 +96,7 @@ module.exports = {
     var xmlRes = js2xmlparser.parse("listing", sanitizedCars);
     xmlRes = xmlRes.replace(
       "<?xml version='1.0'?>\n<listing>",
-      "<?xml version='1.0' encoding='UTF-8'?>\n<listings>\n<title>Grupo Autonunes Feed</title>\n<link rel='self' href='http://grupoautonunes.com' />"
+      "<?xml version='1.0' encoding='UTF-8'?>\n<listings>\n<title>Grupo Autonunes Feed</title>\n<link rel='self' href='https://grupoautonunes.com' />"
     );
 
     xmlRes = xmlRes.replace(
