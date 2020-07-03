@@ -61,10 +61,11 @@ module.exports = {
         }
 
         sanitizedCars.push({
+          fb_page_id: "113324413735738",
           vehicle_id: `${car.modelo[0]._.trim()}-${car.id[0]}`,
           title: `${car.marca[0]._} ${car.modelo[0]._} ${car.versao[0]._}`,
           description: opcionais,
-          url: `http://grupoautonunes.com/veiculo/${car.modelo[0]._.trim()}-${
+          url: `https://grupoautonunes.com/veiculo/${car.modelo[0]._.trim()}-${
             car.id[0]
           }`,
           make: car.marca[0]._,
@@ -89,6 +90,16 @@ module.exports = {
           exterior_color: car.cor[0]._,
           state_of_vehicle: "USED",
         });
+      }
+    });
+
+    var ids = [];
+
+    sanitizedCars.forEach((car) => {
+      if (!ids.includes(car.vehicle_id)) {
+        ids.push(car.vehicle_id);
+        console.log("duplo");
+      } else {
       }
     });
 
