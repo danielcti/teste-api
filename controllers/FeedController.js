@@ -97,7 +97,7 @@ module.exports = {
     //   console.log(car.vehicle_id);
     // });
 
-    console.log(sanitizedCars.length, merger.length);
+    console.log(sanitizedCars.length, merged.length);
 
     var xmlRes = js2xmlparser.parse("listing", sanitizedCars);
     xmlRes = xmlRes.replace(
