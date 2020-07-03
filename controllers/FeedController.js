@@ -93,16 +93,6 @@ module.exports = {
       }
     });
 
-    var ids = [];
-
-    sanitizedCars.forEach((car) => {
-      if (!ids.includes(car.vehicle_id)) {
-        ids.push(car.vehicle_id);
-        console.log("duplo");
-      } else {
-      }
-    });
-
     var xmlRes = js2xmlparser.parse("listing", sanitizedCars);
     xmlRes = xmlRes.replace(
       "<?xml version='1.0'?>\n<listing>",
