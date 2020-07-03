@@ -93,9 +93,11 @@ module.exports = {
       }
     });
 
-    sanitizedCars.forEach((car) => {
-      console.log(car.vehicle_id);
-    });
+    // sanitizedCars.forEach((car) => {
+    //   console.log(car.vehicle_id);
+    // });
+
+    console.log(sanitizedCars.length, merger.length);
 
     var xmlRes = js2xmlparser.parse("listing", sanitizedCars);
     xmlRes = xmlRes.replace(
