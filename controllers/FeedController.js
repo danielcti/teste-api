@@ -93,11 +93,15 @@ module.exports = {
       }
     });
 
-    // sanitizedCars.forEach((car) => {
-    //   console.log(car.vehicle_id);
-    // });
+    let ids = [];
 
-    // console.log(sanitizedCars.length, merged.length);
+    sanitizedCars.forEach((car) => {
+      if (!ids.includes(car.vehicle_id)) {
+        ids.push(car.vehicle_id);
+      } else {
+        console.log("duble");
+      }
+    });
 
     var xmlRes = js2xmlparser.parse("listing", sanitizedCars);
     xmlRes = xmlRes.replace(
@@ -109,7 +113,6 @@ module.exports = {
       "</listing>\n</listing>",
       "</listing>\n</listings>"
     );
-    console.log(xmlRes.length);
     res.type("application/xml");
     res.send(xmlRes);
   },
