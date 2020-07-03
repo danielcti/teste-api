@@ -97,7 +97,7 @@ module.exports = {
     //   console.log(car.vehicle_id);
     // });
 
-    console.log(sanitizedCars.length, merged.length);
+    // console.log(sanitizedCars.length, merged.length);
 
     var xmlRes = js2xmlparser.parse("listing", sanitizedCars);
     xmlRes = xmlRes.replace(
@@ -109,7 +109,7 @@ module.exports = {
       "</listing>\n</listing>",
       "</listing>\n</listings>"
     );
-
+    console.log(xmlRes.length);
     res.type("application/xml");
     res.send(xmlRes);
   },
