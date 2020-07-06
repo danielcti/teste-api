@@ -98,10 +98,10 @@ module.exports = {
     sanitizedCars.forEach((car) => {
       if (!ids.includes(car.vehicle_id)) {
         ids.push(car.vehicle_id);
-      } else {
-        console.log("duble");
       }
     });
+
+    console.log(ids.length);
 
     var xmlRes = js2xmlparser.parse("listing", sanitizedCars);
     xmlRes = xmlRes.replace(
