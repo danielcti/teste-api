@@ -20,7 +20,7 @@
     "node-cron": "^2.0.3",
     "promisify": "0.0.3",
     "rss": "^1.2.2",
-    "underscore": "^1.10.2",
+    "underscore": "^1.12.1",
     "xml": "^1.0.1",
     "xml2js": "^0.4.23"
   },
